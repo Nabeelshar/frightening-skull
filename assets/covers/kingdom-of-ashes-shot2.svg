@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="338" viewBox="0 0 600 338" role="img" aria-label="Kingdom of Ashes — Placeholder screenshot 2">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8c4a2f"/><stop offset="1" stop-color="#2b1a12"/></linearGradient></defs>
+<rect width="600" height="338" fill="url(#g)"/>
+<circle cx="480" cy="70" r="90" fill="#ffffff" opacity="0.08"/>
+<circle cx="80" cy="280" r="120" fill="#ffffff" opacity="0.06"/>
+<text x="300" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="96" font-weight="bold" fill="#ffffff" opacity="0.9">KO</text>
+<text x="300" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#c7d5e0">Kingdom of Ashes</text>
+<text x="300" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#8f98a3">Placeholder screenshot 2</text>
+</svg>

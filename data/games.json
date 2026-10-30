@@ -6,7 +6,7 @@
     "developer": "Northlight Games",
     "status": "Ongoing",
     "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac",
+    "os": "Windows, Android, Linux, Mac",
     "language": "English",
     "release": "2025-11-14",
     "updated": "2026-10-28",
@@ -15,9 +15,18 @@
     "genres": [
       "Visual Novel",
       "Adventure",
-      "2DCG"
+      "2DCG",
+      "2D Game",
+      "Dating Sim",
+      "Romance",
+      "Drama",
+      "Multiple Endings",
+      "Harem",
+      "Animated"
     ],
-    "overview": "A new student arrives at a remote academy built beneath a fallen star, and the school's quiet routines start to unravel. Build friendships, uncover the academy's old secret, and choose which side of it you stand on."
+    "overview": "A new student arrives at a remote academy built beneath a fallen star, and the school's quiet routines start to unravel. Build friendships, uncover the academy's old secret, and choose which side of it you stand on.",
+    "size": "820 MB",
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)"
   },
   {
     "slug": "kingdom-of-ashes",
@@ -26,7 +35,7 @@
     "developer": "Emberworks Studio",
     "status": "Completed",
     "engine": "Unity",
-    "os": "Windows, Linux, Mac",
+    "os": "Windows, Android, Linux, Mac",
     "language": "English",
     "release": "2024-06-02",
     "updated": "2026-09-19",
@@ -35,9 +44,17 @@
     "genres": [
       "RPG",
       "Fantasy",
-      "Adventure"
+      "Adventure",
+      "3D Game",
+      "3DCG",
+      "Strategy",
+      "Management",
+      "Multiple Endings",
+      "Male Protagonist"
     ],
-    "overview": "The ember crown has burned out and the kingdom's provinces are choosing new rulers. Lead a small band across a war-scarred realm, forge alliances, and decide what rises from the ashes."
+    "overview": "The ember crown has burned out and the kingdom's provinces are choosing new rulers. Lead a small band across a war-scarred realm, forge alliances, and decide what rises from the ashes.",
+    "size": "1.4 GB",
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)"
   },
   {
     "slug": "neon-horizon",
@@ -46,7 +63,7 @@
     "developer": "Pixel Drift",
     "status": "Ongoing",
     "engine": "Godot",
-    "os": "Windows, Linux",
+    "os": "Windows, Android, Linux",
     "language": "English",
     "release": "2026-01-20",
     "updated": "2026-10-27",
@@ -55,9 +72,16 @@
     "genres": [
       "Sci-Fi",
       "Adventure",
-      "2DCG"
+      "2DCG",
+      "2D Game",
+      "Sandbox",
+      "Simulation",
+      "Comedy",
+      "Animated"
     ],
-    "overview": "A courier pilot takes one last contract across a neon-lit orbital ring \u2014 and the cargo turns out to be a person. Outrun patrols, pick your clients, and keep your ship flying."
+    "overview": "A courier pilot takes one last contract across a neon-lit orbital ring \u2014 and the cargo turns out to be a person. Outrun patrols, pick your clients, and keep your ship flying.",
+    "size": "960 MB",
+    "format": "ZIP (Windows / Linux) \u00b7 APK (Android)"
   },
   {
     "slug": "echoes-of-tomorrow",
@@ -66,7 +90,7 @@
     "developer": "Lantern Fox",
     "status": "Ongoing",
     "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac",
+    "os": "Windows, Android, Linux, Mac",
     "language": "English",
     "release": "2025-08-08",
     "updated": "2026-10-29",
@@ -75,9 +99,16 @@
     "genres": [
       "Visual Novel",
       "Sci-Fi",
-      "AI CG"
+      "AI CG",
+      "2D Game",
+      "Drama",
+      "Multiple Endings",
+      "Romance",
+      "Animated"
     ],
-    "overview": "A time-loop archivist wakes up on the same morning for the forty-first time. Each loop leaves a new message behind \u2014 and someone else in the city is looping too."
+    "overview": "A time-loop archivist wakes up on the same morning for the forty-first time. Each loop leaves a new message behind \u2014 and someone else in the city is looping too.",
+    "size": "1.1 GB",
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)"
   },
   {
     "slug": "emberfall-chronicles",
@@ -86,7 +117,7 @@
     "developer": "Ashen Quill",
     "status": "Ongoing",
     "engine": "RPG Maker",
-    "os": "Windows, Mac",
+    "os": "Windows, Android, Mac",
     "language": "English",
     "release": "2026-03-11",
     "updated": "2026-10-21",
@@ -95,9 +126,16 @@
     "genres": [
       "RPG",
       "Fantasy",
-      "Adventure"
+      "Adventure",
+      "2D Game",
+      "Sandbox",
+      "Simulation",
+      "Management",
+      "Comedy"
     ],
-    "overview": "When the ember falls, the old roads wake. Guide a cartographer mapping a kingdom that rearranges itself each season, and chart what no one else has survived to draw."
+    "overview": "When the ember falls, the old roads wake. Guide a cartographer mapping a kingdom that rearranges itself each season, and chart what no one else has survived to draw.",
+    "size": "640 MB",
+    "format": "ZIP (Windows / Mac) \u00b7 APK (Android)"
   },
   {
     "slug": "voidrunner-protocol",
@@ -106,7 +144,7 @@
     "developer": "Orbital Nine",
     "status": "Completed",
     "engine": "Unreal",
-    "os": "Windows, Linux",
+    "os": "Windows, Android, Linux",
     "language": "English",
     "release": "2025-02-17",
     "updated": "2026-08-30",
@@ -115,9 +153,17 @@
     "genres": [
       "Sci-Fi",
       "Roguelike",
-      "AI CG"
+      "AI CG",
+      "3D Game",
+      "3DCG",
+      "Strategy",
+      "Sandbox",
+      "Simulation",
+      "Male Protagonist"
     ],
-    "overview": "Pilot a salvage runner through dead stations on the edge of known space. Every run reshuffles the wrecks, the hazards, and the things still living inside them."
+    "overview": "Pilot a salvage runner through dead stations on the edge of known space. Every run reshuffles the wrecks, the hazards, and the things still living inside them.",
+    "size": "2.1 GB",
+    "format": "ZIP (Windows / Linux) \u00b7 APK (Android)"
   },
   {
     "slug": "lanterns-of-the-deep",
@@ -126,7 +172,7 @@
     "developer": "Tidepool Interactive",
     "status": "On Hold",
     "engine": "Godot",
-    "os": "Windows",
+    "os": "Windows, Android",
     "language": "English",
     "release": "2025-12-05",
     "updated": "2026-07-12",
@@ -135,9 +181,15 @@
     "genres": [
       "Horror",
       "Adventure",
-      "2DCG"
+      "2DCG",
+      "2D Game",
+      "Drama",
+      "Female Protagonist",
+      "Animated"
     ],
-    "overview": "A lighthouse keeper's daughter rows out to relight the dark lanterns of a drowned town. Something down there keeps the lights for itself."
+    "overview": "A lighthouse keeper's daughter rows out to relight the dark lanterns of a drowned town. Something down there keeps the lights for itself.",
+    "size": "480 MB",
+    "format": "ZIP (Windows) \u00b7 APK (Android)"
   },
   {
     "slug": "ashenvale-pact",
@@ -146,7 +198,7 @@
     "developer": "Moss & Ember",
     "status": "Ongoing",
     "engine": "Unity",
-    "os": "Windows, Linux, Mac",
+    "os": "Windows, Android, Linux, Mac",
     "language": "English",
     "release": "2026-05-24",
     "updated": "2026-10-26",
@@ -155,8 +207,14 @@
     "genres": [
       "Fantasy",
       "Roguelike",
-      "Turn Based Combat"
+      "Turn Based Combat",
+      "3D Game",
+      "3DCG",
+      "Strategy",
+      "Management"
     ],
-    "overview": "Sign a pact with the Ashenvale and lead a warband through a forest that fights back. Turn-based battles, shifting terrain, and a bargain that grows more expensive every chapter."
+    "overview": "Sign a pact with the Ashenvale and lead a warband through a forest that fights back. Turn-based battles, shifting terrain, and a bargain that grows more expensive every chapter.",
+    "size": "1.8 GB",
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)"
   }
 ]

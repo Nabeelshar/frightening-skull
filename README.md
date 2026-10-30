@@ -3,8 +3,19 @@
 Static mirror of the GameVault games catalog (artifact `f95zone-clone`).
 Steam-style dark-blue storefront, **no pricing, no cart, no discount badges**.
 Game posts are F95-style: title [version] [developer], date, short overview,
-and genre/tags (2DCG, Adventure, AI CG, 3DCG, RPG, Roguelike, Fantasy, Sci-Fi,
-Visual Novel, Horror, Turn Based Combat).
+and genre/tags (2DCG, 3DCG, 2D Game, 3D Game, Adventure, AI CG, Animated, Comedy,
+Dating Sim, Drama, Fantasy, Female Protagonist, Harem, Horror, Male Protagonist,
+Management, Multiple Endings, Romance, RPG, Sandbox, Sci-Fi, Simulation, Strategy,
+Turn Based Combat, Visual Novel).
+
+Each game page has a full info block (Thread Updated, Release Date, Developer,
+Version, OS — Windows and Android plus Linux/Mac where listed — Language, Engine,
+Status, Rating, Genre line, overview, changelog, placeholder screenshots) and a
+Demo Download section (OS badges, version, file size as demo metadata, format).
+No game files are hosted here: GitHub blocks single files over 100 MB and
+recommends repos / Pages sites under 1 GB, and most games are hundreds of MB to
+several GB. The download link field is a placeholder for the owner's own link.
+Cover art is generated placeholder SVG (gradient + title initials) in assets/covers/.
 
 ## What is in here
 
