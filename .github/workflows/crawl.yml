@@ -1,0 +1,31 @@
+name: Crawl f95zone.to.it
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: pip install -r crawl/requirements.txt
+      - name: Crawl homepage page 1 (first 11 titles) and regenerate site
+        run: python crawl/crawl.py
+      - name: Regenerate site
+        run: python scripts/generate.py --out .
+      - name: Commit and push if anything changed
+        run: |
+          git config user.name 'GameVault Crawler'
+          git config user.email 'crawler@gamevault.local'
+          git add -A
+          git diff --cached --quiet || git commit -m 'Crawl f95zone.to.it: update catalog (MAX_PAGES=1, MAX_POSTS=11)'
+          git push

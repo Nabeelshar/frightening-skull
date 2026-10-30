@@ -16,7 +16,7 @@ Download section with external mirror links, F95-style: per OS
 DATANODES, WORKUPLOAD — each host a separate external link button. No files
 are hosted here and no mirror URLs are invented; each link field is to be
 filled from the post.
-Cover art is generated placeholder SVG (gradient + title initials) in assets/covers/.
+Cover art for demo games is generated placeholder SVG (gradient + title initials) in assets/covers/. Real entries use the cover hotlinked from their source post.
 
 ## What is in here
 
@@ -32,17 +32,19 @@ Cover art is generated placeholder SVG (gradient + title initials) in assets/cov
  - The 8 catalog games are **original demo listings** written for this site
   (Starfall Academy, Kingdom of Ashes, Neon Horizon, Echoes of Tomorrow,
   Emberfall Chronicles, Voidrunner Protocol, Lanterns of the Deep, Ashenvale Pact).
-- One real entry: **Pinked And Owned [v0.5] [PinkedAndOwned]** — title, version,
-  developer, update date (2026-10-16) and OS (Windows, Android, Linux, Mac)
-  taken from its post at https://f95zone.to.it/pinked-and-owned-v0-2-4-1-pinkedandowned/
-  (see `crawl/crawl-2026-10-30.md`). Overview is a short paraphrase, size is
-  approx. ~300 MB for the artwork bundle as noted in the post's changelog, no
-  description, images, changelog text or download links were copied.
-- The "Spotted on f95zone.to.it" list on the home page is **metadata only**
-  (title, version, developer, date, non-explicit genre tags), spotted on the
-  public https://f95zone.to.it/ homepage on 2026-10-30. See `crawl/crawl-2026-10-30.md`.
-- No files are hosted here, nothing is for sale, and no download links exist
-  anywhere on this site.
+- Real entries: added by **crawl/crawl.py** from f95zone.to.it post pages
+  (see `data/crawled.json` for the raw crawl output). The first is
+  **Pinked And Owned [v0.5] [PinkedAndOwned]**
+  (https://f95zone.to.it/pinked-and-owned-v0-2-4-1-pinkedandowned/).
+  The crawler fetches title/version/developer/dates/OS/size clues/genre,
+  overview, changelog, cover + gallery image URLs (hotlinked only) and
+  download mirror host names + hrefs per OS from the post HTML. No files
+  are hosted, no mirror URLs are invented.
+- The "Crawled from f95zone.to.it" list on the home page is built from the
+  catalog entries added by the crawler (first 11 titles on the homepage
+  page 1, with the Pinked and Owned seed as the 11th). See `data/crawled.json`.
+- No files are hosted here and nothing is for sale. Download sections link
+  out to external mirrors listed on the source posts; no mirror URL is invented.
 
 ## Live site
 

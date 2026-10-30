@@ -3,7 +3,10 @@
     "slug": "starfall-academy",
     "title": "Starfall Academy",
     "version": "0.8.2",
+    "version_full": "",
     "developer": "Northlight Games",
+    "developer_links": [],
+    "installation": [],
     "status": "Ongoing",
     "engine": "Ren'Py",
     "os": "Windows, Android, Linux, Mac",
@@ -26,13 +29,61 @@
     ],
     "overview": "A new student arrives at a remote academy built beneath a fallen star, and the school's quiet routines start to unravel. Build friendships, uncover the academy's old secret, and choose which side of it you stand on.",
     "size": "820 MB",
-    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)"
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)",
+    "changelog": [
+      [
+        "v0.8.2",
+        [
+          "New evening route with two endings",
+          "Added gallery scene for chapter 7",
+          "Fixed save files failing to load after chapter 6"
+        ]
+      ],
+      [
+        "v0.8.0",
+        [
+          "Chapter 7 released",
+          "Reworked the library event chain",
+          "New background art for the observatory"
+        ]
+      ]
+    ],
+    "faq": [
+      [
+        "Is Starfall Academy finished?",
+        "No \u2014 it is in active development at version 0.8.2, with new chapters released every few weeks."
+      ],
+      [
+        "What engine does it use?",
+        "Ren'Py, and it runs on Windows, Linux and Mac."
+      ]
+    ],
+    "reviews_list": [
+      [
+        "LanternReader",
+        5,
+        "Slow start, but chapter 7 pays off. The academy mystery is genuinely well written."
+      ],
+      [
+        "quietfox",
+        4,
+        "Good art and a likeable cast. Waiting on the next chapter already."
+      ]
+    ],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {},
+    "source_url": "",
+    "censored": ""
   },
   {
     "slug": "kingdom-of-ashes",
     "title": "Kingdom of Ashes",
     "version": "1.0",
+    "version_full": "",
     "developer": "Emberworks Studio",
+    "developer_links": [],
+    "installation": [],
     "status": "Completed",
     "engine": "Unity",
     "os": "Windows, Android, Linux, Mac",
@@ -54,13 +105,60 @@
     ],
     "overview": "The ember crown has burned out and the kingdom's provinces are choosing new rulers. Lead a small band across a war-scarred realm, forge alliances, and decide what rises from the ashes.",
     "size": "1.4 GB",
-    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)"
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)",
+    "changelog": [
+      [
+        "v1.0",
+        [
+          "Final chapter and true ending added",
+          "New game+ mode with carried-over relics",
+          "Full balance pass on the last two regions"
+        ]
+      ],
+      [
+        "v0.9",
+        [
+          "Epilogue scenes for every companion",
+          "Fixed the Ashen Gate soft-lock"
+        ]
+      ]
+    ],
+    "faq": [
+      [
+        "Is Kingdom of Ashes finished?",
+        "Yes \u2014 version 1.0 is the complete game, including the true ending and new game+ mode."
+      ],
+      [
+        "How long is it?",
+        "A first playthrough takes roughly 25\u201330 hours."
+      ]
+    ],
+    "reviews_list": [
+      [
+        "emberfan",
+        5,
+        "A complete, polished RPG. The companion endings alone are worth the playthrough."
+      ],
+      [
+        "mapmaker",
+        5,
+        "Best worldbuilding in the catalog. Every province feels distinct."
+      ]
+    ],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {},
+    "source_url": "",
+    "censored": ""
   },
   {
     "slug": "neon-horizon",
     "title": "Neon Horizon",
     "version": "0.6.1",
+    "version_full": "",
     "developer": "Pixel Drift",
+    "developer_links": [],
+    "installation": [],
     "status": "Ongoing",
     "engine": "Godot",
     "os": "Windows, Android, Linux",
@@ -81,13 +179,60 @@
     ],
     "overview": "A courier pilot takes one last contract across a neon-lit orbital ring \u2014 and the cargo turns out to be a person. Outrun patrols, pick your clients, and keep your ship flying.",
     "size": "960 MB",
-    "format": "ZIP (Windows / Linux) \u00b7 APK (Android)"
+    "format": "ZIP (Windows / Linux) \u00b7 APK (Android)",
+    "changelog": [
+      [
+        "v0.6.1",
+        [
+          "New dockside district with three side jobs",
+          "Improved controller support",
+          "Fixed cargo missions failing on reload"
+        ]
+      ],
+      [
+        "v0.6.0",
+        [
+          "Ring sector 4 opened",
+          "New ship upgrade: ion shielding"
+        ]
+      ]
+    ],
+    "faq": [
+      [
+        "Is Neon Horizon finished?",
+        "Not yet \u2014 it is at version 0.6.1 with new sectors still being added."
+      ],
+      [
+        "Does it work on Linux?",
+        "Yes, Windows and Linux builds are both provided."
+      ]
+    ],
+    "reviews_list": [
+      [
+        "driftking",
+        4,
+        "Great sense of speed and a fun courier loop. A few rough edges in the new sector."
+      ],
+      [
+        "novapilot",
+        5,
+        "The orbital ring is a fantastic setting. Soundtrack is excellent too."
+      ]
+    ],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {},
+    "source_url": "",
+    "censored": ""
   },
   {
     "slug": "echoes-of-tomorrow",
     "title": "Echoes of Tomorrow",
     "version": "0.9.3",
+    "version_full": "",
     "developer": "Lantern Fox",
+    "developer_links": [],
+    "installation": [],
     "status": "Ongoing",
     "engine": "Ren'Py",
     "os": "Windows, Android, Linux, Mac",
@@ -108,13 +253,60 @@
     ],
     "overview": "A time-loop archivist wakes up on the same morning for the forty-first time. Each loop leaves a new message behind \u2014 and someone else in the city is looping too.",
     "size": "1.1 GB",
-    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)"
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)",
+    "changelog": [
+      [
+        "v0.9.3",
+        [
+          "Loop 41 route completed",
+          "Added codex entries for the second looper",
+          "Fixed a loop-counter bug on day 12"
+        ]
+      ],
+      [
+        "v0.9.0",
+        [
+          "New ending branch: break the loop",
+          "Reworked the archive puzzle"
+        ]
+      ]
+    ],
+    "faq": [
+      [
+        "Is Echoes of Tomorrow finished?",
+        "Almost \u2014 version 0.9.3 is the penultimate release, with the finale in progress."
+      ],
+      [
+        "What does AI CG mean here?",
+        "Some of the game's artwork was produced with AI-assisted tools; it is listed as a tag so players know."
+      ]
+    ],
+    "reviews_list": [
+      [
+        "looper",
+        5,
+        "The time-loop mystery is tightly plotted. Every loop recontextualises the last."
+      ],
+      [
+        "archivist",
+        4,
+        "Clever structure and strong writing. Hoping the finale lands."
+      ]
+    ],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {},
+    "source_url": "",
+    "censored": ""
   },
   {
     "slug": "emberfall-chronicles",
     "title": "Emberfall Chronicles",
     "version": "0.4.0",
+    "version_full": "",
     "developer": "Ashen Quill",
+    "developer_links": [],
+    "installation": [],
     "status": "Ongoing",
     "engine": "RPG Maker",
     "os": "Windows, Android, Mac",
@@ -135,13 +327,53 @@
     ],
     "overview": "When the ember falls, the old roads wake. Guide a cartographer mapping a kingdom that rearranges itself each season, and chart what no one else has survived to draw.",
     "size": "640 MB",
-    "format": "ZIP (Windows / Mac) \u00b7 APK (Android)"
+    "format": "ZIP (Windows / Mac) \u00b7 APK (Android)",
+    "changelog": [
+      [
+        "v0.4.0",
+        [
+          "Autumn region opened with a new town",
+          "Added the seasonal road-shifting mechanic",
+          "Fixed fast-travel breaking after chapter 3"
+        ]
+      ]
+    ],
+    "faq": [
+      [
+        "Is Emberfall Chronicles finished?",
+        "No \u2014 it is at version 0.4.0 and updated regularly."
+      ],
+      [
+        "What engine does it use?",
+        "RPG Maker, on Windows and Mac."
+      ]
+    ],
+    "reviews_list": [
+      [
+        "cartographer",
+        4,
+        "Charming old-school RPG. The shifting-roads idea is a neat hook."
+      ],
+      [
+        "quillfan",
+        4,
+        "Relaxing pace, good music, and the autumn region looks lovely."
+      ]
+    ],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {},
+    "source_url": "",
+    "censored": ""
   },
   {
     "slug": "voidrunner-protocol",
     "title": "Voidrunner Protocol",
     "version": "1.2.0",
+    "version_full": "",
     "developer": "Orbital Nine",
+    "developer_links": [],
+    "installation": [],
     "status": "Completed",
     "engine": "Unreal",
     "os": "Windows, Android, Linux",
@@ -163,13 +395,59 @@
     ],
     "overview": "Pilot a salvage runner through dead stations on the edge of known space. Every run reshuffles the wrecks, the hazards, and the things still living inside them.",
     "size": "2.1 GB",
-    "format": "ZIP (Windows / Linux) \u00b7 APK (Android)"
+    "format": "ZIP (Windows / Linux) \u00b7 APK (Android)",
+    "changelog": [
+      [
+        "v1.2.0",
+        [
+          "Final balance pass and hard mode",
+          "New wreck type: the reliquary station",
+          "Fixed salvage scoring on failed runs"
+        ]
+      ],
+      [
+        "v1.0",
+        [
+          "Full release: 12 wreck types, 3 endings"
+        ]
+      ]
+    ],
+    "faq": [
+      [
+        "Is Voidrunner Protocol finished?",
+        "Yes \u2014 version 1.2.0 is the complete game, including hard mode."
+      ],
+      [
+        "Is every run different?",
+        "Yes, wrecks, hazards and loot are reshuffled each run."
+      ]
+    ],
+    "reviews_list": [
+      [
+        "salvager",
+        5,
+        "Tense, replayable, and fair. Hard mode is a real test."
+      ],
+      [
+        "voidwalker",
+        4,
+        "Great atmosphere. Runs stay fresh for a long time."
+      ]
+    ],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {},
+    "source_url": "",
+    "censored": ""
   },
   {
     "slug": "lanterns-of-the-deep",
     "title": "Lanterns of the Deep",
     "version": "0.3.5",
+    "version_full": "",
     "developer": "Tidepool Interactive",
+    "developer_links": [],
+    "installation": [],
     "status": "On Hold",
     "engine": "Godot",
     "os": "Windows, Android",
@@ -189,13 +467,53 @@
     ],
     "overview": "A lighthouse keeper's daughter rows out to relight the dark lanterns of a drowned town. Something down there keeps the lights for itself.",
     "size": "480 MB",
-    "format": "ZIP (Windows) \u00b7 APK (Android)"
+    "format": "ZIP (Windows) \u00b7 APK (Android)",
+    "changelog": [
+      [
+        "v0.3.5",
+        [
+          "Second lantern route added",
+          "New ambient audio for the drowned streets",
+          "Fixed the rowboat getting stuck at the pier"
+        ]
+      ]
+    ],
+    "faq": [
+      [
+        "Is Lanterns of the Deep still being updated?",
+        "It is currently on hold at version 0.3.5 \u2014 the developer has paused work on it."
+      ],
+      [
+        "Is it scary?",
+        "It is a slow, atmospheric horror game rather than a jump-scare game."
+      ]
+    ],
+    "reviews_list": [
+      [
+        "deepdiver",
+        4,
+        "Wonderfully eerie. The drowned town is unforgettable."
+      ],
+      [
+        "lanternkeeper",
+        4,
+        "Short so far, but the mood is perfect. Hope it resumes."
+      ]
+    ],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {},
+    "source_url": "",
+    "censored": ""
   },
   {
     "slug": "ashenvale-pact",
     "title": "Ashenvale Pact",
     "version": "0.7.0",
+    "version_full": "",
     "developer": "Moss & Ember",
+    "developer_links": [],
+    "installation": [],
     "status": "Ongoing",
     "engine": "Unity",
     "os": "Windows, Android, Linux, Mac",
@@ -215,30 +533,1409 @@
     ],
     "overview": "Sign a pact with the Ashenvale and lead a warband through a forest that fights back. Turn-based battles, shifting terrain, and a bargain that grows more expensive every chapter.",
     "size": "1.8 GB",
-    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)"
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)",
+    "changelog": [
+      [
+        "v0.7.0",
+        [
+          "New pact tier with two warband abilities",
+          "Forest terrain now shifts mid-battle",
+          "Fixed pact costs not scaling after chapter 4"
+        ]
+      ],
+      [
+        "v0.6.0",
+        [
+          "Warband camp system added",
+          "New enemy: the hollow dryad"
+        ]
+      ]
+    ],
+    "faq": [
+      [
+        "Is Ashenvale Pact finished?",
+        "No \u2014 it is at version 0.7.0 with more pact tiers planned."
+      ],
+      [
+        "How does combat work?",
+        "Turn-based, position-based battles with terrain that changes during the fight."
+      ]
+    ],
+    "reviews_list": [
+      [
+        "pactmaker",
+        5,
+        "The pact system is a brilliant risk-reward hook. Combat stays fresh."
+      ],
+      [
+        "forestwalker",
+        4,
+        "Tough but fair. The shifting terrain keeps every battle tense."
+      ]
+    ],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {},
+    "source_url": "",
+    "censored": ""
   },
   {
-    "slug": "pinked-and-owned",
-    "title": "Pinked And Owned",
-    "version": "0.5",
-    "developer": "PinkedAndOwned",
+    "slug": "bangmon-v0-2-1-bangdevmon",
+    "title": "BangMon",
+    "version": "v0.2.1",
+    "version_full": "0.2.1",
+    "developer": "BangDevMon",
+    "developer_links": [
+      [
+        "BangDevMon",
+        "https://f95zone.to/members/bangdevmon.234789/"
+      ],
+      [
+        "Patreon",
+        "https://www.patreon.com/cw/BangDevMon"
+      ],
+      [
+        "Itch.io",
+        "https://bangdevmon.itch.io/bangmon"
+      ],
+      [
+        "Discord",
+        "https://discord.gg/jPTMvMEj34"
+      ]
+    ],
+    "installation": [
+      "1. Download the rar file and extract.",
+      "2. Open the html file to launch it in your browser, or drag and drop the html file into your browser."
+    ],
     "status": "Ongoing",
     "engine": "HTML",
-    "os": "Windows, Android, Linux, Mac",
+    "os": "Windows, Linux, Mac",
     "language": "English",
-    "release": "\u2014",
+    "release": "2026-10-09",
+    "updated": "2026-10-29",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "2D Game",
+      "2DCG",
+      "AI CG",
+      "Corruption",
+      "Harem",
+      "Male Protagonist",
+      "HTML"
+    ],
+    "overview": "BangMon is an NSFW monster girl-focused trainer game where you take on the role of a silent protagonist traveling through the world of BangMon. You have to catch all of them! Catch them, battle with them, form deep \u201cbonds\u201d, and enjoy plenty of \u201cscenes\u201d. Gameplay is mixed with NSWF content, battles, story, and exploration.",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 HTML (browser)",
+    "changelog": [
+      [
+        "Update 0.2.1:",
+        [
+          "Added 3 NSFW Scenes",
+          "Added 3 Bangmon Variants (Basically the same Bangmon with a different element, an aesthetic change, and it\u2019s own NSFW capture scene)",
+          "The 3 new variants will spawn in specific weather",
+          "Gave the 3 Starters 1 Halloween Witch themed Skins each",
+          "Gave the Route 3 Bangmon several Halloween Witch themed Skins",
+          "Added Special Outfit Shop NPC on route 3",
+          "Added Weather and Special Weather Spawns (Activates once you progress the story past said area)",
+          "Added Skin Applicator Items (You can get some skins as a Single Use Item and apply them to viable Bangmon, you can swap between that Bangmon\u2019s skins in their status screen)",
+          "Added BangDex Feature where it shows you spawn rates and locations of Bangmon and their Skins",
+          "Gave Tall Grass Objects animations (it\u2019s connected to the animations on/off switch)",
+          "Added an Intensive Animations On/Off Switch under Options",
+          "Added framework for a few new systems I\u2019m going to add soon such as Intrinsic Skills"
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/07/6308286_BangMon_TitleBanner2.webp",
+    "screenshots": [
+      "https://f95zone.to.it/wp-content/uploads/2026/09/6512893_Preview_Collection1.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6649619_Preview_NewBangMons_MindGoblinBeeDestroyer.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6649621_Preview_NewBangMons_Area3.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/09/6512895_Preview_NewBangMons_SlimeCoral.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/09/6512894_Preview_IntimacyScenes_DroneAndMinnnow.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6649622_Preview_Screenshot_ScarletBJ.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/07/6308179_1_1_1_Pose_1_1.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/07/6308181_3_1_1_Pose_1_1.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/07/6308180_2_1_1_Pose_1_1.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/07/6308120_Screenshot_2026-06-01_143000.webp"
+    ],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/21099596/?k=7be221a0bd38&h=mega.nz"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://f95zone.to/dl/21099596/?k=c84dae3cc805&h=www.mediafire.com"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/21099596/?k=3243d52f42f4&h=datanodes.to"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/21099596/?k=4a3241dd84f9&h=pixeldrain.com"
+        }
+      ],
+      "Linux": [],
+      "Mac": []
+    },
+    "source_url": "https://f95zone.to.it/bangmon-v0-2-1-bangdevmon/",
+    "censored": "No"
+  },
+  {
+    "slug": "facefuck-madness-reloaded-v0-19-mercurydev",
+    "title": "Facefuck Madness Reloaded",
+    "version": "v0.19",
+    "version_full": "0.19",
+    "developer": "MercuryDev",
+    "developer_links": [
+      [
+        "MercuryDev",
+        "https://f95zone.to/members/mercurydev.3147222/"
+      ],
+      [
+        "Patreon",
+        "https://www.patreon.com/mercurydev"
+      ],
+      [
+        "Boosty",
+        "https://boosty.to/mercurydev"
+      ],
+      [
+        "Itch.io",
+        "https://mercurydeveloper.itch.io/"
+      ],
+      [
+        "Discord",
+        "https://discord.gg/hQwMPjyfsD"
+      ],
+      [
+        "Website",
+        "https://mercurydev.org"
+      ]
+    ],
+    "installation": [
+      "1. Extract and run."
+    ],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English, Russian",
+    "release": "2026-10-29",
+    "updated": "2026-10-29",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "2D Game",
+      "2DCG",
+      "Animated",
+      "Dating Sim",
+      "Harem",
+      "Male Protagonist",
+      "Management",
+      "RPG",
+      "Sandbox"
+    ],
+    "overview": "In Facefuck Madness Reloaded you take the role of a former porn actor. The ancient magic now possesses your body, and it calls you to spread it across town, allowing women\u2019s minds to be open for craziest, filthiest sex in their lives! Build your own harem of willing fucksluts and be the ultimate champion of sex. Also, while being oral-centered, the game features a variety of different kinks, including vaginal and anal sex, of course; no hole will be left unfilled!",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)",
+    "changelog": [
+      [
+        "v0.19",
+        [
+          "Anastasia\u2019s capture scene has been redrawn and reanimated from scratch and looks about 468% better now",
+          "Added a new item to the mall \u2013 a TV",
+          "Added a new repeatable (with some text variations) scene with Michelle, which increases your stats (pronebone)",
+          "Expanded the wardrobe functionality: the new Michelle scene supports multiple lingerie options",
+          "Added the second regular commission (now you need to seek a blonde under 25 on Teender, triggers a unique scene and pays money)",
+          "Added a new random encounter: Chanel, an ice-cold old-money European who wants to be degraded on her own schedule",
+          "Added 5 new outfits for Teender NPCs",
+          "Added an auto-triggering one-time short memo regarding mini-games",
+          "Fixed a tiny amount of bugs and typos",
+          "Successfully adapted to Live2D as the main tool for animation from this point onwards",
+          "Swapped the static image in Anastasia\u2019s chess scene for a newly a crafted animation",
+          "Added a procedurally generating repeatable version of the said scene, allows increase your int once every week",
+          "Added a new scene with Charlotte \u2014 going to the movies",
+          "Added a proced. gen. version of the said scene, allows to increase your art",
+          "Completely revisited the prologue, every entry in the main storyline, and each of the harem girls\u2019 capture scenes"
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "https://f95zone.to.it/wp-content/uploads/2024/07/3843433_FACEFUCK_MADNESS_1.webp",
+    "screenshots": [
+      "https://f95zone.to.it/wp-content/uploads/2026/03/5884528_ffmr2.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6649462_prologue-cumshot.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/07/6264037_capture-cumshot.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/05/5886833_pool-1774709628194.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/07/6264039_road-cumshot.webp",
+      "https://f95zone.to.it/wp-content/uploads/2025/06/4990474_sigma-cumshot.webp",
+      "https://f95zone.to.it/wp-content/uploads/2025/06/4990394_lingerie-cumshot.webp",
+      "https://f95zone.to.it/wp-content/uploads/2025/06/4990385_club-cumshot.webp",
+      "https://f95zone.to.it/wp-content/uploads/2025/06/4990393_basketball-cumshot.webp",
+      "https://f95zone.to.it/wp-content/uploads/2025/06/4990398_capture-cumshot.webp"
+    ],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/14247062/?k=291568b30d10&h=gofile.io"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/14247062/?k=c299555b86fd&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/14247062/?k=5b9c9ccd5b14&h=pixeldrain.com"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/14247062/?k=0ab5bb3239d9&h=datanodes.to"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/14247062/?k=291568b30d10&h=gofile.io"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/14247062/?k=c299555b86fd&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/14247062/?k=5b9c9ccd5b14&h=pixeldrain.com"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/14247062/?k=0ab5bb3239d9&h=datanodes.to"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/14247062/?k=013d22458cee&h=gofile.io"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/14247062/?k=e517c611bb67&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/14247062/?k=c8ace57cde73&h=pixeldrain.com"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/14247062/?k=355e5f34d4c4&h=datanodes.to"
+        }
+      ],
+      "Android": [
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/14247062/?k=7a99648ff742&h=gofile.io"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/14247062/?k=2c2e85facc5a&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/14247062/?k=ff2b7d22c23d&h=pixeldrain.com"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/14247062/?k=0c9f55fa0d1d&h=datanodes.to"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/facefuck-madness-reloaded-v0-19-mercurydev/",
+    "censored": "No"
+  },
+  {
+    "slug": "femboy-behind-bars-demo-immoral-studios",
+    "title": "Femboy Behind Bars",
+    "version": "demo",
+    "version_full": "demo",
+    "developer": "Immoral Studios",
+    "developer_links": [
+      [
+        "itch.io",
+        "https://immoralstudios.itch.io"
+      ],
+      [
+        "Patreon",
+        "https://www.patreon.com/cw/HornyJailStudio"
+      ],
+      [
+        "Discord",
+        "https://discord.gg/hJBjPdssF5"
+      ]
+    ],
+    "installation": [
+      "1. Extract and run."
+    ],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Mac, Linux, Android",
+    "language": "English",
+    "release": "2026-10-29",
+    "updated": "2026-10-29",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "2DCG",
+      "AI CG",
+      "Animated",
+      "Male Protagonist",
+      "Romance",
+      "Sandbox"
+    ],
+    "overview": "Cell 168, top bunk. The plan was simple: keep your head down, owe nobody, serve the time. Then a guard shoves a new cellmate through the door, \u2018as agreed\u2019, and the plan has about a week left. Your new cellmate is Sky, a blond with freckles who answers one word at a time and draws in a notebook he keeps closed. Brody runs the block and wants Sky moved to his tier. The guard can make the paperwork go away, once, for sixty cigarettes you don\u2019t have.",
+    "size": "",
+    "format": "ZIP (Windows / Mac / Linux) \u00b7 APK (Android)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/10/6649556_1793301173744.webp",
+    "screenshots": [
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6649547_ss-1.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6649548_ss-2.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6649549_ss-3.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6649550_ss-4.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6649551_ss-5.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6649552_ss-6.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6649553_ss-7.webp"
+    ],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/22065420/?k=a8fc61203b7e&h=datanodes.to"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/22065420/?k=d3b793270fb5&h=gofile.io"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/22065420/?k=8055ae19d7d1&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/22065420/?k=1101208e4a2b&h=pixeldrain.com"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/22065420/?k=42a5f7338bff&h=workupload.com"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/22065420/?k=a8fc61203b7e&h=datanodes.to"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/22065420/?k=d3b793270fb5&h=gofile.io"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/22065420/?k=8055ae19d7d1&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/22065420/?k=1101208e4a2b&h=pixeldrain.com"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/22065420/?k=42a5f7338bff&h=workupload.com"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/22065420/?k=9874e71d8df2&h=datanodes.to"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/22065420/?k=3152a4f9cc37&h=gofile.io"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/22065420/?k=0b4b919a18e7&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/22065420/?k=75948ac2874b&h=pixeldrain.com"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/22065420/?k=5e094044570f&h=workupload.com"
+        }
+      ],
+      "Android": [
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/22065420/?k=8d276c5800bd&h=datanodes.to"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/22065420/?k=053faf474ea4&h=gofile.io"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/22065420/?k=6d9d643dc07d&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/22065420/?k=81e1025aa07a&h=pixeldrain.com"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/22065420/?k=86da09e4c775&h=workupload.com"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/femboy-behind-bars-demo-immoral-studios/",
+    "censored": "No"
+  },
+  {
+    "slug": "chance-encounter-v0-2-5-sorrow",
+    "title": "Chance Encounter",
+    "version": "v0.2.5",
+    "version_full": "0.2.5",
+    "developer": "Sorrow",
+    "developer_links": [
+      [
+        "Sorrow",
+        "https://f95zone.to/members/sorrow_cg.29919/"
+      ]
+    ],
+    "installation": [
+      "1. Extract and run."
+    ],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac",
+    "language": "English",
+    "release": "2026-10-29",
+    "updated": "2026-10-29",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "3DCG",
+      "Animated",
+      "Corruption",
+      "Fantasy",
+      "Female Protagonist",
+      "Male Protagonist",
+      "Transformation"
+    ],
+    "overview": "Stuff is already crunched and compressed for your convenience.",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac)",
+    "changelog": [
+      [
+        "v0.2.5",
+        [
+          "Codex with character stats and images",
+          "Rudimentary Inventory",
+          "Questbook still in the works",
+          "Overhaul of character classes",
+          "Story done until the second night at home, still have to do more choices and outcomes of the players decisions."
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "https://f95zone.to.it/wp-content/uploads/2025/03/4641043_f95.webp",
+    "screenshots": [
+      "https://f95zone.to.it/wp-content/uploads/2025/03/4641180_chance_screen_4.webp",
+      "https://f95zone.to.it/wp-content/uploads/2025/03/4641181_chance_screen_1.webp",
+      "https://f95zone.to.it/wp-content/uploads/2025/03/4641182_chance_screen_6.webp",
+      "https://f95zone.to.it/wp-content/uploads/2025/03/4641183_chance_screen_5.webp",
+      "https://f95zone.to.it/wp-content/uploads/2025/03/4641184_chance_screen_3.webp",
+      "https://f95zone.to.it/wp-content/uploads/2025/03/4641185_chance_screen_2.webp"
+    ],
+    "mirrors": {
+      "Linux": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/16364717/?k=0aa6fe0df1d9&h=bzzhr.to"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/16364717/?k=148143170f99&h=datanodes.to"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/16364717/?k=bef4047544c4&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/16364717/?k=88fa72028dab&h=pixeldrain.com"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/16364717/?k=4b2cdfee5d2c&h=workupload.com"
+        }
+      ],
+      "Windows": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/16364717/?k=0aa6fe0df1d9&h=bzzhr.to"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/16364717/?k=148143170f99&h=datanodes.to"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/16364717/?k=bef4047544c4&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/16364717/?k=88fa72028dab&h=pixeldrain.com"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/16364717/?k=4b2cdfee5d2c&h=workupload.com"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/16364717/?k=a50e236038d8&h=bzzhr.to"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/16364717/?k=dfa7b3e482c4&h=datanodes.to"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/16364717/?k=22d5187d5942&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/16364717/?k=3c1ce3836f28&h=pixeldrain.com"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/16364717/?k=4455fb147ec9&h=workupload.com"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/chance-encounter-v0-2-5-sorrow/",
+    "censored": "No"
+  },
+  {
+    "slug": "forbidden-dungeon-v0-5-dark-forge-studios",
+    "title": "Forbidden Dungeon",
+    "version": "v0.5",
+    "version_full": "0.5",
+    "developer": "Dark Forge Studios",
+    "developer_links": [
+      [
+        "Dark Forge Studios",
+        "https://f95zone.to/members/darkforgestudios.8763878/"
+      ],
+      [
+        "Patreon",
+        "https://www.patreon.com/forbiddendungeon"
+      ],
+      [
+        "SubscribeStar",
+        "https://subscribestar.adult/dark-forge-studios"
+      ],
+      [
+        "Itch.io",
+        "https://darkforgestudios.itch.io/forbidden-dungeon"
+      ]
+    ],
+    "installation": [
+      "1. Extract and run."
+    ],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English",
+    "release": "2026-10-29",
+    "updated": "2026-10-29",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "2DCG",
+      "AI CG",
+      "Animated",
+      "Corruption",
+      "Fantasy",
+      "Harem",
+      "Male Protagonist",
+      "RPG",
+      "Turn Based Combat"
+    ],
+    "overview": "Overview: A Roguelike Lewd Adventure Inspired by Darkest Dungeon, Solo Leveling, and the Darker Corners of Lust Forbidden Dungeon is a lewd roguelike dungeon crawler \u2014 all while plunging deep into dark desires, twisted fates, and the blurred line between heroism and hedonism. It\u2019s a world where corruption isn\u2019t just a force\u2026 it\u2019s a temptation.",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)",
+    "changelog": [
+      [
+        "v0.5",
+        []
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "https://f95zone.to.it/wp-content/uploads/2025/03/4668316_21jp8A.webp",
+    "screenshots": [
+      "https://f95zone.to.it/wp-content/uploads/2026/02/5425826_respitesexdeepthroatcrusader1-ezgif.com-video-to-gif-converter_2.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/02/5425829_respitesexdoggystyle2-ezgif.com-video-to-gif-converter_1.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/09/6517787_rogue2-ezgif.com-video-to-gif-converter.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/09/6517788_crusader3-ezgif.com-video-to-gif-converter.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/09/6517799_Novo_Projeto_51.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/09/6517800_Novo_Projeto_50.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/09/6517801_Novo_Projeto_49.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/09/6517780_Novo_Projeto_48.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/09/6517781_Novo_Projeto_47.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/09/6517784_Novo_Projeto_44.webp"
+    ],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/16443645/?k=fc385bf8b38b&h=pixeldrain.com"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/16443645/?k=ec157ba0e580&h=mega.nz"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/16443645/?k=c847df5a361d&h=workupload.com"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/16443645/?k=fc385bf8b38b&h=pixeldrain.com"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/16443645/?k=ec157ba0e580&h=mega.nz"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/16443645/?k=c847df5a361d&h=workupload.com"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/16443645/?k=f2119a9893de&h=pixeldrain.com"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/16443645/?k=2e7c7b87e910&h=mega.nz"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/16443645/?k=e7f3cfaec2da&h=workupload.com"
+        }
+      ],
+      "Android": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/16443645/?k=fc385bf8b38b&h=pixeldrain.com"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/16443645/?k=382348dd0105&h=mega.nz"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/16443645/?k=3d01b3128789&h=datanodes.to"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/forbidden-dungeon-v0-5-dark-forge-studios/",
+    "censored": "No"
+  },
+  {
+    "slug": "house-rules-v1-0-demo-pink-lace-games",
+    "title": "House Rules",
+    "version": "v1.0 Demo",
+    "version_full": "1.0 Demo (Chapters 1-2 of 12)",
+    "developer": "Pink Lace Games",
+    "developer_links": [
+      [
+        "Patreon",
+        "https://www.patreon.com/cw/PinkLaceGames"
+      ],
+      [
+        "Itch.io",
+        "https://pinklacegames.itch.io/house-rules"
+      ]
+    ],
+    "installation": [
+      "1. Extract and run.",
+      "Windows: HouseRulesDemo.exe. Linux: HouseRulesDemo.sh.",
+      "Mac: HouseRulesDemo.app. The app isn\u2019t signed by Apple, so the first time, right-click it and choose Open."
+    ],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac",
+    "language": "English",
+    "release": "2026-10-27",
+    "updated": "2026-10-29",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "2DCG",
+      "AI CG",
+      "Animated",
+      "Dating Sim",
+      "Harem",
+      "Male Protagonist",
+      "Romance",
+      "Sandbox"
+    ],
+    "overview": "You\u2019ve just inherited an apartment complex, but you have to keep it occupied or lose it. Soon you\u2019re overrun with beautiful tenants, each with their own agenda. Meanwhile, a sleazy developer is undermining you at every turn. You must save the building, set the rules\u2026 and find out which rules are worth breaking!",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac)",
+    "changelog": [
+      [
+        "v1.0 Demo Release",
+        []
+      ],
+      [
+        "Changelog",
+        [
+          "A free-roam map. Every morning, afternoon and evening you choose where to go and who to talk to.",
+          "Seven love interests.",
+          "Choices matter. who you spend time with, and how you treat them, determines how the storyline branches out. There are 9 endings.",
+          "Full game: 12 chapters, 384 CGs and 74 animations.",
+          "This demo: chapters 1 and 2, with 80 CGs and 7 animations."
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/10/6645194_banner.webp",
+    "screenshots": [
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6645229_thumb1.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6645250_thumb2.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6645251_thumb3.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6645252_thumb4.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6645253_thumb5.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6645254_thumb6.webp"
+    ],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/22053063/?k=b1693ba0e410&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/22053063/?k=d1e96a094360&h=pixeldrain.com"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/22053063/?k=36d5a1b955b0&h=gofile.io"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/22053063/?k=681c50a27837&h=datanodes.to"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/22053063/?k=b8a0025767e3&h=workupload.com"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/22053063/?k=b1693ba0e410&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/22053063/?k=d1e96a094360&h=pixeldrain.com"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/22053063/?k=36d5a1b955b0&h=gofile.io"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/22053063/?k=681c50a27837&h=datanodes.to"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/22053063/?k=b8a0025767e3&h=workupload.com"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/22053063/?k=55db3528741f&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/22053063/?k=7fa3e70f486e&h=pixeldrain.com"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/22053063/?k=8cf6bc1f405a&h=gofile.io"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/22053063/?k=5632be56e0e0&h=datanodes.to"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/22053063/?k=134c48b2a58c&h=workupload.com"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/house-rules-v1-0-demo-pink-lace-games/",
+    "censored": "No"
+  },
+  {
+    "slug": "the-hollow-hunt-v1-0-thehollowhunt",
+    "title": "The Hollow Hunt",
+    "version": "v1.0",
+    "version_full": "1.0",
+    "developer": "TheHollowHunt",
+    "developer_links": [
+      [
+        "TheHollowHunt",
+        "https://f95zone.to/members/thehollowhunt.12059697/"
+      ]
+    ],
+    "installation": [
+      "1. Extract and run Game.exe."
+    ],
+    "status": "Ongoing",
+    "engine": "RPGM",
+    "os": "Windows",
+    "language": "English, Turkish, Russian, French, Spanish, Japanese, Portuguese",
+    "release": "2026-10-29",
+    "updated": "2026-10-29",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "2D Game",
+      "2DCG",
+      "Adventure",
+      "AI CG",
+      "Corruption",
+      "Fantasy",
+      "Horror",
+      "Male Protagonist",
+      "RPG",
+      "Turn Based Combat"
+    ],
+    "overview": "Vellmoor is a poor village on the edge of the Black Forest, ruled by the cold and harsh Baron Ostric. Young women are disappearing, and a killer with a lantern walks the woods at night. Teodric is a former clerk, a fearful man haunted by his past. His wife Liva is the opposite: a forester\u2019s daughter, brave, sharp with a sword, and the most beautiful woman in the village. Every man in Vellmoor has his eyes on her, and many don\u2019t hide it. When the Baron sends them to hunt the killer, he gives them a third companion: Lucan, the best sword in the village and its worst character. In front of Teodric he plays the loyal friend. The moment Teodric looks away, the mask comes off. Dark medieval mystery and horror, with a card-based battle system.",
+    "size": "",
+    "format": "ZIP (Windows)",
+    "changelog": [
+      [
+        "v1.0",
+        []
+      ],
+      [
+        "Changelog",
+        [
+          "Translations were made with AI help. If you see a mistake, please report it.",
+          "On Android the game can be played with JoiPlay.",
+          "Language can be changed in Options."
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/10/6647187_cover.webp",
+    "screenshots": [
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6647192_01_village.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6647193_02_forest.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6647195_03_battle.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6647196_04_lucan.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6647198_06_manor.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6647200_05_night5.webp"
+    ],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/22058851/?k=bf84f4205c4a&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/22058851/?k=61853b7f709d&h=pixeldrain.com"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/22058851/?k=245ae98b7468&h=workupload.com"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/22058851/?k=6e340a9ffef8&h=bzzhr.to"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/22058851/?k=312661e922a2&h=datanodes.to"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/the-hollow-hunt-v1-0-thehollowhunt/",
+    "censored": "No"
+  },
+  {
+    "slug": "the-well-keeper-v1-00-ntrman",
+    "title": "The Well Keeper",
+    "version": "v1.00",
+    "version_full": "1.00",
+    "developer": "NTRMAN",
+    "developer_links": [
+      [
+        "Patreon",
+        "https://www.patreon.com/ntrman/posts"
+      ],
+      [
+        "Fanbox",
+        "https://ntrman.fanbox.cc/"
+      ],
+      [
+        "Twitter",
+        "https://twitter.com/kosu900"
+      ]
+    ],
+    "installation": [
+      "1. Extract and run."
+    ],
+    "status": "Ongoing",
+    "engine": "Completed",
+    "os": "Windows",
+    "language": "English",
+    "release": "2026-10-29",
+    "updated": "2026-10-29",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "2DCG",
+      "Animated",
+      "Male Protagonist"
+    ],
+    "overview": "The \u201cPlot\u201d for this one, was honestly made after the prototype was done. my only true goal was like \u201cHmm, I want a large titty hime-cut priestess get obliterated by slightly demonic looking humans with ritual tattoos scattered around their body while her husband and asst. priest gets stomped on the sideline\u201d",
+    "size": "",
+    "format": "ZIP (Windows)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/10/6645166_twitter-gif-2111419565855150093_-_frame_at_0m0s.webp",
+    "screenshots": [
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6645150_Screenshot_2026-10-28_082633.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6640435_Screenshot_2026-10-26_191835.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6640439_Screenshot_2026-10-26_191857.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6640441_Screenshot_2026-10-26_191909.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6640821_Screenshot_2026-10-26_191931.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6640824_Screenshot_2026-10-26_192145.webp"
+    ],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/22063047/?k=ac54d17077ad&h=gofile.io"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/22063047/?k=06ba4080b84a&h=pixeldrain.com"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/22063047/?k=df584e365467&h=mega.nz"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://f95zone.to/dl/22063047/?k=ae06be6f06e4&h=www.mediafire.com"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/22063047/?k=b0ba75f63e24&h=datanodes.to"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/22063047/?k=29e487e88029&h=workupload.com"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/the-well-keeper-v1-00-ntrman/",
+    "censored": "No"
+  },
+  {
+    "slug": "unspoken-v0-1-lowlight-dev",
+    "title": "Unspoken",
+    "version": "v0.1",
+    "version_full": "0.1",
+    "developer": "Lowlight Dev",
+    "developer_links": [
+      [
+        "Lowlight Dev",
+        "https://f95zone.to/members/lowlight-dev.6412238/"
+      ]
+    ],
+    "installation": [
+      "1. Extract and run."
+    ],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English, [French, Italian, Portuguese, Spanish, Japanese, Russian, Korean, and Simplified Chinese](Chat GPT)",
+    "release": "2026-10-22",
+    "updated": "2026-10-29",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "3DCG",
+      "Corruption",
+      "Female Protagonist",
+      "Male Protagonist",
+      "Romance"
+    ],
+    "overview": "Rent is late. The wedding is on hold. Adam lost his job.Then a photo of Mia catches the attention of some people. And a man from her past, calls with an offer. To be an influencer. And then things started to change. You play Adam. You don\u2019t decide what Mia does. You only decide who comes home to you.",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)",
+    "changelog": [
+      [
+        "v0.1",
+        [
+          "365+ Renders",
+          "10+ Animations"
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/10/6646469_fcov.webp",
+    "screenshots": [
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6646561_c1s1_004.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6646563_c1s1_029.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6646571_c1s8_040.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6646564_c1s3_030.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6646566_c1s3_084.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6646568_c1s4b_005.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6646569_c1s6_031.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/10/6646570_c1s8_029.webp"
+    ],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/22056865/?k=3edb883e2ee7&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/22056865/?k=33ea8b7a300e&h=pixeldrain.com"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/22056865/?k=1c1bdd314dbb&h=workupload.com"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/22056865/?k=3edb883e2ee7&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/22056865/?k=33ea8b7a300e&h=pixeldrain.com"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/22056865/?k=1c1bdd314dbb&h=workupload.com"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/22056865/?k=181d81f021b4&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/22056865/?k=b4cd88694514&h=pixeldrain.com"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/22056865/?k=9267a4d2e693&h=workupload.com"
+        }
+      ],
+      "Android": [
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/22056865/?k=e96f71775053&h=mega.nz"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/22056865/?k=431b64b6d970&h=pixeldrain.com"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://f95zone.to/dl/22056865/?k=9c1a54ae21be&h=workupload.com"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/unspoken-v0-1-lowlight-dev/",
+    "censored": "No"
+  },
+  {
+    "slug": "8-weeks-v0-3-1-fromplutoguy",
+    "title": "8 Weeks",
+    "version": "v0.3.1",
+    "version_full": "0.3.1",
+    "developer": "FromPlutoGuy",
+    "developer_links": [
+      [
+        "FromPlutoGuy",
+        "https://f95zone.to/members/fromplutoguy.9605734/"
+      ],
+      [
+        "Itch.io",
+        "https://fromplutoguy.itch.io/8-weeks"
+      ],
+      [
+        "Patreon",
+        "https://patreon.com/FromPlutoGuy"
+      ]
+    ],
+    "installation": [
+      "1. Extract and run."
+    ],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac",
+    "language": "English",
+    "release": "2026-10-29",
+    "updated": "2026-10-29",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "3DCG",
+      "Harem",
+      "Male Protagonist",
+      "Romance"
+    ],
+    "overview": "Overview: 8 Weeks is a visual novel about returning home after years away and trying to start over. Back in your hometown, you reconnect with people from your past and meet new ones, while your brother\u2019s problems slowly begin to become your own. Every woman you meet has her own personality, past, and secrets waiting to be discovered. Each one has something to reveal. Your choices shape the relationships you build with the women around you, changing how they see you and how close they let you get.",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac)",
+    "changelog": [
+      [
+        "v0.3.1",
+        [
+          "Play Fights: keeps the timed combat minigames.",
+          "Story Fights: fights play out without timed inputs; story choices around them remain available.",
+          "Day 19 now includes an optional new scene with Fighter, featuring the longest animation in the game so far. The new scene can be found during the gym section of Day 19."
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "https://f95zone.to.it/wp-content/uploads/2025/11/5482875_bannerpoprawejfhd.webp",
+    "screenshots": [
+      "https://f95zone.to.it/wp-content/uploads/2026/07/6263581_ma39.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/07/6263574_f4.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/07/6263576_rt37.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/07/6263575_gh6.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/07/6263573_c11.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/06/6201003_gi19.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/06/6200995_dmr6.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/06/6201013_qd1.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/06/6201001_ge43.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/06/6200993_ao30.webp"
+    ],
+    "mirrors": {
+      "Linux": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/18688073/?k=adf30d0d3cc2&h=bzzhr.to"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/18688073/?k=dcd0a2838e98&h=datanodes.to"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/18688073/?k=734d4e882ad8&h=gofile.io"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/18688073/?k=adf30d0d3cc2&h=bzzhr.to"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/18688073/?k=dcd0a2838e98&h=datanodes.to"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/18688073/?k=734d4e882ad8&h=gofile.io"
+        }
+      ],
+      "Windows": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/18688073/?k=adf30d0d3cc2&h=bzzhr.to"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/18688073/?k=dcd0a2838e98&h=datanodes.to"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/18688073/?k=734d4e882ad8&h=gofile.io"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/8-weeks-v0-3-1-fromplutoguy/",
+    "censored": "No"
+  },
+  {
+    "slug": "pinked-and-owned-v0-2-4-1-pinkedandowned",
+    "title": "Pinked and Owned",
+    "version": "v0.5",
+    "version_full": "0.5 LOCKED \u2013 Hotfix 2",
+    "developer": "PinkedAndOwned",
+    "developer_links": [
+      [
+        "Patreon",
+        "https://www.patreon.com/PinkedAndOwned"
+      ],
+      [
+        "Itch.io",
+        "https://pinkedandowned.itch.io/"
+      ],
+      [
+        "Website",
+        "https://www.pinkedandowned.com"
+      ],
+      [
+        "Discord",
+        "https://discord.gg/2wFGg3nWhJ"
+      ]
+    ],
+    "installation": [
+      "1. Play directly in the browser, or",
+      "2. Download the Windows Portable ZIP (extract anywhere, run the .exe), or",
+      "3. Sideload the Android APK (enable Install Unknown Apps in system settings once, then tap the APK)."
+    ],
+    "status": "Ongoing",
+    "engine": "HTML",
+    "os": "Windows, Android",
+    "language": "English; +9 (community-polished, completeness varies)",
+    "release": "2026-02-15",
     "updated": "2026-10-16",
     "rating": 0.0,
     "reviews": 0,
     "genres": [
-      "Adventure",
-      "Sandbox",
-      "Simulation",
-      "Visual Novel",
+      "2DCG",
+      "AI CG",
+      "Animated",
+      "Male Protagonist",
+      "Multiple Endings",
+      "Romance",
       "HTML"
     ],
-    "overview": "A browser-based narrative sandbox. Build your stats, explore the city, and make choices that shape the story as the days pass.",
-    "size": "approx. ~300 MB (artwork bundle)",
-    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android) \u00b7 HTML (browser)"
+    "overview": "Pinked and Owned is an adult HTML/browser narrative game about slow feminization and a life quietly rearranging itself. You play a guy with a small chastity cage, a complicated roommate, and the kind of job that keeps asking him to wear something new. Stat-driven sandbox, explore the city, build (or lose) your resolve, and watch the story branch based on choices you didn\u2019t even realise were choices. Active solo dev, new content every 2-3 weeks.",
+    "size": "approx. ~300 MB",
+    "format": "ZIP (Windows) \u00b7 APK (Android) \u00b7 HTML (browser)",
+    "changelog": [
+      [
+        "v0.5 WIRED \u2013 2026-10-16 (current)",
+        [
+          "[Content] Edging and denial now have real consequences: arousal stacks through five denial levels instead of one bar, and each level changes what your scenes ask of you, what you say yes to, and what slips out at the worst moment. Full orgasms reset ",
+          "[Patreon] Keeper orders: your Owner, Sarah, Jesse and the HypnoMind Denial program can now order you to hold it. Beg for release, earn edge sessions and punishments, and watch the Tasks app count the nights for whoever holds the key.",
+          "[Content] Your clothes now run out: coming in public stains what you are wearing, stained and missing pieces stay out of your wardrobe until the laundromat errand is done, and your men\u2019s clothes quietly leave the closet one piece at a time as your Fe",
+          "[Patreon] Bags go missing: at the beach cabin, the gym locker, the spa and the lingerie fitting room your bag can vanish, each with a way out that is not the way you came in. Walk home in what is left, borrow something from whoever is there, or buy y",
+          "[Content] The two 0.4 Patreon arcs are free for everyone: Compelled into chastity (all three ways the cage can be pressed on you) and Sage\u2019s arc behind the knock on their door, together with their four achievements.",
+          "[Content] Long hair finally shows in nine more early-game scenes once you have it: the first morning in your kitchen, the rooftop-rain and shame dreams, yoga class, both legal-route lunch scenes, the Master\u2019s morning inspection and aftercare, and the",
+          "[Content] The park dealer\u2019s poppers are a real item now: the bottle lands in your inventory, shows up in the wardrobe, and he tells you to come back when it runs out instead of taking another $20 for nothing.",
+          "[Content] The Red Light District opens in the morning and afternoon instead of waiting for evening, so a trip to the laundromat fits any schedule; the clubs and the brothel still only open their doors at dusk.",
+          "[Balance] Skipping the morning routine now costs the same shower Energy the planner quotes and a manual shower takes; with high Comfort a skipped morning silently charged up to 2 extra Energy, every day.",
+          "[Balance] Conflicting traits in character creation can no longer be picked together: the dimmed card now refuses the pick with a short hint, so a build cannot start with traits that cancel each other out.",
+          "[Balance] Starting a new game asks before it replaces the auto-save of your current run; manual slots and exported saves are never touched.",
+          "[UI] The wardrobe shows how full each multi-slot group is (Accessories: 5/6), and when a full accessory budget swaps the oldest piece out for a new one, a confirm dialog asks first (\u2018Equipping this takes that off. Continue?\u2019) and a toast names what c",
+          "[UI] The wig gets its own Hair slot next to Head, so you can wear it together with cat ears, a hair bow or a hood instead of choosing one of them. Saves keep their wig equipped.",
+          "[UI] Clothing shops with more than one kind of garment now have a filter row (All, Upper Body, Lower Body, \u2026) and every item card says which slot it goes in, so a crowded store no longer mixes skirts into tops without a way to sort them out.",
+          "[UI] The German Progress app shows every storyline section again; outside English all of them, about fifty cards, were missing from the tab."
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/05/5967829_00_cover_banner.webp",
+    "screenshots": [
+      "https://f95zone.to.it/wp-content/uploads/2026/05/5967830_01_ui_editor.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/05/5967831_02_ui_apartment_hub.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/05/5967832_03_ui_phone_appstore.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/05/5967833_04_ui_streaming_hub.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/05/5967834_05_scene_master_first_night.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/05/5967835_06_scene_velvet_worker.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/05/5967836_07_scene_spa_dominic.webp",
+      "https://f95zone.to.it/wp-content/uploads/2026/05/5967837_08_scene_bar_vip.webp"
+    ],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/tKdX3DYS#fYKo1CKWIxHsGrLzCGWw0KD_VB6rBIbt1oA2DB-zc8k"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/qo2s9bIk"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/s2SYwRqJ"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/fw12wwrsvi7m/Pinked-and-Owned-Free-Portable-0.5.zip"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/2XVbSw7cZTc"
+        }
+      ],
+      "Android": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/0C9UAZ4Y#vujFi6rRJgYzRxFqYK3uYvbh7ujK8uCtcNec21iNneY"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/2BzUvTEx"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/K1QXUK8C"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/lwm5sxapd7c4/pinked-and-owned-0.5-free.apk"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/mryC7LS2xvT"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/pinked-and-owned-v0-2-4-1-pinkedandowned/",
+    "censored": "No"
   }
 ]
