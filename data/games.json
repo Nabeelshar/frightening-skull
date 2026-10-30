@@ -216,5 +216,29 @@
     "overview": "Sign a pact with the Ashenvale and lead a warband through a forest that fights back. Turn-based battles, shifting terrain, and a bargain that grows more expensive every chapter.",
     "size": "1.8 GB",
     "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)"
+  },
+  {
+    "slug": "pinked-and-owned",
+    "title": "Pinked And Owned",
+    "version": "0.5",
+    "developer": "PinkedAndOwned",
+    "status": "Ongoing",
+    "engine": "HTML",
+    "os": "Windows, Android, Linux, Mac",
+    "language": "English",
+    "release": "\u2014",
+    "updated": "2026-10-16",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "Adventure",
+      "Sandbox",
+      "Simulation",
+      "Visual Novel",
+      "HTML"
+    ],
+    "overview": "A browser-based narrative sandbox. Build your stats, explore the city, and make choices that shape the story as the days pass.",
+    "size": "approx. ~300 MB (artwork bundle)",
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android) \u00b7 HTML (browser)"
   }
 ]

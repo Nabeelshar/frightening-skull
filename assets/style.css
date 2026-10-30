@@ -64,3 +64,6 @@ details summary{cursor:pointer;color:#fff;font-weight:700}
 .dl{background:#22394f;border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:3px;padding:14px;margin:14px 0}
 .dl .btn{display:inline-block;background:#3d6a8c;color:#dbe2e6;padding:9px 16px;border-radius:2px;margin-top:8px;cursor:not-allowed;opacity:.75}
 .dl code{background:#171a21;padding:2px 6px;border-radius:2px}
+.mirrors{margin:10px 0}
+.mirror{display:inline-block;background:#1a9fff;color:#fff;font-size:13px;font-weight:700;padding:6px 12px;border-radius:2px;margin:0 4px 4px 0}
+.mirror:hover{background:#66c0f4;color:#fff}
