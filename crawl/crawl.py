@@ -1039,6 +1039,7 @@ def main():
     # Guest-readable for thread text; spoilers/attachments stay empty
     # without a logged-in session. Any failure here never breaks source 1.
     entries_to, found2 = [], []
+    source2_ok, preserved = False, 0
     try:
         s2 = source2_session()
         print('crawl: source2 %s (cookies: %s)'
@@ -1049,6 +1050,7 @@ def main():
             print('crawl: source2 BLOCKED (%s) — continuing with '
                   'f95zone.to.it only' % reason)
         else:
+            source2_ok = True
             all2 = parse_forum_list(html2, SOURCE2_LIST_URL)
             print('crawl: source2 listing -> %d thread links' % len(all2))
             if not all2:
@@ -1103,10 +1105,39 @@ def main():
         seen_keys.add(key)
         entries.append(e)
 
+    if not args.dry_run and not source2_ok:
+        # Source 2 was unreachable this run (e.g. the GitHub runner gets a
+        # 403 from f95zone.to). Keep the previously crawled .to entries
+        # instead of dropping them: a failed source must not delete data
+        # the other source cannot replace.
+        prev_path = root / 'data' / 'crawled.json'
+        prev = []
+        if prev_path.exists():
+            try:
+                prev = json.loads(prev_path.read_text(encoding='utf-8'))
+            except Exception as e:
+                print('crawl: warning, could not read %s: %s'
+                      % (prev_path, e))
+        have = {(e['title'].lower(), e['version'].lower(),
+                 e['developer'].lower()) for e in entries}
+        for e in prev:
+            if e.get('source') != 'f95zone.to':
+                continue
+            key = (e['title'].lower(), e['version'].lower(),
+                   e['developer'].lower())
+            if key in have:
+                continue
+            entries.append(e)
+            have.add(key)
+            preserved += 1
+        if preserved:
+            print('crawl: source2 unreachable — preserved %d previously '
+                  'crawled f95zone.to entries' % preserved)
+
     print('crawl: parsed %d/%d from f95zone.to.it + %d/%d from f95zone.to '
-          '(%d deduped) -> %d total'
+          '(%d deduped, %d preserved) -> %d total'
           % (n_it, len(urls), len(entries_to), len(found2), deduped,
-             len(entries)))
+             preserved, len(entries)))
     if args.dry_run:
         print(json.dumps(entries, indent=2, ensure_ascii=False))
         print('crawl: dry-run, nothing written')
@@ -1151,9 +1182,10 @@ def main():
     lines = ['# Crawl run — %s\n' % date.today().isoformat(),
              'Homepage pages crawled: %d (MAX_PAGES=%d, MAX_POSTS=%d). '
              'f95zone.to.it: %d/%d posts; f95zone.to: %d/%d threads; '
-             '%d deduped; %d total entries.\n'
+             '%d deduped; %d preserved; %d total entries.\n'
              % (max_pages, max_pages, max_posts, n_it, len(urls),
-                len(entries_to), len(found2), deduped, len(entries)),
+                len(entries_to), len(found2), deduped, preserved,
+                len(entries)),
              '## Posts\n']
     for e in entries:
         lines.append('- **%s [%s] [%s]** — %s — updated %s — OS %s — genres %s — '
