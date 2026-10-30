@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "starfall-academy",
+    "title": "Starfall Academy",
+    "version": "0.8.2",
+    "developer": "Northlight Games",
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac",
+    "language": "English",
+    "release": "2025-11-14",
+    "updated": "2026-10-28",
+    "rating": 4.6,
+    "reviews": 128,
+    "genres": [
+      "Visual Novel",
+      "Adventure",
+      "2DCG"
+    ],
+    "overview": "A new student arrives at a remote academy built beneath a fallen star, and the school's quiet routines start to unravel. Build friendships, uncover the academy's old secret, and choose which side of it you stand on."
+  },
+  {
+    "slug": "kingdom-of-ashes",
+    "title": "Kingdom of Ashes",
+    "version": "1.0",
+    "developer": "Emberworks Studio",
+    "status": "Completed",
+    "engine": "Unity",
+    "os": "Windows, Linux, Mac",
+    "language": "English",
+    "release": "2024-06-02",
+    "updated": "2026-09-19",
+    "rating": 4.8,
+    "reviews": 214,
+    "genres": [
+      "RPG",
+      "Fantasy",
+      "Adventure"
+    ],
+    "overview": "The ember crown has burned out and the kingdom's provinces are choosing new rulers. Lead a small band across a war-scarred realm, forge alliances, and decide what rises from the ashes."
+  },
+  {
+    "slug": "neon-horizon",
+    "title": "Neon Horizon",
+    "version": "0.6.1",
+    "developer": "Pixel Drift",
+    "status": "Ongoing",
+    "engine": "Godot",
+    "os": "Windows, Linux",
+    "language": "English",
+    "release": "2026-01-20",
+    "updated": "2026-10-27",
+    "rating": 4.4,
+    "reviews": 96,
+    "genres": [
+      "Sci-Fi",
+      "Adventure",
+      "2DCG"
+    ],
+    "overview": "A courier pilot takes one last contract across a neon-lit orbital ring \u2014 and the cargo turns out to be a person. Outrun patrols, pick your clients, and keep your ship flying."
+  },
+  {
+    "slug": "echoes-of-tomorrow",
+    "title": "Echoes of Tomorrow",
+    "version": "0.9.3",
+    "developer": "Lantern Fox",
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac",
+    "language": "English",
+    "release": "2025-08-08",
+    "updated": "2026-10-29",
+    "rating": 4.7,
+    "reviews": 167,
+    "genres": [
+      "Visual Novel",
+      "Sci-Fi",
+      "AI CG"
+    ],
+    "overview": "A time-loop archivist wakes up on the same morning for the forty-first time. Each loop leaves a new message behind \u2014 and someone else in the city is looping too."
+  },
+  {
+    "slug": "emberfall-chronicles",
+    "title": "Emberfall Chronicles",
+    "version": "0.4.0",
+    "developer": "Ashen Quill",
+    "status": "Ongoing",
+    "engine": "RPG Maker",
+    "os": "Windows, Mac",
+    "language": "English",
+    "release": "2026-03-11",
+    "updated": "2026-10-21",
+    "rating": 4.3,
+    "reviews": 74,
+    "genres": [
+      "RPG",
+      "Fantasy",
+      "Adventure"
+    ],
+    "overview": "When the ember falls, the old roads wake. Guide a cartographer mapping a kingdom that rearranges itself each season, and chart what no one else has survived to draw."
+  },
+  {
+    "slug": "voidrunner-protocol",
+    "title": "Voidrunner Protocol",
+    "version": "1.2.0",
+    "developer": "Orbital Nine",
+    "status": "Completed",
+    "engine": "Unreal",
+    "os": "Windows, Linux",
+    "language": "English",
+    "release": "2025-02-17",
+    "updated": "2026-08-30",
+    "rating": 4.5,
+    "reviews": 189,
+    "genres": [
+      "Sci-Fi",
+      "Roguelike",
+      "AI CG"
+    ],
+    "overview": "Pilot a salvage runner through dead stations on the edge of known space. Every run reshuffles the wrecks, the hazards, and the things still living inside them."
+  },
+  {
+    "slug": "lanterns-of-the-deep",
+    "title": "Lanterns of the Deep",
+    "version": "0.3.5",
+    "developer": "Tidepool Interactive",
+    "status": "On Hold",
+    "engine": "Godot",
+    "os": "Windows",
+    "language": "English",
+    "release": "2025-12-05",
+    "updated": "2026-07-12",
+    "rating": 4.1,
+    "reviews": 58,
+    "genres": [
+      "Horror",
+      "Adventure",
+      "2DCG"
+    ],
+    "overview": "A lighthouse keeper's daughter rows out to relight the dark lanterns of a drowned town. Something down there keeps the lights for itself."
+  },
+  {
+    "slug": "ashenvale-pact",
+    "title": "Ashenvale Pact",
+    "version": "0.7.0",
+    "developer": "Moss & Ember",
+    "status": "Ongoing",
+    "engine": "Unity",
+    "os": "Windows, Linux, Mac",
+    "language": "English",
+    "release": "2026-05-24",
+    "updated": "2026-10-26",
+    "rating": 4.6,
+    "reviews": 143,
+    "genres": [
+      "Fantasy",
+      "Roguelike",
+      "Turn Based Combat"
+    ],
+    "overview": "Sign a pact with the Ashenvale and lead a warband through a forest that fights back. Turn-based battles, shifting terrain, and a bargain that grows more expensive every chapter."
+  }
+]

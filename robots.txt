@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nabeelshar.github.io/frightening-skull/sitemap.xml
