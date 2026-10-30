@@ -1,1 +1,2 @@
-cmVxdWVzdHMKYmVhdXRpZnVsc291cDQK
+requests
+beautifulsoup4

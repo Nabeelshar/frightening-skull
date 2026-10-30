@@ -1,1 +1,9 @@
-PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MDAiIGhlaWdodD0iMzM4IiB2aWV3Qm94PSIwIDAgNjAwIDMzOCIgcm9sZT0iaW1nIiBhcmlhLWxhYmVsPSJOZW9uIEhvcml6b24g4oCUIFBsYWNlaG9sZGVyIHNjcmVlbnNob3QgMSI+CjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iIzBmNzY2ZSIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iIzE3MWEyMSIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPgo8cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjMzOCIgZmlsbD0idXJsKCNnKSIvPgo8Y2lyY2xlIGN4PSI0ODAiIGN5PSI3MCIgcj0iOTAiIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuMDgiLz4KPGNpcmNsZSBjeD0iODAiIGN5PSIyODAiIHI9IjEyMCIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC4wNiIvPgo8dGV4dCB4PSIzMDAiIHk9IjE3NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9Ijk2IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC45Ij5OSDwvdGV4dD4KPHRleHQgeD0iMzAwIiB5PSIyMjUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMiIgZmlsbD0iI2M3ZDVlMCI+TmVvbiBIb3Jpem9uPC90ZXh0Pgo8dGV4dCB4PSIzMDAiIHk9IjI1NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjEzIiBmaWxsPSIjOGY5OGEzIj5QbGFjZWhvbGRlciBzY3JlZW5zaG90IDE8L3RleHQ+Cjwvc3ZnPgo=
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="338" viewBox="0 0 600 338" role="img" aria-label="Neon Horizon — Placeholder screenshot 1">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f766e"/><stop offset="1" stop-color="#171a21"/></linearGradient></defs>
+<rect width="600" height="338" fill="url(#g)"/>
+<circle cx="480" cy="70" r="90" fill="#ffffff" opacity="0.08"/>
+<circle cx="80" cy="280" r="120" fill="#ffffff" opacity="0.06"/>
+<text x="300" y="175" text-anchor="middle" font-family="Arial, sans-serif" font-size="96" font-weight="bold" fill="#ffffff" opacity="0.9">NH</text>
+<text x="300" y="225" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#c7d5e0">Neon Horizon</text>
+<text x="300" y="255" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#8f98a3">Placeholder screenshot 1</text>
+</svg>

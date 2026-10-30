@@ -1,1 +1,29 @@
-Y29uc3QgY2FyZHM9Wy4uLmRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJy5jYXJkJyldOwpjb25zdCBxPWRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdxJyksc29ydD1kb2N1bWVudC5nZXRFbGVtZW50QnlJZCgnc29ydCcpOwpmdW5jdGlvbiBhcHBseSgpewogY29uc3QgdGVybT0ocS52YWx1ZXx8JycpLnRvTG93ZXJDYXNlKCk7CiBjb25zdCBnZW5zPVsuLi5kb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCdpbnB1dFtkYXRhLWdlbnJlXTpjaGVja2VkJyldLm1hcChlPT5lLnZhbHVlKTsKIGNvbnN0IHN0PVsuLi5kb2N1bWVudC5xdWVyeVNlbGVjdG9yQWxsKCdpbnB1dFtkYXRhLXN0YXR1c106Y2hlY2tlZCcpXS5tYXAoZT0+ZS52YWx1ZSk7CiBjb25zdCBlbmc9Wy4uLmRvY3VtZW50LnF1ZXJ5U2VsZWN0b3JBbGwoJ2lucHV0W2RhdGEtZW5naW5lXTpjaGVja2VkJyldLm1hcChlPT5lLnZhbHVlKTsKIGNvbnN0IG1pbj1wYXJzZUZsb2F0KGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdtaW5yYXRpbmcnKS52YWx1ZXx8JzAnKTsKIGxldCB2aXM9Y2FyZHMuZmlsdGVyKGM9PnsKICBjb25zdCBoYXk9KGMuZGF0YXNldC50aXRsZSsnICcrYy5kYXRhc2V0LmRldikudG9Mb3dlckNhc2UoKTsKICBpZih0ZXJtJiYhaGF5LmluY2x1ZGVzKHRlcm0pKXJldHVybiBmYWxzZTsKICBpZihnZW5zLmxlbmd0aCYmIWdlbnMuc29tZShnPT5jLmRhdGFzZXQuZ2VucmVzLnNwbGl0KCd8JykuaW5jbHVkZXMoZykpKXJldHVybiBmYWxzZTsKICBpZihzdC5sZW5ndGgmJiFzdC5pbmNsdWRlcyhjLmRhdGFzZXQuc3RhdHVzKSlyZXR1cm4gZmFsc2U7CiAgaWYoZW5nLmxlbmd0aCYmIWVuZy5pbmNsdWRlcyhjLmRhdGFzZXQuZW5naW5lKSlyZXR1cm4gZmFsc2U7CiAgaWYocGFyc2VGbG9hdChjLmRhdGFzZXQucmF0aW5nKTxtaW4pcmV0dXJuIGZhbHNlOwogIHJldHVybiB0cnVlOwogfSk7CiBpZihzb3J0LnZhbHVlPT09J3JhdGluZycpdmlzLnNvcnQoKGEsYik9PmIuZGF0YXNldC5yYXRpbmctYS5kYXRhc2V0LnJhdGluZyk7CiBpZihzb3J0LnZhbHVlPT09J25ld2VzdCcpdmlzLnNvcnQoKGEsYik9PmIuZGF0YXNldC51cGRhdGVkLmxvY2FsZUNvbXBhcmUoYS5kYXRhc2V0LnVwZGF0ZWQpKTsKIGlmKHNvcnQudmFsdWU9PT0ndGl0bGUnKXZpcy5zb3J0KChhLGIpPT5hLmRhdGFzZXQudGl0bGUubG9jYWxlQ29tcGFyZShiLmRhdGFzZXQudGl0bGUpKTsKIGNvbnN0IGdyaWQ9ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2dyaWQnKTt2aXMuZm9yRWFjaChjPT5ncmlkLmFwcGVuZENoaWxkKGMpKTsKIGNhcmRzLmZvckVhY2goYz0+Yy5zdHlsZS5kaXNwbGF5PXZpcy5pbmNsdWRlcyhjKT8nJzonbm9uZScpOwogZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2NvdW50JykudGV4dENvbnRlbnQ9dmlzLmxlbmd0aCsodmlzLmxlbmd0aD09PTE/JyBnYW1lJzonIGdhbWVzJyk7Cn0KZG9jdW1lbnQucXVlcnlTZWxlY3RvckFsbCgnaW5wdXQsc2VsZWN0JykuZm9yRWFjaChlPT5lLmFkZEV2ZW50TGlzdGVuZXIoJ2lucHV0JyxhcHBseSkpOwpjb25zdCBwPW5ldyBVUkxTZWFyY2hQYXJhbXMobG9jYXRpb24uc2VhcmNoKTtpZihwLmdldCgndGFnJykpe2NvbnN0IGNiPWRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJ2lucHV0W2RhdGEtZ2VucmU9IicrcC5nZXQoJ3RhZycpKyciXScpO2lmKGNiKXtjYi5jaGVja2VkPXRydWU7fX0KaWYocC5nZXQoJ3EnKSl7cS52YWx1ZT1wLmdldCgncScpO30KaWYocC5nZXQoJ3NvcnQnKSYmWy4uLnNvcnQub3B0aW9uc10uc29tZShvPT5vLnZhbHVlPT09cC5nZXQoJ3NvcnQnKSkpe3NvcnQudmFsdWU9cC5nZXQoJ3NvcnQnKTt9CmFwcGx5KCk7Cg==
+const cards=[...document.querySelectorAll('.card')];
+const q=document.getElementById('q'),sort=document.getElementById('sort');
+function apply(){
+ const term=(q.value||'').toLowerCase();
+ const gens=[...document.querySelectorAll('input[data-genre]:checked')].map(e=>e.value);
+ const st=[...document.querySelectorAll('input[data-status]:checked')].map(e=>e.value);
+ const eng=[...document.querySelectorAll('input[data-engine]:checked')].map(e=>e.value);
+ const min=parseFloat(document.getElementById('minrating').value||'0');
+ let vis=cards.filter(c=>{
+  const hay=(c.dataset.title+' '+c.dataset.dev).toLowerCase();
+  if(term&&!hay.includes(term))return false;
+  if(gens.length&&!gens.some(g=>c.dataset.genres.split('|').includes(g)))return false;
+  if(st.length&&!st.includes(c.dataset.status))return false;
+  if(eng.length&&!eng.includes(c.dataset.engine))return false;
+  if(parseFloat(c.dataset.rating)<min)return false;
+  return true;
+ });
+ if(sort.value==='rating')vis.sort((a,b)=>b.dataset.rating-a.dataset.rating);
+ if(sort.value==='newest')vis.sort((a,b)=>b.dataset.updated.localeCompare(a.dataset.updated));
+ if(sort.value==='title')vis.sort((a,b)=>a.dataset.title.localeCompare(b.dataset.title));
+ const grid=document.getElementById('grid');vis.forEach(c=>grid.appendChild(c));
+ cards.forEach(c=>c.style.display=vis.includes(c)?'':'none');
+ document.getElementById('count').textContent=vis.length+(vis.length===1?' game':' games');
+}
+document.querySelectorAll('input,select').forEach(e=>e.addEventListener('input',apply));
+const p=new URLSearchParams(location.search);if(p.get('tag')){const cb=document.querySelector('input[data-genre="'+p.get('tag')+'"]');if(cb){cb.checked=true;}}
+if(p.get('q')){q.value=p.get('q');}
+if(p.get('sort')&&[...sort.options].some(o=>o.value===p.get('sort'))){sort.value=p.get('sort');}
+apply();

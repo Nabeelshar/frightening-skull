@@ -1,1 +1,3 @@
-VXNlci1hZ2VudDogKgpBbGxvdzogLwpTaXRlbWFwOiBodHRwczovL25hYmVlbHNoYXIuZ2l0aHViLmlvL2ZyaWdodGVuaW5nLXNrdWxsL3NpdGVtYXAueG1sCg==
+User-agent: *
+Allow: /
+Sitemap: https://nabeelshar.github.io/frightening-skull/sitemap.xml
