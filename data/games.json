@@ -1826,8 +1826,8 @@
   {
     "slug": "pinked-and-owned-v0-2-4-1-pinkedandowned",
     "title": "Pinked and Owned",
-    "version": "v0.5",
-    "version_full": "0.5 LOCKED \u2013 Hotfix 2",
+    "version": "v0.6",
+    "version_full": "0.6",
     "developer": "PinkedAndOwned",
     "developer_links": [
       [
@@ -1847,17 +1847,13 @@
         "https://discord.gg/2wFGg3nWhJ"
       ]
     ],
-    "installation": [
-      "1. Play directly in the browser, or",
-      "2. Download the Windows Portable ZIP (extract anywhere, run the .exe), or",
-      "3. Sideload the Android APK (enable Install Unknown Apps in system settings once, then tap the APK)."
-    ],
+    "installation": [],
     "status": "Ongoing",
     "engine": "HTML",
     "os": "Windows, Android",
     "language": "English; +9 (community-polished, completeness varies)",
     "release": "2026-02-15",
-    "updated": "2026-10-16",
+    "updated": "2026-10-30",
     "rating": 0.0,
     "reviews": 0,
     "genres": [
@@ -1872,84 +1868,54 @@
     "overview": "Pinked and Owned is an adult HTML/browser narrative game about slow feminization and a life quietly rearranging itself. You play a guy with a small chastity cage, a complicated roommate, and the kind of job that keeps asking him to wear something new. Stat-driven sandbox, explore the city, build (or lose) your resolve, and watch the story branch based on choices you didn\u2019t even realise were choices. Active solo dev, new content every 2-3 weeks.",
     "size": "approx. ~300 MB",
     "format": "ZIP (Windows) \u00b7 APK (Android) \u00b7 HTML (browser)",
-    "changelog": [
-      [
-        "v0.5 WIRED \u2013 2026-10-16 (current)",
-        [
-          "[Content] Edging and denial now have real consequences: arousal stacks through five denial levels instead of one bar, and each level changes what your scenes ask of you, what you say yes to, and what slips out at the worst moment. Full orgasms reset ",
-          "[Patreon] Keeper orders: your Owner, Sarah, Jesse and the HypnoMind Denial program can now order you to hold it. Beg for release, earn edge sessions and punishments, and watch the Tasks app count the nights for whoever holds the key.",
-          "[Content] Your clothes now run out: coming in public stains what you are wearing, stained and missing pieces stay out of your wardrobe until the laundromat errand is done, and your men\u2019s clothes quietly leave the closet one piece at a time as your Fe",
-          "[Patreon] Bags go missing: at the beach cabin, the gym locker, the spa and the lingerie fitting room your bag can vanish, each with a way out that is not the way you came in. Walk home in what is left, borrow something from whoever is there, or buy y",
-          "[Content] The two 0.4 Patreon arcs are free for everyone: Compelled into chastity (all three ways the cage can be pressed on you) and Sage\u2019s arc behind the knock on their door, together with their four achievements.",
-          "[Content] Long hair finally shows in nine more early-game scenes once you have it: the first morning in your kitchen, the rooftop-rain and shame dreams, yoga class, both legal-route lunch scenes, the Master\u2019s morning inspection and aftercare, and the",
-          "[Content] The park dealer\u2019s poppers are a real item now: the bottle lands in your inventory, shows up in the wardrobe, and he tells you to come back when it runs out instead of taking another $20 for nothing.",
-          "[Content] The Red Light District opens in the morning and afternoon instead of waiting for evening, so a trip to the laundromat fits any schedule; the clubs and the brothel still only open their doors at dusk.",
-          "[Balance] Skipping the morning routine now costs the same shower Energy the planner quotes and a manual shower takes; with high Comfort a skipped morning silently charged up to 2 extra Energy, every day.",
-          "[Balance] Conflicting traits in character creation can no longer be picked together: the dimmed card now refuses the pick with a short hint, so a build cannot start with traits that cancel each other out.",
-          "[Balance] Starting a new game asks before it replaces the auto-save of your current run; manual slots and exported saves are never touched.",
-          "[UI] The wardrobe shows how full each multi-slot group is (Accessories: 5/6), and when a full accessory budget swaps the oldest piece out for a new one, a confirm dialog asks first (\u2018Equipping this takes that off. Continue?\u2019) and a toast names what c",
-          "[UI] The wig gets its own Hair slot next to Head, so you can wear it together with cat ears, a hair bow or a hood instead of choosing one of them. Saves keep their wig equipped.",
-          "[UI] Clothing shops with more than one kind of garment now have a filter row (All, Upper Body, Lower Body, \u2026) and every item card says which slot it goes in, so a crowded store no longer mixes skirts into tops without a way to sort them out.",
-          "[UI] The German Progress app shows every storyline section again; outside English all of them, about fifty cards, were missing from the tab."
-        ]
-      ]
-    ],
+    "changelog": [],
     "faq": [],
     "reviews_list": [],
-    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/05/5967829_00_cover_banner.webp",
-    "screenshots": [
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967830_01_ui_editor.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967831_02_ui_apartment_hub.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967832_03_ui_phone_appstore.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967833_04_ui_streaming_hub.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967834_05_scene_master_first_night.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967835_06_scene_velvet_worker.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967836_07_scene_spa_dominic.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967837_08_scene_bar_vip.webp"
-    ],
+    "cover_url": "",
+    "screenshots": [],
     "mirrors": {
       "Windows": [
         {
           "host": "MEGA",
-          "url": "https://mega.nz/file/tKdX3DYS#fYKo1CKWIxHsGrLzCGWw0KD_VB6rBIbt1oA2DB-zc8k"
+          "url": "https://mega.nz/file/kHMxnAKL#2lIh6TXTntks_pGhYwmZPFA2WHhibpZxeg5NqLmy52k"
         },
         {
           "host": "GOFILE",
-          "url": "https://gofile.io/d/qo2s9bIk"
+          "url": "https://gofile.io/d/xQtuWBgz"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/s2SYwRqJ"
+          "url": "https://pixeldrain.com/u/D5ujsyLE"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/fw12wwrsvi7m/Pinked-and-Owned-Free-Portable-0.5.zip"
+          "url": "https://datanodes.to/cqrdsv8769eu/Pinked-and-Owned-Free-Portable-0.6.zip"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/2XVbSw7cZTc"
+          "url": "https://workupload.com/file/m5Dc93EJN6f"
         }
       ],
       "Android": [
         {
           "host": "MEGA",
-          "url": "https://mega.nz/file/0C9UAZ4Y#vujFi6rRJgYzRxFqYK3uYvbh7ujK8uCtcNec21iNneY"
+          "url": "https://mega.nz/file/AC1CTI5B#SR-s5qYf6BbFWp-yESn9ZxtFxUCBEM2obhfTiKdTuvc"
         },
         {
           "host": "GOFILE",
-          "url": "https://gofile.io/d/2BzUvTEx"
+          "url": "https://gofile.io/d/RmYNnGSi"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/K1QXUK8C"
+          "url": "https://pixeldrain.com/u/LVfUXVzz"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/lwm5sxapd7c4/pinked-and-owned-0.5-free.apk"
+          "url": "https://datanodes.to/9zy9pbhxax6q/pinked-and-owned-0.6-free.apk"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/mryC7LS2xvT"
+          "url": "https://workupload.com/file/m7NX4wg25z9"
         }
       ]
     },
@@ -2288,5 +2254,1174 @@
     "source_url": "https://f95zone.to/threads/road-of-a-goddess-2-v1-0-matpneumatos.320720/",
     "censored": "No",
     "source": "f95zone.to"
+  },
+  {
+    "slug": "champion-of-i-luxuria-v0-0-45-idyllune",
+    "title": "Champion of I: Luxuria",
+    "version": "v0.0.45",
+    "version_full": "0.0.45",
+    "developer": "Idyllune",
+    "developer_links": [
+      [
+        "Idyllune",
+        "https://f95zone.to/members/idyllune.7424391/"
+      ],
+      [
+        "Itch.io",
+        "https://idyllune.itch.io"
+      ],
+      [
+        "Patreon",
+        "https://www.patreon.com/c/Idyllune"
+      ],
+      [
+        "Discord",
+        "https://discord.gg/Cde2hJHT9j"
+      ],
+      [
+        "Subscribestar",
+        "https://subscribestar.adult/idyllune"
+      ],
+      [
+        "Twitter",
+        "https://twitter.com/Idyllune"
+      ]
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac",
+    "language": "English",
+    "release": "2026-11-08",
+    "updated": "2026-11-08",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "2DCG",
+      "Animated",
+      "Corruption",
+      "Fantasy",
+      "Harem",
+      "Male Protagonist",
+      "RPG",
+      "Sandbox",
+      "Turn Based Combat"
+    ],
+    "overview": "\u201cYou are your actions, and your actions are you. Keep your wits about you, lest you lose your life.\u201d",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/vxm507fsrsqx"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/qiwux14a4amd/Champion_of_I_Luxuria-0.0.45-win.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!D3RwXJ6R!J1Kby85r9ilX7fzZKeBE9jaLW41_voh78YtZQbH2ems"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/fjQvTWkz"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/Ty2Uj6b9GzE"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/x3vac82yp3yv"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/s5j44yc6m7k7/Champion_of_I_Luxuria-0.0.45-linux.tar.bz2"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!TzZxHQwA!jm2VGXCNlDCz54iT0_ptnnXcT6Ce9u7PrRYFSdt8DOc"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/SJWRadqY"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/VgGpgxZxjZr"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/t51ss5m3fobv"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/1ogc9fnqxhkt/Champion_of_I_Luxuria-0.0.45-mac.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!erACwDaI!cQYBhSSJ_lppQAj3c9iZRgnol3XUuMr6qVD2HZ26B8Y"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/yocYgdcN"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/fgaggVvPTBd"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/champion-of-i-luxuria-v0-0-45-idyllune/",
+    "censored": "No",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "yabunuma-the-complete-edition-v1-0-n-r-d-works",
+    "title": "Yabunuma: The Complete Edition",
+    "version": "v1.0",
+    "version_full": "1.0",
+    "developer": "N.R.D.WORKS",
+    "developer_links": [
+      [
+        "DLSite",
+        "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG10959.html"
+      ]
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Completed",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English (AI TL), Russian (AI TL), Japanese",
+    "release": "2026-11-05",
+    "updated": "2026-11-08",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "2DCG",
+      "Corruption",
+      "Female Protagonist",
+      "Japanese Game",
+      "Male Protagonist",
+      "Multiple Endings"
+    ],
+    "overview": "An ordinary married couple, five years in, with a little daughter. One night Tomo runs into Mikio Yabunuma \u2013 his wife\u2019s boss, a swinger \u2013 and a twisted wish takes root: he wants to watch his wife, Sakumi, with another man. What begins as the husband\u2019s fantasy becomes a chain he can no longer stop and drags them both into it.",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)",
+    "changelog": [
+      [
+        "v1.0",
+        [
+          "Complete Edition. First release. Both games (Yabunuma + Yabunuma 2) rebuilt in one Ren\u2019Py project; new English & Russian translation; Japanese voices (Yabunuma 2); three selectable art modes (Original 4:3 / HD / Remaster); Windows, Linux, Mac and And"
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/SxKcovNu"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/dMHGB6tL"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/i45VQILD#akK4idSA355QCQ0A4dAr-GL00aX7nWcIuqIuM0l5MRs"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/av7hzri7qotd/Yabunuma_The_Complete_Edition-1.0-pc.zip"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/SxKcovNu"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/dMHGB6tL"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/i45VQILD#akK4idSA355QCQ0A4dAr-GL00aX7nWcIuqIuM0l5MRs"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/av7hzri7qotd/Yabunuma_The_Complete_Edition-1.0-pc.zip"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/wWDUXuYj"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/83908D0O"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/6sRUkIrZ#8IaSBJRvvZ4ezmV2UCCn6UXB9Ii7Dq7WEx-c1V7iscM"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/gcd865vtitf5/Yabunuma_The_Complete_Edition-1.0-mac.zip"
+        }
+      ],
+      "Android": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/a1u144d1"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/SvDkkDix"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/b0AACIjA#bSyxqA2bX4MlwxVphfC4tch0Gv-Uj59WGfmI-MLSmtI"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/v2g233cmrj5l/Yabunuma_The_Complete_Edition-1.0-android.apk"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/yabunuma-the-complete-edition-v1-0-n-r-d-works/",
+    "censored": "Yes (Mosaics)",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "scapesir-final-x-v0-3-fire-blue-monster",
+    "title": "Scapesir Final X",
+    "version": "v0.3",
+    "version_full": "0.3",
+    "developer": "Fire Blue Monster",
+    "developer_links": [
+      [
+        "Fire Blue Monster",
+        "https://f95zone.to/members/firebluemonster.11320574/"
+      ],
+      [
+        "Patreon",
+        "https://www.patreon.com/cw/FireBlueMonster"
+      ],
+      [
+        "SubscribeStar",
+        "https://subscribestar.adult/firebluemonster"
+      ]
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English",
+    "release": "2026-11-07",
+    "updated": "2026-11-07",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "2D Game",
+      "2DCG",
+      "Adventure",
+      "Animated",
+      "Corruption",
+      "Horror",
+      "Male Protagonist",
+      "RPG"
+    ],
+    "overview": "Time has passed since Scapesir Final X mutated from an RPG into a visual novel. The game keeps releasing update after update, and with overviews like this, some people no longer know what to expect from it.",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/qptXg4c6"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/YEMFQRzZ#caN41aMFQOQyZmWjfq1T_QYfocZlYVSBtAtoPCY0lJ8"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.net/u/uZg7bipT"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/vd1ansizdxr5/ScapesirFinalX-0.3-pc.zip"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/p8X5W9mzhHB"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/y1o39y9s7psd"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/qptXg4c6"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/YEMFQRzZ#caN41aMFQOQyZmWjfq1T_QYfocZlYVSBtAtoPCY0lJ8"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.net/u/uZg7bipT"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/vd1ansizdxr5/ScapesirFinalX-0.3-pc.zip"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/p8X5W9mzhHB"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/cZkVQJxQ#QIwZs7muixxRcnsNIRQZAtxjlL2_Bm_lg15E7JgJL-Y"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.net/u/SDCTiwZy"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/grtu8dcrkpla/ScapesirFinalX-0.3-mac.zip"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/Cjhbm3A9vzA"
+        }
+      ],
+      "Android": [
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/9MgtVYza"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/ABFgRQTC#TorjdfM6WnwFpxEr6yD6vNHgKdoYdm_DlJ-uWiZb8nk"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.net/u/nMe2Mpy2"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/l4ohigqnyatn/ScapesirFinalXAndroid-0.3.zip"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/AWTD7TJP4PK"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/scapesir-final-x-v0-3-fire-blue-monster/",
+    "censored": "No",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "adv-slave-series-i-chapter-1-final-tetoga",
+    "title": "ADV: Slave Series I Chapter 1",
+    "version": "Final",
+    "version_full": "Final",
+    "developer": "tetoga",
+    "developer_links": [
+      [
+        "DLSite",
+        "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58938.html"
+      ],
+      [
+        "Ci-en",
+        "https://ci-en.dlsite.com/creator/26698"
+      ],
+      [
+        "Twitter",
+        "https://x.com/tetotetotetoga"
+      ]
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Completed",
+    "os": "Windows",
+    "language": "English (",
+    "release": "2026-06-27",
+    "updated": "2026-11-08",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "2D Game",
+      "2DCG",
+      "Japanese Game",
+      "Male Protagonist",
+      "Multiple Endings",
+      "RPG"
+    ],
+    "overview": "The protagonist rescues Sophia, a maid girl and former coworker who was being sold by a slave trader. The two then begin a precarious life together. But after a certain incident, he also meets Renoa, a demon girl he finds collapsed on the ground. Two girls with very different personalities and values. Who will you spend your limited time with, and what kind of relationship will you build? Your choices will lead the story to a variety of endings.",
+    "size": "",
+    "format": "ZIP (Windows)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/xs0leoiclvdr"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/9j0mx8zvjt4y/ADV_Slave_Series_I_Chapter_1.zip"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/7RyV7dxS"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/3ohwQKoI#RtWFjivkqIVCpxK8am3m_IfOBB8lxpgIjcuaRmqKjFE"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/adv-slave-series-i-chapter-1-final-tetoga/",
+    "censored": "Yes (Mosaics)",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "fair-skinned-big-breasted-sisters-curse-ritual-training-v1-2-0-mr-delicatessen",
+    "title": "Fair-Skinned Big-Breasted Sister\u2019s Curse Ritual Training",
+    "version": "v1.2.0",
+    "version_full": "1.2.0",
+    "developer": "Mr. Delicatessen",
+    "developer_links": [
+      [
+        "DLSite",
+        "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG34605.html"
+      ],
+      [
+        "Ci-en",
+        "https://ci-en.dlsite.com/creator/14426"
+      ],
+      [
+        "Twitter",
+        "https://x.com/ZQGArudtl8u0qqD"
+      ],
+      [
+        "Pixiv",
+        "https://www.pixiv.net/en/users/16666204"
+      ]
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Completed",
+    "os": "Windows",
+    "language": "English (Fan Transalation)",
+    "release": "2026-01-18",
+    "updated": "2026-11-08",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "2D Game",
+      "2DCG",
+      "Adventure",
+      "Animated",
+      "Corruption",
+      "Fantasy",
+      "Female Protagonist",
+      "Japanese Game",
+      "Multiple Endings",
+      "RPG"
+    ],
+    "overview": "Elysia, a lone priestess, has been dispatched to a certain small town. Her organization, the \u201cEld Kingdom Church,\u201d is a group that sends clergy to towns and villages sacrificed during the Great War to provide reconstruction support for those affected by the conflict. While Elysia was sent to this small town for that same purpose, she also carries a secret, simultaneous mission: \u201cThe tracking and discovery of fragments of cursed magical weapons used in the Great War.\u201d Even a mere fragment of a cursed weapon possesses enough power to wipe out an entire town with a hex; unless the weapons themselves are removed, the number of victims will never decrease. However, if rumors were to spread that such items were located in \u201cthat town,\u201d it would lead to secondary disasters\u2014therefore, the Church has carried out these orders in strict secrecy. Thus, Elysia\u2019s mission begins. But will she truly be able to return from this town unscathed\u2026?",
+    "size": "",
+    "format": "ZIP (Windows)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/pnR6b53U"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/u922qgtQ"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!CkJmAS5C!eGuYkCoZuNRWBeoHyr5epvgKBzuTYKwxSbIn2WGSFis"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/KFRQZXqbxtp"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/r0brwfs3bs8s"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/p6r0iwi0kqfz/Fair-Skinned_Big-Breasted_Sisters_Curse_Ritual_Training.zip"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/nhyhx3x00eqy2ug/Fair-Skinned+Big-Breasted+Sister%27s+Curse+Ritual+Training.zip/file"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/fair-skinned-big-breasted-sisters-curse-ritual-training-v1-2-0-mr-delicatessen/",
+    "censored": "Yes (Mosaics)",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "king-of-brothels-v0-1-kingofbrothels",
+    "title": "King Of Brothels",
+    "version": "v0.1",
+    "version_full": "0.1",
+    "developer": "KingOfBrothels",
+    "developer_links": [
+      [
+        "Patreon",
+        "https://www.patreon.com/KingOfBrothels"
+      ],
+      [
+        "Discord",
+        "https://discord.com/invite/gMwW9FE"
+      ],
+      [
+        "Twitter",
+        "https://www.twitter.com/kbrothels"
+      ],
+      [
+        "Reddit",
+        "https://www.reddit.com/user/KingOfBrothels/"
+      ]
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Abandoned",
+    "os": "Windows",
+    "language": "English",
+    "release": "2020-06-07",
+    "updated": "2020-06-07",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "3D Game",
+      "Corruption",
+      "Male Protagonist",
+      "Romance",
+      "Strategy"
+    ],
+    "overview": "\u201cKing of Brothels\u201d is an 3D adult based game featuring the most elaborate management gameplay with build high-graphics. You\u2019ll get to manage your club and build it as you like while controlling the club\u2019s policies, managing the club\u2019s finances, hiring employees (men and women), bribing cops, dealing with the mafia, dealing with costumers and so on. But\u2026 managing an adult club has it\u2019s benefits and you\u2019ll get to enjoy the club you\u2019ve built as well and you also need to test the girls before accepting them to work, don\u2019t you?",
+    "size": "",
+    "format": "ZIP (Windows)",
+    "changelog": [
+      [
+        "2020",
+        [
+          "06-07"
+        ]
+      ],
+      [
+        "2020",
+        [
+          "04-22"
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!2f513DRC!cjSuTTH9QmB73hR7okuFQHYv5mbTzibTlcYTikfEwDw"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/king-of-brothels-v0-1-kingofbrothels/",
+    "censored": "No",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "bouncing-boobs-v2-0-0-sleaze-games",
+    "title": "Bouncing Boobs",
+    "version": "v2.0.0",
+    "version_full": "2.0.0",
+    "developer": "Sleaze-Games",
+    "developer_links": [
+      [
+        "Itch-io",
+        "https://sleazegames.itch.io/"
+      ],
+      [
+        "Sleaze-Games",
+        "https://sleaze.games/"
+      ],
+      [
+        "X (Twitter)",
+        "https://x.com/SleazeGames"
+      ]
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Abandoned",
+    "os": "Windows",
+    "language": "English",
+    "release": "2026-11-07",
+    "updated": "2026-11-08",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "3DCG",
+      "Animated",
+      "Female Protagonist"
+    ],
+    "overview": "Take control of both hands in a first-person physics playground. Start gently, experiment with your approach, and watch her respond. Soft-body physics brings the bounce, while her voice and reactions tell you how things are going.",
+    "size": "",
+    "format": "ZIP (Windows)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/ZizYgG6H"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/0zZyma5A#bcodAVodsVieqPk9JuA-5AqtU6-zgEhepSimcFH_CuQ"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/de7go27ocehk/Bouncing_Boobs-2.0.0.zip"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/FGzPu953TwG"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/bouncing-boobs-v2-0-0-sleaze-games/",
+    "censored": "No",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "sandstorm-erastorm-saga-1-v2-5-beta-gleenx-studio",
+    "title": "SandStorm (EraStorm Saga #1)",
+    "version": "v2.5 Beta",
+    "version_full": "2.5 Beta Steam",
+    "developer": "GleenX Studio",
+    "developer_links": [
+      [
+        "Patreon",
+        "https://www.patreon.com/gleenXstudio/"
+      ],
+      [
+        "Discord",
+        "https://discord.com/invite/ujruAR7eDd"
+      ],
+      [
+        "Youtube",
+        "https://www.youtube.com/channel/UCA_mf0XtNU5K-pdoqpaMtDg"
+      ],
+      [
+        "itch.io",
+        "https://gleenxstudio.itch.io/"
+      ],
+      [
+        "Twitter",
+        "https://twitter.com/GleenxS"
+      ]
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Completed",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English, +14",
+    "release": "2026-11-06",
+    "updated": "2026-11-08",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "3DCG",
+      "Adventure",
+      "Animated",
+      "Fantasy",
+      "Male Protagonist",
+      "Multiple Endings",
+      "Romance"
+    ],
+    "overview": "You just joined some friends on what was supposed to be a fun trip to Egypt. However, things turned sour and you got thrown into an epic adventure full of ancient mysteries. Trailers:",
+    "size": "approx. ~1GB",
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)",
+    "changelog": [
+      [
+        "2023",
+        [
+          "05-02"
+        ]
+      ],
+      [
+        "2022",
+        [
+          "07-08"
+        ]
+      ],
+      [
+        "2022",
+        [
+          "05-10"
+        ]
+      ],
+      [
+        "2022",
+        [
+          "02-12"
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/2d9o2flsz3vc"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/e0ndagn1tdvt/SandStorm-v2.5-beta-pc.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!MmgUBDKB!RexKczOio64FADBZRsTavySp9Z-L2XwFga76T25V11w"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/FR7AQ5Jo"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/2d9o2flsz3vc"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/e0ndagn1tdvt/SandStorm-v2.5-beta-pc.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!MmgUBDKB!RexKczOio64FADBZRsTavySp9Z-L2XwFga76T25V11w"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/FR7AQ5Jo"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/1z52tr0d7puf"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/qud2gwxfe4mh/SandStorm-v2.5-beta-mac.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!V3JyhbBJ!G2iRFMDnPz6BtNxvNMQwzMVz4cgpJgp6eLmL-XFPWFk"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/vbpQ24Ze"
+        }
+      ],
+      "Android": [
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/7clm9v825a3u/SandStorm-v2.02.apk"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/OVBAm1"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!rlgwXARQ!CyZv0vVmUa06APphoSItLEpoA5aY8RTEjlPDbN06HR8"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/Fk7e1iqd"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/sandstorm-erastorm-saga-1-v2-5-beta-gleenx-studio/",
+    "censored": "No",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "lust-doll-plus-v91-1-indivi",
+    "title": "Lust Doll Plus",
+    "version": "v91.1",
+    "version_full": "91.1",
+    "developer": "Indivi",
+    "developer_links": [
+      [
+        "Indivi",
+        "https://f95zone.to/members/indivi.124429/"
+      ],
+      [
+        "Patreon",
+        "https://www.patreon.com/indivi"
+      ],
+      [
+        "Wiki",
+        "https://wiki.smutosaur.us/LustDoll/Main_Page"
+      ],
+      [
+        "Twitter",
+        "http://twitter.com/indivigames"
+      ],
+      [
+        "Discord",
+        "https://discord.gg/nKQGYKk"
+      ],
+      [
+        "Itch.io",
+        "https://indivi.itch.io/"
+      ],
+      [
+        "GameJolt",
+        "https://gamejolt.com/@IndiviGames"
+      ],
+      [
+        "Newgrounds",
+        "https://indivigames.newgrounds.com/"
+      ],
+      [
+        "New Wiki",
+        "https://lustdollplus.miraheze.org/wiki/Main_Page"
+      ]
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "RPGM",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English",
+    "release": "2026-11-07",
+    "updated": "2026-11-08",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "2D Game",
+      "2DCG",
+      "Female Protagonist",
+      "Male Protagonist",
+      "RPG"
+    ],
+    "overview": "Lust Doll Plus is set in a post-apocalyptic semi-modern/future world, where you start alone and confused in a dangerous place, with literally nothing (not even clothes on your back), and go on to carve out a piece of the world for yourself. There\u2019ll be a main storyline to follow, but the emphasis is on it being an open world game where you just screw around and have fun. There\u2019s a large emphasis on body configuration and gender identity. You choose who you want to be at the beginning, but your body may change over the course of the game, depending on your actions. You\u2019ll also be able to control what kind of content you can see in the game. For example, if you wish for your character to have sex with only males or only females, or if you don\u2019t want to see a particular kink, then you can disable them.",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)",
+    "changelog": [
+      [
+        "1",
+        [
+          "Extract to desired location."
+        ]
+      ],
+      [
+        "2",
+        [
+          "Click on \u201cGame.exe\u201d to start playing."
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/19411/?k=cd9887423c2e&h=pixeldrain.com"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/19411/?k=611242d1a9ee&h=datanodes.to"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/19411/?k=a197b4344d0a&h=mega.nz"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/19411/?k=f11d66dda58d&h=bzzhr.to"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://f95zone.to/dl/19411/?k=dfc5517bd312&h=www.mediafire.com"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/19411/?k=a1aee2e3fe5e&h=pixeldrain.com"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/19411/?k=28cfe64d9868&h=datanodes.to"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/19411/?k=196299aab303&h=mega.nz"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/19411/?k=6d37f6226bb0&h=bzzhr.to"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://f95zone.to/dl/19411/?k=0f7eccfb2bd9&h=www.mediafire.com"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/19411/?k=c2cb3ef10886&h=pixeldrain.com"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/19411/?k=f5cbe1f36746&h=datanodes.to"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/19411/?k=7d252edaeb32&h=mega.nz"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/19411/?k=c30ae3bd0e1c&h=bzzhr.to"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://f95zone.to/dl/19411/?k=f4516da30be1&h=www.mediafire.com"
+        }
+      ],
+      "Android": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/19411/?k=be4c6d969eb6&h=pixeldrain.com"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/19411/?k=fbd72099e266&h=datanodes.to"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/19411/?k=614198f15613&h=mega.nz"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/19411/?k=93eb3a7942ae&h=bzzhr.to"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://f95zone.to/dl/19411/?k=9343280e5373&h=www.mediafire.com"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/lust-doll-plus-v91-1-indivi/",
+    "censored": "No",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "curvy-town-v0-8-2-hvostt",
+    "title": "Curvy Town",
+    "version": "v0.8.2",
+    "version_full": "0.8.2 + Prologue DLC \u201cBad Sam\u201d",
+    "developer": "Hvostt",
+    "developer_links": [
+      [
+        "Hvostt",
+        "https://f95zone.to/members/hvostt.3581162/"
+      ],
+      [
+        "Boosty",
+        "https://boosty.to/hvostt"
+      ],
+      [
+        "DeviantArt",
+        "https://www.deviantart.com/hvostt"
+      ],
+      [
+        "Discord",
+        "https://discord.gg/t2zZC5FaH5"
+      ],
+      [
+        "itch.io",
+        "https://hvostt.itch.io/curvy-town"
+      ]
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English, Russian",
+    "release": "2026-11-08",
+    "updated": "2026-11-08",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres": [
+      "2DCG",
+      "AI CG",
+      "Female Protagonist",
+      "Transformation"
+    ],
+    "overview": "This is VN about a city in which everything changes at some point in the life of every girl. The player will have to meet these changes together with Sam.",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac) \u00b7 APK (Android)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/nyJ03RJb#wRxhtbLVHGsEJg33D7IqVIdxJml7gkdxnr6EWcMTaaE"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/l/9D1QqdQN"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/archive/bp2cLdg6YP"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/y488pblz53b1"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/beao0c8xjo3b/CurvyTown-v-0.8.2-pc.zip"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/nyJ03RJb#wRxhtbLVHGsEJg33D7IqVIdxJml7gkdxnr6EWcMTaaE"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/l/9D1QqdQN"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/archive/bp2cLdg6YP"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/y488pblz53b1"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/beao0c8xjo3b/CurvyTown-v-0.8.2-pc.zip"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/TjZSmL4Q#DpJnD5msj3eWcGGQByUTvVkcQlNT7H_J2mVVDcR2_24"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/l/9D1QqdQN"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/archive/bp2cLdg6YP"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/ysba8lphonat"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/d4bmk9vqubpv/CurvyTown-v-0.8.2-mac.zip"
+        }
+      ],
+      "Android": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/eyhG2BjC#QMJz55MgP3MQAgYqBFWmyl_PBPL0YdDunVy2qXw7amY"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/l/9D1QqdQN"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/archive/bp2cLdg6YP"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/fza549yt03mc"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/ejrqkzdm3ies/CurvyTown-v-0.8.2-and.apk"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/curvy-town-v0-8-2-hvostt/",
+    "censored": "No",
+    "source": "f95zone.to.it"
   }
 ]

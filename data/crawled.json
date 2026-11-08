@@ -1,992 +1,378 @@
 [
   {
-    "slug": "bangmon-v0-2-1-bangdevmon",
-    "title": "BangMon",
-    "version": "v0.2.1",
-    "version_full": "0.2.1",
-    "developer": "BangDevMon",
+    "slug": "champion-of-i-luxuria-v0-0-45-idyllune",
+    "title": "Champion of I: Luxuria",
+    "version": "v0.0.45",
+    "version_full": "0.0.45",
+    "developer": "Idyllune",
     "developer_links": [
       {
-        "label": "BangDevMon",
-        "url": "https://f95zone.to/members/bangdevmon.234789/"
-      },
-      {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/cw/BangDevMon"
+        "label": "Idyllune",
+        "url": "https://f95zone.to/members/idyllune.7424391/"
       },
       {
         "label": "Itch.io",
-        "url": "https://bangdevmon.itch.io/bangmon"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discord.gg/jPTMvMEj34"
-      }
-    ],
-    "installation": [
-      "1. Download the rar file and extract.",
-      "2. Open the html file to launch it in your browser, or drag and drop the html file into your browser."
-    ],
-    "status": "Ongoing",
-    "engine": "HTML",
-    "os": "Windows, Linux, Mac",
-    "language": "English",
-    "release": "2026-10-09",
-    "updated": "2026-10-29",
-    "published": "2026-10-30",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "2d game",
-      "2dcg",
-      "ahegao",
-      "ai cg",
-      "big ass",
-      "big tits",
-      "corruption",
-      "creampie",
-      "exhibitionism",
-      "groping",
-      "handjob",
-      "harem",
-      "incest",
-      "male protagonist",
-      "masturbation",
-      "milf",
-      "oral sex",
-      "parody",
-      "teasing",
-      "tentacles",
-      "titfuck",
-      "vaginal sex",
-      "voyeurism"
-    ],
-    "genres": [
-      "2D Game",
-      "2DCG",
-      "AI CG",
-      "Corruption",
-      "Harem",
-      "Male Protagonist",
-      "HTML"
-    ],
-    "overview": "BangMon is an NSFW monster girl-focused trainer game where you take on the role of a silent protagonist traveling through the world of BangMon. You have to catch all of them! Catch them, battle with them, form deep “bonds”, and enjoy plenty of “scenes”. Gameplay is mixed with NSWF content, battles, story, and exploration.",
-    "size": "",
-    "format": "ZIP (Windows / Linux / Mac) · HTML (browser)",
-    "changelog": [
-      [
-        "Update 0.2.1:",
-        [
-          "Added 3 NSFW Scenes",
-          "Added 3 Bangmon Variants (Basically the same Bangmon with a different element, an aesthetic change, and it’s own NSFW capture scene)",
-          "The 3 new variants will spawn in specific weather",
-          "Gave the 3 Starters 1 Halloween Witch themed Skins each",
-          "Gave the Route 3 Bangmon several Halloween Witch themed Skins",
-          "Added Special Outfit Shop NPC on route 3",
-          "Added Weather and Special Weather Spawns (Activates once you progress the story past said area)",
-          "Added Skin Applicator Items (You can get some skins as a Single Use Item and apply them to viable Bangmon, you can swap between that Bangmon’s skins in their status screen)",
-          "Added BangDex Feature where it shows you spawn rates and locations of Bangmon and their Skins",
-          "Gave Tall Grass Objects animations (it’s connected to the animations on/off switch)",
-          "Added an Intensive Animations On/Off Switch under Options",
-          "Added framework for a few new systems I’m going to add soon such as Intrinsic Skills"
-        ]
-      ]
-    ],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/07/6308286_BangMon_TitleBanner2.webp",
-    "screenshots": [
-      "https://f95zone.to.it/wp-content/uploads/2026/09/6512893_Preview_Collection1.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6649619_Preview_NewBangMons_MindGoblinBeeDestroyer.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6649621_Preview_NewBangMons_Area3.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/09/6512895_Preview_NewBangMons_SlimeCoral.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/09/6512894_Preview_IntimacyScenes_DroneAndMinnnow.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6649622_Preview_Screenshot_ScarletBJ.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/07/6308179_1_1_1_Pose_1_1.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/07/6308181_3_1_1_Pose_1_1.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/07/6308180_2_1_1_Pose_1_1.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/07/6308120_Screenshot_2026-06-01_143000.webp"
-    ],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/21099596/?k=7be221a0bd38&h=mega.nz"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://f95zone.to/dl/21099596/?k=c84dae3cc805&h=www.mediafire.com"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://f95zone.to/dl/21099596/?k=3243d52f42f4&h=datanodes.to"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/21099596/?k=4a3241dd84f9&h=pixeldrain.com"
-        }
-      ],
-      "Linux": [],
-      "Mac": []
-    },
-    "source_url": "https://f95zone.to.it/bangmon-v0-2-1-bangdevmon/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "facefuck-madness-reloaded-v0-19-mercurydev",
-    "title": "Facefuck Madness Reloaded",
-    "version": "v0.19",
-    "version_full": "0.19",
-    "developer": "MercuryDev",
-    "developer_links": [
-      {
-        "label": "MercuryDev",
-        "url": "https://f95zone.to/members/mercurydev.3147222/"
+        "url": "https://idyllune.itch.io"
       },
       {
         "label": "Patreon",
-        "url": "https://www.patreon.com/mercurydev"
-      },
-      {
-        "label": "Boosty",
-        "url": "https://boosty.to/mercurydev"
-      },
-      {
-        "label": "Itch.io",
-        "url": "https://mercurydeveloper.itch.io/"
+        "url": "https://www.patreon.com/c/Idyllune"
       },
       {
         "label": "Discord",
-        "url": "https://discord.gg/hQwMPjyfsD"
+        "url": "https://discord.gg/Cde2hJHT9j"
       },
       {
-        "label": "Website",
-        "url": "https://mercurydev.org"
-      }
-    ],
-    "installation": [
-      "1. Extract and run."
-    ],
-    "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac, Android",
-    "language": "English, Russian",
-    "release": "2026-10-29",
-    "updated": "2026-10-29",
-    "published": "2026-10-30",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "2d game",
-      "2dcg",
-      "ahegao",
-      "anal sex",
-      "animated",
-      "cheating",
-      "creampie",
-      "dating sim",
-      "group sex",
-      "harem",
-      "humiliation",
-      "male domination",
-      "male protagonist",
-      "management",
-      "milf",
-      "mind control",
-      "Mobile",
-      "oral sex",
-      "rpg",
-      "sandbox",
-      "sexual harassment",
-      "slave",
-      "teasing",
-      "titfuck",
-      "vaginal sex"
-    ],
-    "genres": [
-      "2D Game",
-      "2DCG",
-      "Animated",
-      "Dating Sim",
-      "Harem",
-      "Male Protagonist",
-      "Management",
-      "RPG",
-      "Sandbox"
-    ],
-    "overview": "In Facefuck Madness Reloaded you take the role of a former porn actor. The ancient magic now possesses your body, and it calls you to spread it across town, allowing women’s minds to be open for craziest, filthiest sex in their lives! Build your own harem of willing fucksluts and be the ultimate champion of sex. Also, while being oral-centered, the game features a variety of different kinks, including vaginal and anal sex, of course; no hole will be left unfilled!",
-    "size": "",
-    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
-    "changelog": [
-      [
-        "v0.19",
-        [
-          "Anastasia’s capture scene has been redrawn and reanimated from scratch and looks about 468% better now",
-          "Added a new item to the mall – a TV",
-          "Added a new repeatable (with some text variations) scene with Michelle, which increases your stats (pronebone)",
-          "Expanded the wardrobe functionality: the new Michelle scene supports multiple lingerie options",
-          "Added the second regular commission (now you need to seek a blonde under 25 on Teender, triggers a unique scene and pays money)",
-          "Added a new random encounter: Chanel, an ice-cold old-money European who wants to be degraded on her own schedule",
-          "Added 5 new outfits for Teender NPCs",
-          "Added an auto-triggering one-time short memo regarding mini-games",
-          "Fixed a tiny amount of bugs and typos",
-          "Successfully adapted to Live2D as the main tool for animation from this point onwards",
-          "Swapped the static image in Anastasia’s chess scene for a newly a crafted animation",
-          "Added a procedurally generating repeatable version of the said scene, allows increase your int once every week",
-          "Added a new scene with Charlotte — going to the movies",
-          "Added a proced. gen. version of the said scene, allows to increase your art",
-          "Completely revisited the prologue, every entry in the main storyline, and each of the harem girls’ capture scenes"
-        ]
-      ]
-    ],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "https://f95zone.to.it/wp-content/uploads/2024/07/3843433_FACEFUCK_MADNESS_1.webp",
-    "screenshots": [
-      "https://f95zone.to.it/wp-content/uploads/2026/03/5884528_ffmr2.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6649462_prologue-cumshot.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/07/6264037_capture-cumshot.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5886833_pool-1774709628194.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/07/6264039_road-cumshot.webp",
-      "https://f95zone.to.it/wp-content/uploads/2025/06/4990474_sigma-cumshot.webp",
-      "https://f95zone.to.it/wp-content/uploads/2025/06/4990394_lingerie-cumshot.webp",
-      "https://f95zone.to.it/wp-content/uploads/2025/06/4990385_club-cumshot.webp",
-      "https://f95zone.to.it/wp-content/uploads/2025/06/4990393_basketball-cumshot.webp",
-      "https://f95zone.to.it/wp-content/uploads/2025/06/4990398_capture-cumshot.webp"
-    ],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "GOFILE",
-          "url": "https://f95zone.to/dl/14247062/?k=291568b30d10&h=gofile.io"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/14247062/?k=c299555b86fd&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/14247062/?k=5b9c9ccd5b14&h=pixeldrain.com"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://f95zone.to/dl/14247062/?k=0ab5bb3239d9&h=datanodes.to"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "GOFILE",
-          "url": "https://f95zone.to/dl/14247062/?k=291568b30d10&h=gofile.io"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/14247062/?k=c299555b86fd&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/14247062/?k=5b9c9ccd5b14&h=pixeldrain.com"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://f95zone.to/dl/14247062/?k=0ab5bb3239d9&h=datanodes.to"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "GOFILE",
-          "url": "https://f95zone.to/dl/14247062/?k=013d22458cee&h=gofile.io"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/14247062/?k=e517c611bb67&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/14247062/?k=c8ace57cde73&h=pixeldrain.com"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://f95zone.to/dl/14247062/?k=355e5f34d4c4&h=datanodes.to"
-        }
-      ],
-      "Android": [
-        {
-          "host": "GOFILE",
-          "url": "https://f95zone.to/dl/14247062/?k=7a99648ff742&h=gofile.io"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/14247062/?k=2c2e85facc5a&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/14247062/?k=ff2b7d22c23d&h=pixeldrain.com"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://f95zone.to/dl/14247062/?k=0c9f55fa0d1d&h=datanodes.to"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/facefuck-madness-reloaded-v0-19-mercurydev/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "femboy-behind-bars-demo-immoral-studios",
-    "title": "Femboy Behind Bars",
-    "version": "demo",
-    "version_full": "demo",
-    "developer": "Immoral Studios",
-    "developer_links": [
-      {
-        "label": "itch.io",
-        "url": "https://immoralstudios.itch.io"
+        "label": "Subscribestar",
+        "url": "https://subscribestar.adult/idyllune"
       },
       {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/cw/HornyJailStudio"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discord.gg/hJBjPdssF5"
+        "label": "Twitter",
+        "url": "https://twitter.com/Idyllune"
       }
     ],
-    "installation": [
-      "1. Extract and run."
-    ],
-    "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Mac, Linux, Android",
-    "language": "English",
-    "release": "2026-10-29",
-    "updated": "2026-10-29",
-    "published": "2026-10-30",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "2dcg",
-      "ai cg",
-      "animated",
-      "gay",
-      "handjob",
-      "male domination",
-      "male protagonist",
-      "oral sex",
-      "romance",
-      "sandbox",
-      "teasing",
-      "trap"
-    ],
-    "genres": [
-      "2DCG",
-      "AI CG",
-      "Animated",
-      "Male Protagonist",
-      "Romance",
-      "Sandbox"
-    ],
-    "overview": "Cell 168, top bunk. The plan was simple: keep your head down, owe nobody, serve the time. Then a guard shoves a new cellmate through the door, ‘as agreed’, and the plan has about a week left. Your new cellmate is Sky, a blond with freckles who answers one word at a time and draws in a notebook he keeps closed. Brody runs the block and wants Sky moved to his tier. The guard can make the paperwork go away, once, for sixty cigarettes you don’t have.",
-    "size": "",
-    "format": "ZIP (Windows / Mac / Linux) · APK (Android)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/10/6649556_1793301173744.webp",
-    "screenshots": [
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6649547_ss-1.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6649548_ss-2.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6649549_ss-3.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6649550_ss-4.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6649551_ss-5.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6649552_ss-6.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6649553_ss-7.webp"
-    ],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "DATANODES",
-          "url": "https://f95zone.to/dl/22065420/?k=a8fc61203b7e&h=datanodes.to"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://f95zone.to/dl/22065420/?k=d3b793270fb5&h=gofile.io"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/22065420/?k=8055ae19d7d1&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/22065420/?k=1101208e4a2b&h=pixeldrain.com"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/22065420/?k=42a5f7338bff&h=workupload.com"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "DATANODES",
-          "url": "https://f95zone.to/dl/22065420/?k=a8fc61203b7e&h=datanodes.to"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://f95zone.to/dl/22065420/?k=d3b793270fb5&h=gofile.io"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/22065420/?k=8055ae19d7d1&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/22065420/?k=1101208e4a2b&h=pixeldrain.com"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/22065420/?k=42a5f7338bff&h=workupload.com"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "DATANODES",
-          "url": "https://f95zone.to/dl/22065420/?k=9874e71d8df2&h=datanodes.to"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://f95zone.to/dl/22065420/?k=3152a4f9cc37&h=gofile.io"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/22065420/?k=0b4b919a18e7&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/22065420/?k=75948ac2874b&h=pixeldrain.com"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/22065420/?k=5e094044570f&h=workupload.com"
-        }
-      ],
-      "Android": [
-        {
-          "host": "DATANODES",
-          "url": "https://f95zone.to/dl/22065420/?k=8d276c5800bd&h=datanodes.to"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://f95zone.to/dl/22065420/?k=053faf474ea4&h=gofile.io"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/22065420/?k=6d9d643dc07d&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/22065420/?k=81e1025aa07a&h=pixeldrain.com"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/22065420/?k=86da09e4c775&h=workupload.com"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/femboy-behind-bars-demo-immoral-studios/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "chance-encounter-v0-2-5-sorrow",
-    "title": "Chance Encounter",
-    "version": "v0.2.5",
-    "version_full": "0.2.5",
-    "developer": "Sorrow",
-    "developer_links": [
-      {
-        "label": "Sorrow",
-        "url": "https://f95zone.to/members/sorrow_cg.29919/"
-      }
-    ],
-    "installation": [
-      "1. Extract and run."
-    ],
+    "installation": [],
     "status": "Ongoing",
     "engine": "Ren'Py",
     "os": "Windows, Linux, Mac",
     "language": "English",
-    "release": "2026-10-29",
-    "updated": "2026-10-29",
-    "published": "2026-10-30",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "3dcg",
-      "animated",
-      "big ass",
-      "big tits",
-      "corruption",
-      "creampie",
-      "exhibitionism",
-      "fantasy",
-      "female protagonist",
-      "groping",
-      "interracial",
-      "kinetic novel",
-      "lesbian",
-      "male protagonist",
-      "masturbation",
-      "monster",
-      "oral sex",
-      "pregnancy",
-      "transformation",
-      "vaginal sex"
-    ],
-    "genres": [
-      "3DCG",
-      "Animated",
-      "Corruption",
-      "Fantasy",
-      "Female Protagonist",
-      "Male Protagonist",
-      "Transformation"
-    ],
-    "overview": "Stuff is already crunched and compressed for your convenience.",
-    "size": "",
-    "format": "ZIP (Windows / Linux / Mac)",
-    "changelog": [
-      [
-        "v0.2.5",
-        [
-          "Codex with character stats and images",
-          "Rudimentary Inventory",
-          "Questbook still in the works",
-          "Overhaul of character classes",
-          "Story done until the second night at home, still have to do more choices and outcomes of the players decisions."
-        ]
-      ]
-    ],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "https://f95zone.to.it/wp-content/uploads/2025/03/4641043_f95.webp",
-    "screenshots": [
-      "https://f95zone.to.it/wp-content/uploads/2025/03/4641180_chance_screen_4.webp",
-      "https://f95zone.to.it/wp-content/uploads/2025/03/4641181_chance_screen_1.webp",
-      "https://f95zone.to.it/wp-content/uploads/2025/03/4641182_chance_screen_6.webp",
-      "https://f95zone.to.it/wp-content/uploads/2025/03/4641183_chance_screen_5.webp",
-      "https://f95zone.to.it/wp-content/uploads/2025/03/4641184_chance_screen_3.webp",
-      "https://f95zone.to.it/wp-content/uploads/2025/03/4641185_chance_screen_2.webp"
-    ],
-    "mirrors": {
-      "Linux": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://f95zone.to/dl/16364717/?k=0aa6fe0df1d9&h=bzzhr.to"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://f95zone.to/dl/16364717/?k=148143170f99&h=datanodes.to"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/16364717/?k=bef4047544c4&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/16364717/?k=88fa72028dab&h=pixeldrain.com"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/16364717/?k=4b2cdfee5d2c&h=workupload.com"
-        }
-      ],
-      "Windows": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://f95zone.to/dl/16364717/?k=0aa6fe0df1d9&h=bzzhr.to"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://f95zone.to/dl/16364717/?k=148143170f99&h=datanodes.to"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/16364717/?k=bef4047544c4&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/16364717/?k=88fa72028dab&h=pixeldrain.com"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/16364717/?k=4b2cdfee5d2c&h=workupload.com"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://f95zone.to/dl/16364717/?k=a50e236038d8&h=bzzhr.to"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://f95zone.to/dl/16364717/?k=dfa7b3e482c4&h=datanodes.to"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/16364717/?k=22d5187d5942&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/16364717/?k=3c1ce3836f28&h=pixeldrain.com"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/16364717/?k=4455fb147ec9&h=workupload.com"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/chance-encounter-v0-2-5-sorrow/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "forbidden-dungeon-v0-5-dark-forge-studios",
-    "title": "Forbidden Dungeon",
-    "version": "v0.5",
-    "version_full": "0.5",
-    "developer": "Dark Forge Studios",
-    "developer_links": [
-      {
-        "label": "Dark Forge Studios",
-        "url": "https://f95zone.to/members/darkforgestudios.8763878/"
-      },
-      {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/forbiddendungeon"
-      },
-      {
-        "label": "SubscribeStar",
-        "url": "https://subscribestar.adult/dark-forge-studios"
-      },
-      {
-        "label": "Itch.io",
-        "url": "https://darkforgestudios.itch.io/forbidden-dungeon"
-      }
-    ],
-    "installation": [
-      "1. Extract and run."
-    ],
-    "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac, Android",
-    "language": "English",
-    "release": "2026-10-29",
-    "updated": "2026-10-29",
-    "published": "2026-10-30",
+    "release": "2026-11-08",
+    "updated": "2026-11-08",
+    "published": "2026-11-08",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
       "2dcg",
-      "ai cg",
+      "anal",
       "anal sex",
       "animated",
       "bdsm",
+      "big ass",
+      "big tits",
+      "breath play",
+      "cbt",
       "corruption",
-      "creampie",
+      "cum inflation",
+      "cunnilingus",
+      "degradation",
+      "dildo",
+      "dirty talk",
+      "domination",
       "exhibitionism",
       "fantasy",
+      "feet",
+      "female domination",
+      "femboy",
+      "femdom",
+      "fingering",
+      "futa on male",
+      "futa on male(mc)",
+      "futa/trans",
+      "futanari (optional)",
+      "girl on girl",
+      "girls with dicks",
+      "hairy",
+      "handjob",
       "harem",
+      "humiliation",
+      "inflation",
+      "kissing",
+      "lesbian",
       "male protagonist",
-      "multiple penetration",
-      "multiple protagonist",
+      "masochism",
+      "monster",
+      "monster girl",
+      "muscles",
+      "muscular women",
+      "nipple play",
       "oral sex",
-      "parody",
+      "overstimulation",
+      "pegging",
+      "point & click",
+      "rimming",
       "rpg",
+      "sandbox",
       "sex toys",
+      "slapping",
+      "sounding",
+      "spanking",
+      "submission",
+      "tease & denial",
+      "teasing",
       "tentacles",
+      "tonguejob",
+      "trap",
       "turn based combat",
+      "urethral sounding",
       "vaginal sex"
     ],
     "genres": [
       "2DCG",
-      "AI CG",
       "Animated",
       "Corruption",
       "Fantasy",
       "Harem",
       "Male Protagonist",
       "RPG",
+      "Sandbox",
       "Turn Based Combat"
     ],
-    "overview": "Overview: A Roguelike Lewd Adventure Inspired by Darkest Dungeon, Solo Leveling, and the Darker Corners of Lust Forbidden Dungeon is a lewd roguelike dungeon crawler — all while plunging deep into dark desires, twisted fates, and the blurred line between heroism and hedonism. It’s a world where corruption isn’t just a force… it’s a temptation.",
+    "overview": "“You are your actions, and your actions are you. Keep your wits about you, lest you lose your life.”",
     "size": "",
-    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
-    "changelog": [
-      [
-        "v0.5",
-        []
-      ]
-    ],
+    "format": "ZIP (Windows / Linux / Mac)",
+    "changelog": [],
     "faq": [],
     "reviews_list": [],
-    "cover_url": "https://f95zone.to.it/wp-content/uploads/2025/03/4668316_21jp8A.webp",
-    "screenshots": [
-      "https://f95zone.to.it/wp-content/uploads/2026/02/5425826_respitesexdeepthroatcrusader1-ezgif.com-video-to-gif-converter_2.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/02/5425829_respitesexdoggystyle2-ezgif.com-video-to-gif-converter_1.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/09/6517787_rogue2-ezgif.com-video-to-gif-converter.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/09/6517788_crusader3-ezgif.com-video-to-gif-converter.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/09/6517799_Novo_Projeto_51.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/09/6517800_Novo_Projeto_50.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/09/6517801_Novo_Projeto_49.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/09/6517780_Novo_Projeto_48.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/09/6517781_Novo_Projeto_47.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/09/6517784_Novo_Projeto_44.webp"
-    ],
+    "cover_url": "",
+    "screenshots": [],
     "mirrors": {
       "Windows": [
         {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/16443645/?k=fc385bf8b38b&h=pixeldrain.com"
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/vxm507fsrsqx"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/qiwux14a4amd/Champion_of_I_Luxuria-0.0.45-win.zip"
         },
         {
           "host": "MEGA",
-          "url": "https://f95zone.to/dl/16443645/?k=ec157ba0e580&h=mega.nz"
+          "url": "https://mega.nz/#!D3RwXJ6R!J1Kby85r9ilX7fzZKeBE9jaLW41_voh78YtZQbH2ems"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/fjQvTWkz"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/16443645/?k=c847df5a361d&h=workupload.com"
+          "url": "https://workupload.com/file/Ty2Uj6b9GzE"
         }
       ],
       "Linux": [
         {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/16443645/?k=fc385bf8b38b&h=pixeldrain.com"
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/x3vac82yp3yv"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/s5j44yc6m7k7/Champion_of_I_Luxuria-0.0.45-linux.tar.bz2"
         },
         {
           "host": "MEGA",
-          "url": "https://f95zone.to/dl/16443645/?k=ec157ba0e580&h=mega.nz"
+          "url": "https://mega.nz/#!TzZxHQwA!jm2VGXCNlDCz54iT0_ptnnXcT6Ce9u7PrRYFSdt8DOc"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/SJWRadqY"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/16443645/?k=c847df5a361d&h=workupload.com"
+          "url": "https://workupload.com/file/VgGpgxZxjZr"
         }
       ],
       "Mac": [
         {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/16443645/?k=f2119a9893de&h=pixeldrain.com"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/16443645/?k=2e7c7b87e910&h=mega.nz"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/16443645/?k=e7f3cfaec2da&h=workupload.com"
-        }
-      ],
-      "Android": [
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/16443645/?k=fc385bf8b38b&h=pixeldrain.com"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/16443645/?k=382348dd0105&h=mega.nz"
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/t51ss5m3fobv"
         },
         {
           "host": "DATANODES",
-          "url": "https://f95zone.to/dl/16443645/?k=3d01b3128789&h=datanodes.to"
+          "url": "https://datanodes.to/1ogc9fnqxhkt/Champion_of_I_Luxuria-0.0.45-mac.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!erACwDaI!cQYBhSSJ_lppQAj3c9iZRgnol3XUuMr6qVD2HZ26B8Y"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/yocYgdcN"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/fgaggVvPTBd"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/forbidden-dungeon-v0-5-dark-forge-studios/",
+    "source_url": "https://f95zone.to.it/champion-of-i-luxuria-v0-0-45-idyllune/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "house-rules-v1-0-demo-pink-lace-games",
-    "title": "House Rules",
-    "version": "v1.0 Demo",
-    "version_full": "1.0 Demo (Chapters 1-2 of 12)",
-    "developer": "Pink Lace Games",
+    "slug": "yabunuma-the-complete-edition-v1-0-n-r-d-works",
+    "title": "Yabunuma: The Complete Edition",
+    "version": "v1.0",
+    "version_full": "1.0",
+    "developer": "N.R.D.WORKS",
     "developer_links": [
       {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/cw/PinkLaceGames"
-      },
-      {
-        "label": "Itch.io",
-        "url": "https://pinklacegames.itch.io/house-rules"
+        "label": "DLSite",
+        "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG10959.html"
       }
     ],
-    "installation": [
-      "1. Extract and run.",
-      "Windows: HouseRulesDemo.exe. Linux: HouseRulesDemo.sh.",
-      "Mac: HouseRulesDemo.app. The app isn’t signed by Apple, so the first time, right-click it and choose Open."
-    ],
+    "installation": [],
     "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac",
-    "language": "English",
-    "release": "2026-10-27",
-    "updated": "2026-10-29",
-    "published": "2026-10-30",
-    "censored": "No",
+    "engine": "Completed",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English (AI TL), Russian (AI TL), Japanese",
+    "release": "2026-11-05",
+    "updated": "2026-11-08",
+    "published": "2026-11-08",
+    "censored": "Yes (Mosaics)",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
       "2dcg",
-      "ai cg",
-      "animated",
-      "big ass",
-      "big tits",
-      "dating sim",
-      "harem",
-      "humor",
+      "blackmail",
+      "censored",
+      "cheating",
+      "corruption",
+      "creampie",
+      "female protagonist",
+      "groping",
+      "handjob",
+      "japanese game",
+      "male domination",
       "male protagonist",
-      "milf",
+      "masturbation",
+      "multiple endings",
+      "multiple protagonist",
+      "netorare",
       "oral sex",
-      "pov",
-      "romance",
-      "sandbox",
-      "teasing",
-      "vaginal sex"
+      "rape",
+      "sex toys",
+      "sexual harassment",
+      "vaginal sex",
+      "voiced",
+      "voyeurism"
     ],
     "genres": [
       "2DCG",
-      "AI CG",
-      "Animated",
-      "Dating Sim",
-      "Harem",
+      "Corruption",
+      "Female Protagonist",
+      "Japanese Game",
       "Male Protagonist",
-      "Romance",
-      "Sandbox"
+      "Multiple Endings"
     ],
-    "overview": "You’ve just inherited an apartment complex, but you have to keep it occupied or lose it. Soon you’re overrun with beautiful tenants, each with their own agenda. Meanwhile, a sleazy developer is undermining you at every turn. You must save the building, set the rules… and find out which rules are worth breaking!",
+    "overview": "An ordinary married couple, five years in, with a little daughter. One night Tomo runs into Mikio Yabunuma – his wife’s boss, a swinger – and a twisted wish takes root: he wants to watch his wife, Sakumi, with another man. What begins as the husband’s fantasy becomes a chain he can no longer stop and drags them both into it.",
     "size": "",
-    "format": "ZIP (Windows / Linux / Mac)",
+    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
     "changelog": [
       [
-        "v1.0 Demo Release",
-        []
-      ],
-      [
-        "Changelog",
+        "v1.0",
         [
-          "A free-roam map. Every morning, afternoon and evening you choose where to go and who to talk to.",
-          "Seven love interests.",
-          "Choices matter. who you spend time with, and how you treat them, determines how the storyline branches out. There are 9 endings.",
-          "Full game: 12 chapters, 384 CGs and 74 animations.",
-          "This demo: chapters 1 and 2, with 80 CGs and 7 animations."
+          "Complete Edition. First release. Both games (Yabunuma + Yabunuma 2) rebuilt in one Ren’Py project; new English & Russian translation; Japanese voices (Yabunuma 2); three selectable art modes (Original 4:3 / HD / Remaster); Windows, Linux, Mac and And"
         ]
       ]
     ],
     "faq": [],
     "reviews_list": [],
-    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/10/6645194_banner.webp",
-    "screenshots": [
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6645229_thumb1.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6645250_thumb2.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6645251_thumb3.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6645252_thumb4.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6645253_thumb5.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6645254_thumb6.webp"
-    ],
+    "cover_url": "",
+    "screenshots": [],
     "mirrors": {
       "Windows": [
         {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/22053063/?k=b1693ba0e410&h=mega.nz"
-        },
-        {
           "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/22053063/?k=d1e96a094360&h=pixeldrain.com"
+          "url": "https://pixeldrain.com/u/SxKcovNu"
         },
         {
           "host": "GOFILE",
-          "url": "https://f95zone.to/dl/22053063/?k=36d5a1b955b0&h=gofile.io"
+          "url": "https://gofile.io/d/dMHGB6tL"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/i45VQILD#akK4idSA355QCQ0A4dAr-GL00aX7nWcIuqIuM0l5MRs"
         },
         {
           "host": "DATANODES",
-          "url": "https://f95zone.to/dl/22053063/?k=681c50a27837&h=datanodes.to"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/22053063/?k=b8a0025767e3&h=workupload.com"
+          "url": "https://datanodes.to/av7hzri7qotd/Yabunuma_The_Complete_Edition-1.0-pc.zip"
         }
       ],
       "Linux": [
         {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/22053063/?k=b1693ba0e410&h=mega.nz"
-        },
-        {
           "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/22053063/?k=d1e96a094360&h=pixeldrain.com"
+          "url": "https://pixeldrain.com/u/SxKcovNu"
         },
         {
           "host": "GOFILE",
-          "url": "https://f95zone.to/dl/22053063/?k=36d5a1b955b0&h=gofile.io"
+          "url": "https://gofile.io/d/dMHGB6tL"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/i45VQILD#akK4idSA355QCQ0A4dAr-GL00aX7nWcIuqIuM0l5MRs"
         },
         {
           "host": "DATANODES",
-          "url": "https://f95zone.to/dl/22053063/?k=681c50a27837&h=datanodes.to"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/22053063/?k=b8a0025767e3&h=workupload.com"
+          "url": "https://datanodes.to/av7hzri7qotd/Yabunuma_The_Complete_Edition-1.0-pc.zip"
         }
       ],
       "Mac": [
         {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/22053063/?k=55db3528741f&h=mega.nz"
-        },
-        {
           "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/22053063/?k=7fa3e70f486e&h=pixeldrain.com"
+          "url": "https://pixeldrain.com/u/wWDUXuYj"
         },
         {
           "host": "GOFILE",
-          "url": "https://f95zone.to/dl/22053063/?k=8cf6bc1f405a&h=gofile.io"
+          "url": "https://gofile.io/d/83908D0O"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/6sRUkIrZ#8IaSBJRvvZ4ezmV2UCCn6UXB9Ii7Dq7WEx-c1V7iscM"
         },
         {
           "host": "DATANODES",
-          "url": "https://f95zone.to/dl/22053063/?k=5632be56e0e0&h=datanodes.to"
+          "url": "https://datanodes.to/gcd865vtitf5/Yabunuma_The_Complete_Edition-1.0-mac.zip"
+        }
+      ],
+      "Android": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/a1u144d1"
         },
         {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/22053063/?k=134c48b2a58c&h=workupload.com"
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/SvDkkDix"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/b0AACIjA#bSyxqA2bX4MlwxVphfC4tch0Gv-Uj59WGfmI-MLSmtI"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/v2g233cmrj5l/Yabunuma_The_Complete_Edition-1.0-android.apk"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/house-rules-v1-0-demo-pink-lace-games/",
+    "source_url": "https://f95zone.to.it/yabunuma-the-complete-edition-v1-0-n-r-d-works/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "the-hollow-hunt-v1-0-thehollowhunt",
-    "title": "The Hollow Hunt",
-    "version": "v1.0",
-    "version_full": "1.0",
-    "developer": "TheHollowHunt",
+    "slug": "scapesir-final-x-v0-3-fire-blue-monster",
+    "title": "Scapesir Final X",
+    "version": "v0.3",
+    "version_full": "0.3",
+    "developer": "Fire Blue Monster",
     "developer_links": [
       {
-        "label": "TheHollowHunt",
-        "url": "https://f95zone.to/members/thehollowhunt.12059697/"
+        "label": "Fire Blue Monster",
+        "url": "https://f95zone.to/members/firebluemonster.11320574/"
+      },
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/cw/FireBlueMonster"
+      },
+      {
+        "label": "SubscribeStar",
+        "url": "https://subscribestar.adult/firebluemonster"
       }
     ],
-    "installation": [
-      "1. Extract and run Game.exe."
-    ],
+    "installation": [],
     "status": "Ongoing",
-    "engine": "RPGM",
-    "os": "Windows",
-    "language": "English, Turkish, Russian, French, Spanish, Japanese, Portuguese",
-    "release": "2026-10-29",
-    "updated": "2026-10-29",
-    "published": "2026-10-30",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English",
+    "release": "2026-11-07",
+    "updated": "2026-11-07",
+    "published": "2026-11-08",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
@@ -994,448 +380,1071 @@
       "2d game",
       "2dcg",
       "adventure",
-      "ai cg",
-      "cheating",
+      "animated",
       "corruption",
-      "fantasy",
+      "creampie",
       "horror",
+      "humor",
       "male protagonist",
-      "netorare",
+      "Mobile",
+      "monster girl",
+      "oral sex",
+      "possession",
       "rpg",
-      "sexual harassment",
-      "stripping",
-      "turn based combat",
-      "vaginal sex",
-      "voyeurism"
+      "vaginal sex"
     ],
     "genres": [
       "2D Game",
       "2DCG",
       "Adventure",
-      "AI CG",
+      "Animated",
       "Corruption",
-      "Fantasy",
       "Horror",
       "Male Protagonist",
-      "RPG",
-      "Turn Based Combat"
+      "RPG"
     ],
-    "overview": "Vellmoor is a poor village on the edge of the Black Forest, ruled by the cold and harsh Baron Ostric. Young women are disappearing, and a killer with a lantern walks the woods at night. Teodric is a former clerk, a fearful man haunted by his past. His wife Liva is the opposite: a forester’s daughter, brave, sharp with a sword, and the most beautiful woman in the village. Every man in Vellmoor has his eyes on her, and many don’t hide it. When the Baron sends them to hunt the killer, he gives them a third companion: Lucan, the best sword in the village and its worst character. In front of Teodric he plays the loyal friend. The moment Teodric looks away, the mask comes off. Dark medieval mystery and horror, with a card-based battle system.",
+    "overview": "Time has passed since Scapesir Final X mutated from an RPG into a visual novel. The game keeps releasing update after update, and with overviews like this, some people no longer know what to expect from it.",
     "size": "",
-    "format": "ZIP (Windows)",
-    "changelog": [
-      [
-        "v1.0",
-        []
-      ],
-      [
-        "Changelog",
-        [
-          "Translations were made with AI help. If you see a mistake, please report it.",
-          "On Android the game can be played with JoiPlay.",
-          "Language can be changed in Options."
-        ]
-      ]
-    ],
+    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
+    "changelog": [],
     "faq": [],
     "reviews_list": [],
-    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/10/6647187_cover.webp",
-    "screenshots": [
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6647192_01_village.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6647193_02_forest.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6647195_03_battle.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6647196_04_lucan.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6647198_06_manor.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6647200_05_night5.webp"
-    ],
+    "cover_url": "",
+    "screenshots": [],
     "mirrors": {
       "Windows": [
         {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/qptXg4c6"
+        },
+        {
           "host": "MEGA",
-          "url": "https://f95zone.to/dl/22058851/?k=bf84f4205c4a&h=mega.nz"
+          "url": "https://mega.nz/file/YEMFQRzZ#caN41aMFQOQyZmWjfq1T_QYfocZlYVSBtAtoPCY0lJ8"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/22058851/?k=61853b7f709d&h=pixeldrain.com"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/22058851/?k=245ae98b7468&h=workupload.com"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://f95zone.to/dl/22058851/?k=6e340a9ffef8&h=bzzhr.to"
+          "url": "https://pixeldrain.net/u/uZg7bipT"
         },
         {
           "host": "DATANODES",
-          "url": "https://f95zone.to/dl/22058851/?k=312661e922a2&h=datanodes.to"
+          "url": "https://datanodes.to/vd1ansizdxr5/ScapesirFinalX-0.3-pc.zip"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/p8X5W9mzhHB"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/y1o39y9s7psd"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/qptXg4c6"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/YEMFQRzZ#caN41aMFQOQyZmWjfq1T_QYfocZlYVSBtAtoPCY0lJ8"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.net/u/uZg7bipT"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/vd1ansizdxr5/ScapesirFinalX-0.3-pc.zip"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/p8X5W9mzhHB"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/cZkVQJxQ#QIwZs7muixxRcnsNIRQZAtxjlL2_Bm_lg15E7JgJL-Y"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.net/u/SDCTiwZy"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/grtu8dcrkpla/ScapesirFinalX-0.3-mac.zip"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/Cjhbm3A9vzA"
+        }
+      ],
+      "Android": [
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/9MgtVYza"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/ABFgRQTC#TorjdfM6WnwFpxEr6yD6vNHgKdoYdm_DlJ-uWiZb8nk"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.net/u/nMe2Mpy2"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/l4ohigqnyatn/ScapesirFinalXAndroid-0.3.zip"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/AWTD7TJP4PK"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/the-hollow-hunt-v1-0-thehollowhunt/",
+    "source_url": "https://f95zone.to.it/scapesir-final-x-v0-3-fire-blue-monster/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "the-well-keeper-v1-00-ntrman",
-    "title": "The Well Keeper",
-    "version": "v1.00",
-    "version_full": "1.00",
-    "developer": "NTRMAN",
+    "slug": "adv-slave-series-i-chapter-1-final-tetoga",
+    "title": "ADV: Slave Series I Chapter 1",
+    "version": "Final",
+    "version_full": "Final",
+    "developer": "tetoga",
     "developer_links": [
       {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/ntrman/posts"
+        "label": "DLSite",
+        "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG58938.html"
       },
       {
-        "label": "Fanbox",
-        "url": "https://ntrman.fanbox.cc/"
+        "label": "Ci-en",
+        "url": "https://ci-en.dlsite.com/creator/26698"
       },
       {
         "label": "Twitter",
-        "url": "https://twitter.com/kosu900"
+        "url": "https://x.com/tetotetotetoga"
       }
     ],
-    "installation": [
-      "1. Extract and run."
-    ],
+    "installation": [],
     "status": "Ongoing",
     "engine": "Completed",
     "os": "Windows",
-    "language": "English",
-    "release": "2026-10-29",
-    "updated": "2026-10-29",
-    "published": "2026-10-30",
-    "censored": "No",
+    "language": "English (",
+    "release": "2026-06-27",
+    "updated": "2026-11-08",
+    "published": "2026-11-08",
+    "censored": "Yes (Mosaics)",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
+      "2d game",
       "2dcg",
-      "animated",
-      "big ass",
       "big tits",
-      "interracial",
+      "censored",
+      "creampie",
+      "groping",
+      "handjob",
+      "japanese game",
       "male protagonist",
-      "milf",
-      "netorare",
-      "rape",
+      "multiple endings",
+      "rpg",
+      "simulator",
+      "teasing",
       "vaginal sex"
     ],
     "genres": [
+      "2D Game",
       "2DCG",
-      "Animated",
-      "Male Protagonist"
+      "Japanese Game",
+      "Male Protagonist",
+      "Multiple Endings",
+      "RPG"
     ],
-    "overview": "The “Plot” for this one, was honestly made after the prototype was done. my only true goal was like “Hmm, I want a large titty hime-cut priestess get obliterated by slightly demonic looking humans with ritual tattoos scattered around their body while her husband and asst. priest gets stomped on the sideline”",
+    "overview": "The protagonist rescues Sophia, a maid girl and former coworker who was being sold by a slave trader. The two then begin a precarious life together. But after a certain incident, he also meets Renoa, a demon girl he finds collapsed on the ground. Two girls with very different personalities and values. Who will you spend your limited time with, and what kind of relationship will you build? Your choices will lead the story to a variety of endings.",
     "size": "",
     "format": "ZIP (Windows)",
     "changelog": [],
     "faq": [],
     "reviews_list": [],
-    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/10/6645166_twitter-gif-2111419565855150093_-_frame_at_0m0s.webp",
-    "screenshots": [
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6645150_Screenshot_2026-10-28_082633.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6640435_Screenshot_2026-10-26_191835.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6640439_Screenshot_2026-10-26_191857.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6640441_Screenshot_2026-10-26_191909.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6640821_Screenshot_2026-10-26_191931.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6640824_Screenshot_2026-10-26_192145.webp"
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/xs0leoiclvdr"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/9j0mx8zvjt4y/ADV_Slave_Series_I_Chapter_1.zip"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/7RyV7dxS"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/3ohwQKoI#RtWFjivkqIVCpxK8am3m_IfOBB8lxpgIjcuaRmqKjFE"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/adv-slave-series-i-chapter-1-final-tetoga/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "fair-skinned-big-breasted-sisters-curse-ritual-training-v1-2-0-mr-delicatessen",
+    "title": "Fair-Skinned Big-Breasted Sister’s Curse Ritual Training",
+    "version": "v1.2.0",
+    "version_full": "1.2.0",
+    "developer": "Mr. Delicatessen",
+    "developer_links": [
+      {
+        "label": "DLSite",
+        "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG34605.html"
+      },
+      {
+        "label": "Ci-en",
+        "url": "https://ci-en.dlsite.com/creator/14426"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://x.com/ZQGArudtl8u0qqD"
+      },
+      {
+        "label": "Pixiv",
+        "url": "https://www.pixiv.net/en/users/16666204"
+      }
     ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Completed",
+    "os": "Windows",
+    "language": "English (Fan Transalation)",
+    "release": "2026-01-18",
+    "updated": "2026-11-08",
+    "published": "2026-11-08",
+    "censored": "Yes (Mosaics)",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "2d game",
+      "2dcg",
+      "adventure",
+      "ahegao",
+      "animated",
+      "big ass",
+      "big tits",
+      "censored",
+      "corruption",
+      "cosplay",
+      "creampie",
+      "exhibitionism",
+      "fantasy",
+      "female protagonist",
+      "groping",
+      "handjob",
+      "internal view",
+      "japanese game",
+      "lactation",
+      "masturbation",
+      "monster",
+      "multiple endings",
+      "oral sex",
+      "pregnancy",
+      "rape",
+      "religion",
+      "rpg",
+      "sex toys",
+      "sexual harassment",
+      "tentacles",
+      "titfuck",
+      "vaginal sex",
+      "virgin"
+    ],
+    "genres": [
+      "2D Game",
+      "2DCG",
+      "Adventure",
+      "Animated",
+      "Corruption",
+      "Fantasy",
+      "Female Protagonist",
+      "Japanese Game",
+      "Multiple Endings",
+      "RPG"
+    ],
+    "overview": "Elysia, a lone priestess, has been dispatched to a certain small town. Her organization, the “Eld Kingdom Church,” is a group that sends clergy to towns and villages sacrificed during the Great War to provide reconstruction support for those affected by the conflict. While Elysia was sent to this small town for that same purpose, she also carries a secret, simultaneous mission: “The tracking and discovery of fragments of cursed magical weapons used in the Great War.” Even a mere fragment of a cursed weapon possesses enough power to wipe out an entire town with a hex; unless the weapons themselves are removed, the number of victims will never decrease. However, if rumors were to spread that such items were located in “that town,” it would lead to secondary disasters—therefore, the Church has carried out these orders in strict secrecy. Thus, Elysia’s mission begins. But will she truly be able to return from this town unscathed…?",
+    "size": "",
+    "format": "ZIP (Windows)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
     "mirrors": {
       "Windows": [
         {
           "host": "GOFILE",
-          "url": "https://f95zone.to/dl/22063047/?k=ac54d17077ad&h=gofile.io"
+          "url": "https://gofile.io/d/pnR6b53U"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/22063047/?k=06ba4080b84a&h=pixeldrain.com"
+          "url": "https://pixeldrain.com/u/u922qgtQ"
         },
         {
           "host": "MEGA",
-          "url": "https://f95zone.to/dl/22063047/?k=df584e365467&h=mega.nz"
+          "url": "https://mega.nz/#!CkJmAS5C!eGuYkCoZuNRWBeoHyr5epvgKBzuTYKwxSbIn2WGSFis"
         },
         {
-          "host": "MEDIAFIRE",
-          "url": "https://f95zone.to/dl/22063047/?k=ae06be6f06e4&h=www.mediafire.com"
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/KFRQZXqbxtp"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/r0brwfs3bs8s"
         },
         {
           "host": "DATANODES",
-          "url": "https://f95zone.to/dl/22063047/?k=b0ba75f63e24&h=datanodes.to"
+          "url": "https://datanodes.to/p6r0iwi0kqfz/Fair-Skinned_Big-Breasted_Sisters_Curse_Ritual_Training.zip"
         },
         {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/22063047/?k=29e487e88029&h=workupload.com"
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/nhyhx3x00eqy2ug/Fair-Skinned+Big-Breasted+Sister%27s+Curse+Ritual+Training.zip/file"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/the-well-keeper-v1-00-ntrman/",
+    "source_url": "https://f95zone.to.it/fair-skinned-big-breasted-sisters-curse-ritual-training-v1-2-0-mr-delicatessen/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "unspoken-v0-1-lowlight-dev",
-    "title": "Unspoken",
+    "slug": "king-of-brothels-v0-1-kingofbrothels",
+    "title": "King Of Brothels",
     "version": "v0.1",
     "version_full": "0.1",
-    "developer": "Lowlight Dev",
+    "developer": "KingOfBrothels",
     "developer_links": [
-      {
-        "label": "Lowlight Dev",
-        "url": "https://f95zone.to/members/lowlight-dev.6412238/"
-      }
-    ],
-    "installation": [
-      "1. Extract and run."
-    ],
-    "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac, Android",
-    "language": "English, [French, Italian, Portuguese, Spanish, Japanese, Russian, Korean, and Simplified Chinese](Chat GPT)",
-    "release": "2026-10-22",
-    "updated": "2026-10-29",
-    "published": "2026-10-30",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "3dcg",
-      "big tits",
-      "cheating",
-      "corruption",
-      "female protagonist",
-      "male protagonist",
-      "multiple protagonist",
-      "netorare",
-      "romance",
-      "vaginal sex"
-    ],
-    "genres": [
-      "3DCG",
-      "Corruption",
-      "Female Protagonist",
-      "Male Protagonist",
-      "Romance"
-    ],
-    "overview": "Rent is late. The wedding is on hold. Adam lost his job.Then a photo of Mia catches the attention of some people. And a man from her past, calls with an offer. To be an influencer. And then things started to change. You play Adam. You don’t decide what Mia does. You only decide who comes home to you.",
-    "size": "",
-    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
-    "changelog": [
-      [
-        "v0.1",
-        [
-          "365+ Renders",
-          "10+ Animations"
-        ]
-      ]
-    ],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/10/6646469_fcov.webp",
-    "screenshots": [
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6646561_c1s1_004.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6646563_c1s1_029.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6646571_c1s8_040.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6646564_c1s3_030.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6646566_c1s3_084.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6646568_c1s4b_005.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6646569_c1s6_031.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/10/6646570_c1s8_029.webp"
-    ],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/22056865/?k=3edb883e2ee7&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/22056865/?k=33ea8b7a300e&h=pixeldrain.com"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/22056865/?k=1c1bdd314dbb&h=workupload.com"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/22056865/?k=3edb883e2ee7&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/22056865/?k=33ea8b7a300e&h=pixeldrain.com"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/22056865/?k=1c1bdd314dbb&h=workupload.com"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/22056865/?k=181d81f021b4&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/22056865/?k=b4cd88694514&h=pixeldrain.com"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/22056865/?k=9267a4d2e693&h=workupload.com"
-        }
-      ],
-      "Android": [
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/22056865/?k=e96f71775053&h=mega.nz"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/22056865/?k=431b64b6d970&h=pixeldrain.com"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/22056865/?k=9c1a54ae21be&h=workupload.com"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/unspoken-v0-1-lowlight-dev/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "8-weeks-v0-3-1-fromplutoguy",
-    "title": "8 Weeks",
-    "version": "v0.3.1",
-    "version_full": "0.3.1",
-    "developer": "FromPlutoGuy",
-    "developer_links": [
-      {
-        "label": "FromPlutoGuy",
-        "url": "https://f95zone.to/members/fromplutoguy.9605734/"
-      },
-      {
-        "label": "Itch.io",
-        "url": "https://fromplutoguy.itch.io/8-weeks"
-      },
       {
         "label": "Patreon",
-        "url": "https://patreon.com/FromPlutoGuy"
+        "url": "https://www.patreon.com/KingOfBrothels"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/gMwW9FE"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://www.twitter.com/kbrothels"
+      },
+      {
+        "label": "Reddit",
+        "url": "https://www.reddit.com/user/KingOfBrothels/"
       }
     ],
-    "installation": [
-      "1. Extract and run."
-    ],
+    "installation": [],
     "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac",
+    "engine": "Abandoned",
+    "os": "Windows",
     "language": "English",
-    "release": "2026-10-29",
-    "updated": "2026-10-29",
-    "published": "2026-10-29",
+    "release": "2020-06-07",
+    "updated": "2020-06-07",
+    "published": "2026-11-08",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
-      "3dcg",
-      "graphic violence",
-      "group sex",
-      "handjob",
-      "harem",
-      "male domination",
+      "3d game",
+      "action",
+      "bdsm",
+      "big ass",
+      "big boob",
+      "big tits",
+      "blackmail",
+      "cheating",
+      "combat",
+      "corruption",
+      "drugs",
+      "female domination",
+      "groping",
+      "humiliation",
       "male protagonist",
-      "masturbation",
-      "oral sex",
+      "prostitution",
+      "rape",
       "romance",
-      "sex toys",
+      "sexual harassment",
+      "strategy",
+      "stripper",
+      "stripping",
       "teasing",
       "vaginal sex",
       "voyeurism"
     ],
     "genres": [
-      "3DCG",
-      "Harem",
+      "3D Game",
+      "Corruption",
       "Male Protagonist",
-      "Romance"
+      "Romance",
+      "Strategy"
     ],
-    "overview": "Overview: 8 Weeks is a visual novel about returning home after years away and trying to start over. Back in your hometown, you reconnect with people from your past and meet new ones, while your brother’s problems slowly begin to become your own. Every woman you meet has her own personality, past, and secrets waiting to be discovered. Each one has something to reveal. Your choices shape the relationships you build with the women around you, changing how they see you and how close they let you get.",
+    "overview": "“King of Brothels” is an 3D adult based game featuring the most elaborate management gameplay with build high-graphics. You’ll get to manage your club and build it as you like while controlling the club’s policies, managing the club’s finances, hiring employees (men and women), bribing cops, dealing with the mafia, dealing with costumers and so on. But… managing an adult club has it’s benefits and you’ll get to enjoy the club you’ve built as well and you also need to test the girls before accepting them to work, don’t you?",
     "size": "",
-    "format": "ZIP (Windows / Linux / Mac)",
+    "format": "ZIP (Windows)",
     "changelog": [
       [
-        "v0.3.1",
+        "2020",
         [
-          "Play Fights: keeps the timed combat minigames.",
-          "Story Fights: fights play out without timed inputs; story choices around them remain available.",
-          "Day 19 now includes an optional new scene with Fighter, featuring the longest animation in the game so far. The new scene can be found during the gym section of Day 19."
+          "06-07"
+        ]
+      ],
+      [
+        "2020",
+        [
+          "04-22"
         ]
       ]
     ],
     "faq": [],
     "reviews_list": [],
-    "cover_url": "https://f95zone.to.it/wp-content/uploads/2025/11/5482875_bannerpoprawejfhd.webp",
-    "screenshots": [
-      "https://f95zone.to.it/wp-content/uploads/2026/07/6263581_ma39.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/07/6263574_f4.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/07/6263576_rt37.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/07/6263575_gh6.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/07/6263573_c11.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/06/6201003_gi19.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/06/6200995_dmr6.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/06/6201013_qd1.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/06/6201001_ge43.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/06/6200993_ao30.webp"
-    ],
+    "cover_url": "",
+    "screenshots": [],
     "mirrors": {
-      "Linux": [
+      "Windows": [
         {
-          "host": "BUZZHEAVIER",
-          "url": "https://f95zone.to/dl/18688073/?k=adf30d0d3cc2&h=bzzhr.to"
+          "host": "MEGA",
+          "url": "https://mega.nz/#!2f513DRC!cjSuTTH9QmB73hR7okuFQHYv5mbTzibTlcYTikfEwDw"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/king-of-brothels-v0-1-kingofbrothels/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "bouncing-boobs-v2-0-0-sleaze-games",
+    "title": "Bouncing Boobs",
+    "version": "v2.0.0",
+    "version_full": "2.0.0",
+    "developer": "Sleaze-Games",
+    "developer_links": [
+      {
+        "label": "Itch-io",
+        "url": "https://sleazegames.itch.io/"
+      },
+      {
+        "label": "Sleaze-Games",
+        "url": "https://sleaze.games/"
+      },
+      {
+        "label": "X (Twitter)",
+        "url": "https://x.com/SleazeGames"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Abandoned",
+    "os": "Windows",
+    "language": "English",
+    "release": "2026-11-07",
+    "updated": "2026-11-08",
+    "published": "2026-11-08",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "3dcg",
+      "animated",
+      "big tits",
+      "female protagonist",
+      "pov",
+      "simulator",
+      "teasing"
+    ],
+    "genres": [
+      "3DCG",
+      "Animated",
+      "Female Protagonist"
+    ],
+    "overview": "Take control of both hands in a first-person physics playground. Start gently, experiment with your approach, and watch her respond. Soft-body physics brings the bounce, while her voice and reactions tell you how things are going.",
+    "size": "",
+    "format": "ZIP (Windows)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/ZizYgG6H"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/0zZyma5A#bcodAVodsVieqPk9JuA-5AqtU6-zgEhepSimcFH_CuQ"
         },
         {
           "host": "DATANODES",
-          "url": "https://f95zone.to/dl/18688073/?k=dcd0a2838e98&h=datanodes.to"
+          "url": "https://datanodes.to/de7go27ocehk/Bouncing_Boobs-2.0.0.zip"
         },
         {
-          "host": "GOFILE",
-          "url": "https://f95zone.to/dl/18688073/?k=734d4e882ad8&h=gofile.io"
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/FGzPu953TwG"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/bouncing-boobs-v2-0-0-sleaze-games/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "sandstorm-erastorm-saga-1-v2-5-beta-gleenx-studio",
+    "title": "SandStorm (EraStorm Saga #1)",
+    "version": "v2.5 Beta",
+    "version_full": "2.5 Beta Steam",
+    "developer": "GleenX Studio",
+    "developer_links": [
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/gleenXstudio/"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/ujruAR7eDd"
+      },
+      {
+        "label": "Youtube",
+        "url": "https://www.youtube.com/channel/UCA_mf0XtNU5K-pdoqpaMtDg"
+      },
+      {
+        "label": "itch.io",
+        "url": "https://gleenxstudio.itch.io/"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/GleenxS"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Completed",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English, +14",
+    "release": "2026-11-06",
+    "updated": "2026-11-08",
+    "published": "2026-11-08",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "3dcg",
+      "adventure",
+      "anal sex",
+      "animated",
+      "big ass",
+      "big tits",
+      "cheating",
+      "creampie",
+      "fantasy",
+      "group sex",
+      "humor",
+      "interracial",
+      "male domination",
+      "male protagonist",
+      "milf",
+      "Mobile",
+      "monster girl",
+      "multiple endings",
+      "multiple penetration",
+      "netorare",
+      "ntr",
+      "oral sex",
+      "rape",
+      "romance",
+      "teasing",
+      "vaginal sex"
+    ],
+    "genres": [
+      "3DCG",
+      "Adventure",
+      "Animated",
+      "Fantasy",
+      "Male Protagonist",
+      "Multiple Endings",
+      "Romance"
+    ],
+    "overview": "You just joined some friends on what was supposed to be a fun trip to Egypt. However, things turned sour and you got thrown into an epic adventure full of ancient mysteries. Trailers:",
+    "size": "approx. ~1GB",
+    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
+    "changelog": [
+      [
+        "2023",
+        [
+          "05-02"
+        ]
+      ],
+      [
+        "2022",
+        [
+          "07-08"
+        ]
+      ],
+      [
+        "2022",
+        [
+          "05-10"
+        ]
+      ],
+      [
+        "2022",
+        [
+          "02-12"
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/2d9o2flsz3vc"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/e0ndagn1tdvt/SandStorm-v2.5-beta-pc.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!MmgUBDKB!RexKczOio64FADBZRsTavySp9Z-L2XwFga76T25V11w"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/FR7AQ5Jo"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/2d9o2flsz3vc"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/e0ndagn1tdvt/SandStorm-v2.5-beta-pc.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!MmgUBDKB!RexKczOio64FADBZRsTavySp9Z-L2XwFga76T25V11w"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/FR7AQ5Jo"
         }
       ],
       "Mac": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://f95zone.to/dl/18688073/?k=adf30d0d3cc2&h=bzzhr.to"
+          "url": "https://bzzhr.to/1z52tr0d7puf"
         },
         {
           "host": "DATANODES",
-          "url": "https://f95zone.to/dl/18688073/?k=dcd0a2838e98&h=datanodes.to"
+          "url": "https://datanodes.to/qud2gwxfe4mh/SandStorm-v2.5-beta-mac.zip"
         },
         {
-          "host": "GOFILE",
-          "url": "https://f95zone.to/dl/18688073/?k=734d4e882ad8&h=gofile.io"
+          "host": "MEGA",
+          "url": "https://mega.nz/#!V3JyhbBJ!G2iRFMDnPz6BtNxvNMQwzMVz4cgpJgp6eLmL-XFPWFk"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/vbpQ24Ze"
         }
       ],
-      "Windows": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://f95zone.to/dl/18688073/?k=adf30d0d3cc2&h=bzzhr.to"
-        },
+      "Android": [
         {
           "host": "DATANODES",
-          "url": "https://f95zone.to/dl/18688073/?k=dcd0a2838e98&h=datanodes.to"
+          "url": "https://datanodes.to/7clm9v825a3u/SandStorm-v2.02.apk"
         },
         {
           "host": "GOFILE",
-          "url": "https://f95zone.to/dl/18688073/?k=734d4e882ad8&h=gofile.io"
+          "url": "https://gofile.io/d/OVBAm1"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!rlgwXARQ!CyZv0vVmUa06APphoSItLEpoA5aY8RTEjlPDbN06HR8"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/Fk7e1iqd"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/8-weeks-v0-3-1-fromplutoguy/",
+    "source_url": "https://f95zone.to.it/sandstorm-erastorm-saga-1-v2-5-beta-gleenx-studio/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "lust-doll-plus-v91-1-indivi",
+    "title": "Lust Doll Plus",
+    "version": "v91.1",
+    "version_full": "91.1",
+    "developer": "Indivi",
+    "developer_links": [
+      {
+        "label": "Indivi",
+        "url": "https://f95zone.to/members/indivi.124429/"
+      },
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/indivi"
+      },
+      {
+        "label": "Wiki",
+        "url": "https://wiki.smutosaur.us/LustDoll/Main_Page"
+      },
+      {
+        "label": "Twitter",
+        "url": "http://twitter.com/indivigames"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.gg/nKQGYKk"
+      },
+      {
+        "label": "Itch.io",
+        "url": "https://indivi.itch.io/"
+      },
+      {
+        "label": "GameJolt",
+        "url": "https://gamejolt.com/@IndiviGames"
+      },
+      {
+        "label": "Newgrounds",
+        "url": "https://indivigames.newgrounds.com/"
+      },
+      {
+        "label": "New Wiki",
+        "url": "https://lustdollplus.miraheze.org/wiki/Main_Page"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "RPGM",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English",
+    "release": "2026-11-07",
+    "updated": "2026-11-08",
+    "published": "2026-11-08",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "2d game",
+      "2dcg",
+      "anal sex",
+      "character creation",
+      "creampie",
+      "dystopian setting",
+      "female domination",
+      "female protagonist",
+      "furry",
+      "futa/trans",
+      "futa/trans protagonist",
+      "gay",
+      "lesbian",
+      "male domination",
+      "male protagonist",
+      "masturbation",
+      "Mobile",
+      "pregnancy",
+      "rape",
+      "rpg",
+      "sex toys",
+      "text based",
+      "trap",
+      "vaginal sex",
+      "virgin"
+    ],
+    "genres": [
+      "2D Game",
+      "2DCG",
+      "Female Protagonist",
+      "Male Protagonist",
+      "RPG"
+    ],
+    "overview": "Lust Doll Plus is set in a post-apocalyptic semi-modern/future world, where you start alone and confused in a dangerous place, with literally nothing (not even clothes on your back), and go on to carve out a piece of the world for yourself. There’ll be a main storyline to follow, but the emphasis is on it being an open world game where you just screw around and have fun. There’s a large emphasis on body configuration and gender identity. You choose who you want to be at the beginning, but your body may change over the course of the game, depending on your actions. You’ll also be able to control what kind of content you can see in the game. For example, if you wish for your character to have sex with only males or only females, or if you don’t want to see a particular kink, then you can disable them.",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
+    "changelog": [
+      [
+        "1",
+        [
+          "Extract to desired location."
+        ]
+      ],
+      [
+        "2",
+        [
+          "Click on “Game.exe” to start playing."
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/19411/?k=cd9887423c2e&h=pixeldrain.com"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/19411/?k=611242d1a9ee&h=datanodes.to"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/19411/?k=a197b4344d0a&h=mega.nz"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/19411/?k=f11d66dda58d&h=bzzhr.to"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://f95zone.to/dl/19411/?k=dfc5517bd312&h=www.mediafire.com"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/19411/?k=a1aee2e3fe5e&h=pixeldrain.com"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/19411/?k=28cfe64d9868&h=datanodes.to"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/19411/?k=196299aab303&h=mega.nz"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/19411/?k=6d37f6226bb0&h=bzzhr.to"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://f95zone.to/dl/19411/?k=0f7eccfb2bd9&h=www.mediafire.com"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/19411/?k=c2cb3ef10886&h=pixeldrain.com"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/19411/?k=f5cbe1f36746&h=datanodes.to"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/19411/?k=7d252edaeb32&h=mega.nz"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/19411/?k=c30ae3bd0e1c&h=bzzhr.to"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://f95zone.to/dl/19411/?k=f4516da30be1&h=www.mediafire.com"
+        }
+      ],
+      "Android": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://f95zone.to/dl/19411/?k=be4c6d969eb6&h=pixeldrain.com"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://f95zone.to/dl/19411/?k=fbd72099e266&h=datanodes.to"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/19411/?k=614198f15613&h=mega.nz"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://f95zone.to/dl/19411/?k=93eb3a7942ae&h=bzzhr.to"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://f95zone.to/dl/19411/?k=9343280e5373&h=www.mediafire.com"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/lust-doll-plus-v91-1-indivi/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "curvy-town-v0-8-2-hvostt",
+    "title": "Curvy Town",
+    "version": "v0.8.2",
+    "version_full": "0.8.2 + Prologue DLC “Bad Sam”",
+    "developer": "Hvostt",
+    "developer_links": [
+      {
+        "label": "Hvostt",
+        "url": "https://f95zone.to/members/hvostt.3581162/"
+      },
+      {
+        "label": "Boosty",
+        "url": "https://boosty.to/hvostt"
+      },
+      {
+        "label": "DeviantArt",
+        "url": "https://www.deviantart.com/hvostt"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.gg/t2zZC5FaH5"
+      },
+      {
+        "label": "itch.io",
+        "url": "https://hvostt.itch.io/curvy-town"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English, Russian",
+    "release": "2026-11-08",
+    "updated": "2026-11-08",
+    "published": "2026-11-08",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "2dcg",
+      "ai cg",
+      "big ass",
+      "big tits",
+      "female protagonist",
+      "kinetic novel",
+      "milf",
+      "Mobile",
+      "school setting",
+      "simulator",
+      "transformation"
+    ],
+    "genres": [
+      "2DCG",
+      "AI CG",
+      "Female Protagonist",
+      "Transformation"
+    ],
+    "overview": "This is VN about a city in which everything changes at some point in the life of every girl. The player will have to meet these changes together with Sam.",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/nyJ03RJb#wRxhtbLVHGsEJg33D7IqVIdxJml7gkdxnr6EWcMTaaE"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/l/9D1QqdQN"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/archive/bp2cLdg6YP"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/y488pblz53b1"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/beao0c8xjo3b/CurvyTown-v-0.8.2-pc.zip"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/nyJ03RJb#wRxhtbLVHGsEJg33D7IqVIdxJml7gkdxnr6EWcMTaaE"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/l/9D1QqdQN"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/archive/bp2cLdg6YP"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/y488pblz53b1"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/beao0c8xjo3b/CurvyTown-v-0.8.2-pc.zip"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/TjZSmL4Q#DpJnD5msj3eWcGGQByUTvVkcQlNT7H_J2mVVDcR2_24"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/l/9D1QqdQN"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/archive/bp2cLdg6YP"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/ysba8lphonat"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/d4bmk9vqubpv/CurvyTown-v-0.8.2-mac.zip"
+        }
+      ],
+      "Android": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/eyhG2BjC#QMJz55MgP3MQAgYqBFWmyl_PBPL0YdDunVy2qXw7amY"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/l/9D1QqdQN"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/archive/bp2cLdg6YP"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/fza549yt03mc"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/ejrqkzdm3ies/CurvyTown-v-0.8.2-and.apk"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/curvy-town-v0-8-2-hvostt/",
     "source": "f95zone.to.it"
   },
   {
     "slug": "pinked-and-owned-v0-2-4-1-pinkedandowned",
     "title": "Pinked and Owned",
-    "version": "v0.5",
-    "version_full": "0.5 LOCKED – Hotfix 2",
+    "version": "v0.6",
+    "version_full": "0.6",
     "developer": "PinkedAndOwned",
     "developer_links": [
       {
@@ -1455,17 +1464,13 @@
         "url": "https://discord.gg/2wFGg3nWhJ"
       }
     ],
-    "installation": [
-      "1. Play directly in the browser, or",
-      "2. Download the Windows Portable ZIP (extract anywhere, run the .exe), or",
-      "3. Sideload the Android APK (enable Install Unknown Apps in system settings once, then tap the APK)."
-    ],
+    "installation": [],
     "status": "Ongoing",
     "engine": "HTML",
     "os": "Windows, Android",
     "language": "English; +9 (community-polished, completeness varies)",
     "release": "2026-02-15",
-    "updated": "2026-10-16",
+    "updated": "2026-10-30",
     "published": "2026-10-16",
     "censored": "No",
     "rating": 0.0,
@@ -1487,6 +1492,7 @@
       "masturbation",
       "multiple endings",
       "netorare",
+      "ntr",
       "oral sex",
       "romance",
       "sissification",
@@ -1508,84 +1514,54 @@
     "overview": "Pinked and Owned is an adult HTML/browser narrative game about slow feminization and a life quietly rearranging itself. You play a guy with a small chastity cage, a complicated roommate, and the kind of job that keeps asking him to wear something new. Stat-driven sandbox, explore the city, build (or lose) your resolve, and watch the story branch based on choices you didn’t even realise were choices. Active solo dev, new content every 2-3 weeks.",
     "size": "approx. ~300 MB",
     "format": "ZIP (Windows) · APK (Android) · HTML (browser)",
-    "changelog": [
-      [
-        "v0.5 WIRED – 2026-10-16 (current)",
-        [
-          "[Content] Edging and denial now have real consequences: arousal stacks through five denial levels instead of one bar, and each level changes what your scenes ask of you, what you say yes to, and what slips out at the worst moment. Full orgasms reset ",
-          "[Patreon] Keeper orders: your Owner, Sarah, Jesse and the HypnoMind Denial program can now order you to hold it. Beg for release, earn edge sessions and punishments, and watch the Tasks app count the nights for whoever holds the key.",
-          "[Content] Your clothes now run out: coming in public stains what you are wearing, stained and missing pieces stay out of your wardrobe until the laundromat errand is done, and your men’s clothes quietly leave the closet one piece at a time as your Fe",
-          "[Patreon] Bags go missing: at the beach cabin, the gym locker, the spa and the lingerie fitting room your bag can vanish, each with a way out that is not the way you came in. Walk home in what is left, borrow something from whoever is there, or buy y",
-          "[Content] The two 0.4 Patreon arcs are free for everyone: Compelled into chastity (all three ways the cage can be pressed on you) and Sage’s arc behind the knock on their door, together with their four achievements.",
-          "[Content] Long hair finally shows in nine more early-game scenes once you have it: the first morning in your kitchen, the rooftop-rain and shame dreams, yoga class, both legal-route lunch scenes, the Master’s morning inspection and aftercare, and the",
-          "[Content] The park dealer’s poppers are a real item now: the bottle lands in your inventory, shows up in the wardrobe, and he tells you to come back when it runs out instead of taking another $20 for nothing.",
-          "[Content] The Red Light District opens in the morning and afternoon instead of waiting for evening, so a trip to the laundromat fits any schedule; the clubs and the brothel still only open their doors at dusk.",
-          "[Balance] Skipping the morning routine now costs the same shower Energy the planner quotes and a manual shower takes; with high Comfort a skipped morning silently charged up to 2 extra Energy, every day.",
-          "[Balance] Conflicting traits in character creation can no longer be picked together: the dimmed card now refuses the pick with a short hint, so a build cannot start with traits that cancel each other out.",
-          "[Balance] Starting a new game asks before it replaces the auto-save of your current run; manual slots and exported saves are never touched.",
-          "[UI] The wardrobe shows how full each multi-slot group is (Accessories: 5/6), and when a full accessory budget swaps the oldest piece out for a new one, a confirm dialog asks first (‘Equipping this takes that off. Continue?’) and a toast names what c",
-          "[UI] The wig gets its own Hair slot next to Head, so you can wear it together with cat ears, a hair bow or a hood instead of choosing one of them. Saves keep their wig equipped.",
-          "[UI] Clothing shops with more than one kind of garment now have a filter row (All, Upper Body, Lower Body, …) and every item card says which slot it goes in, so a crowded store no longer mixes skirts into tops without a way to sort them out.",
-          "[UI] The German Progress app shows every storyline section again; outside English all of them, about fifty cards, were missing from the tab."
-        ]
-      ]
-    ],
+    "changelog": [],
     "faq": [],
     "reviews_list": [],
-    "cover_url": "https://f95zone.to.it/wp-content/uploads/2026/05/5967829_00_cover_banner.webp",
-    "screenshots": [
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967830_01_ui_editor.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967831_02_ui_apartment_hub.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967832_03_ui_phone_appstore.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967833_04_ui_streaming_hub.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967834_05_scene_master_first_night.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967835_06_scene_velvet_worker.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967836_07_scene_spa_dominic.webp",
-      "https://f95zone.to.it/wp-content/uploads/2026/05/5967837_08_scene_bar_vip.webp"
-    ],
+    "cover_url": "",
+    "screenshots": [],
     "mirrors": {
       "Windows": [
         {
           "host": "MEGA",
-          "url": "https://mega.nz/file/tKdX3DYS#fYKo1CKWIxHsGrLzCGWw0KD_VB6rBIbt1oA2DB-zc8k"
+          "url": "https://mega.nz/file/kHMxnAKL#2lIh6TXTntks_pGhYwmZPFA2WHhibpZxeg5NqLmy52k"
         },
         {
           "host": "GOFILE",
-          "url": "https://gofile.io/d/qo2s9bIk"
+          "url": "https://gofile.io/d/xQtuWBgz"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/s2SYwRqJ"
+          "url": "https://pixeldrain.com/u/D5ujsyLE"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/fw12wwrsvi7m/Pinked-and-Owned-Free-Portable-0.5.zip"
+          "url": "https://datanodes.to/cqrdsv8769eu/Pinked-and-Owned-Free-Portable-0.6.zip"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/2XVbSw7cZTc"
+          "url": "https://workupload.com/file/m5Dc93EJN6f"
         }
       ],
       "Android": [
         {
           "host": "MEGA",
-          "url": "https://mega.nz/file/0C9UAZ4Y#vujFi6rRJgYzRxFqYK3uYvbh7ujK8uCtcNec21iNneY"
+          "url": "https://mega.nz/file/AC1CTI5B#SR-s5qYf6BbFWp-yESn9ZxtFxUCBEM2obhfTiKdTuvc"
         },
         {
           "host": "GOFILE",
-          "url": "https://gofile.io/d/2BzUvTEx"
+          "url": "https://gofile.io/d/RmYNnGSi"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/K1QXUK8C"
+          "url": "https://pixeldrain.com/u/LVfUXVzz"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/lwm5sxapd7c4/pinked-and-owned-0.5-free.apk"
+          "url": "https://datanodes.to/9zy9pbhxax6q/pinked-and-owned-0.6-free.apk"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/mryC7LS2xvT"
+          "url": "https://workupload.com/file/m7NX4wg25z9"
         }
       ]
     },
