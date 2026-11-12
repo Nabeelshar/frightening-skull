@@ -1,32 +1,171 @@
 [
   {
-    "slug": "horny-chat-v0-010-inxylor",
-    "title": "Horny Chat",
-    "version": "v0.010",
-    "version_full": "0.010 Public",
-    "developer": "InXylor",
+    "slug": "tune-in-to-the-show-p2-ep-13-robertdeadth",
+    "title": "Tune in to the Show",
+    "version": "P2 Ep.13",
+    "version_full": "Part 2 – Episode 13",
+    "developer": "RobertDeadth",
     "developer_links": [
       {
-        "label": "itch.io",
-        "url": "https://inxylor.itch.io/"
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2203590/Tune_in_to_the_show/"
       },
       {
         "label": "Patreon",
-        "url": "https://www.patreon.com/HornyChat"
+        "url": "http://patreon.com/robertdeadth"
       },
       {
-        "label": "X/Twitter",
-        "url": "https://x.com/x_HornyChat"
+        "label": "Itch.io",
+        "url": "https://robertdeadth.itch.io/"
+      },
+      {
+        "label": "F95zone",
+        "url": "https://f95zone.to/members/robertdeadth.1114966/"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.gg/gZMqH6hz4P"
       }
     ],
     "installation": [],
     "status": "Ongoing",
-    "engine": "Godot",
-    "os": "Windows, Linux, Android, Mac",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac",
     "language": "English",
-    "release": "2026-06-14",
-    "updated": "2026-11-11",
-    "published": "2026-11-11",
+    "release": "2026-09-25",
+    "updated": "2026-11-12",
+    "published": "2026-11-12",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "3dcg",
+      "animated",
+      "big ass",
+      "big tits",
+      "creampie",
+      "group sex",
+      "handjob",
+      "harem",
+      "male protagonist",
+      "milf",
+      "oral sex",
+      "romance",
+      "teasing",
+      "titfuck",
+      "vaginal sex",
+      "virgin"
+    ],
+    "genres": [
+      "3DCG",
+      "Animated",
+      "Harem",
+      "Male Protagonist",
+      "Romance"
+    ],
+    "overview": "After two years of solitude, a chance to start anew presents itself when you’re chosen to join a new TV show. You’ll be living with 7 strangers for a month, and romance is strongly encouraged! Investigate the show’s mysteries, get to know the other participants, and most of all, let the romance blossom!",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Linux": [
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/r042iowgwfgzc09/TITTS2-0.4-pc.zip/file"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/tCVcz6e8"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/utkz7jvj5nx8/Tune_in_to_the_Show_p2-0.4-pc.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!bD52QaIR!UfCmEl4xmSBy7oe77InAPrFe3CoNScX9XzrDnAIrtkc"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/oe60gplnonmu"
+        }
+      ],
+      "Windows": [
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/r042iowgwfgzc09/TITTS2-0.4-pc.zip/file"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/tCVcz6e8"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/utkz7jvj5nx8/Tune_in_to_the_Show_p2-0.4-pc.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!bD52QaIR!UfCmEl4xmSBy7oe77InAPrFe3CoNScX9XzrDnAIrtkc"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/oe60gplnonmu"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/s60gaeq22076tcr/TITTS2-0.4-mac.zip/file"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/PpMHNpwS"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/5hsagl0kpoea/Tune_in_to_the_Show_p2-0.4-mac.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!meoWUZqR!W-98xmKJjWgqq1PFgLvSDABii529FKsoTBdfWVyfbGo"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/50g9b8abcr78"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/tune-in-to-the-show-p2-ep-13-robertdeadth/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "raise-yuri-v0-9-piggy-games",
+    "title": "Raise Yuri",
+    "version": "v0.9",
+    "version_full": "0.9",
+    "developer": "Piggy games",
+    "developer_links": [
+      {
+        "label": "Piggy games",
+        "url": "https://f95zone.to.it/raise-yuri-v0-9-piggy-games/"
+      },
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/c/piggy828"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English, Korean",
+    "release": "2026-11-12",
+    "updated": "2026-11-12",
+    "published": "2026-11-12",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
@@ -34,38 +173,33 @@
       "2dcg",
       "ahegao",
       "ai cg",
-      "animated",
-      "big ass",
-      "big tits",
-      "fantasy",
-      "humor",
-      "interracial",
+      "anal sex",
+      "creampie",
+      "dating sim",
+      "exhibitionism",
+      "groping",
+      "internal view",
+      "loli",
+      "male domination",
       "male protagonist",
-      "masturbation",
-      "milf",
       "Mobile",
-      "multiple endings",
-      "netorare",
-      "ntr/nts",
-      "oral sex",
+      "monster girl",
+      "rape",
       "romance",
-      "simulator",
-      "stripping",
-      "teasing",
-      "text based",
+      "sleep sex",
+      "titfuck",
+      "trainer",
       "vaginal sex",
       "voyeurism"
     ],
     "genres": [
       "2DCG",
       "AI CG",
-      "Animated",
-      "Fantasy",
+      "Dating Sim",
       "Male Protagonist",
-      "Multiple Endings",
       "Romance"
     ],
-    "overview": "HornyChat is a text-based role-playing game in a messenger format, where you chat with various attractive girls and develop dialogue, flirting, and the story through personal conversations.",
+    "overview": "One day, you end up raising a succubus named Yuri. Whether you care for Yuri with love or treat her harshly is up to your choice.",
     "size": "",
     "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
     "changelog": [],
@@ -74,96 +208,108 @@
     "cover_url": "",
     "screenshots": [],
     "mirrors": {
-      "Windows": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/gzauqdqf3e7d/HornyChat.exe"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/pQUkhTGs"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/xRGCjvKL"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/zQHLSNF9nVk"
-        }
-      ],
       "Linux": [
         {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/srbmjwm021to/HornyChat.x86_64"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/pgAopSgM"
+          "host": "MEGA",
+          "url": "https://mega.nz/file/vRM1TIgL#h5UcHPiWk8KLpYE1WrowR8bl48MIQarEYgiGyXEn7PY"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/H4Mxwu8x"
+          "url": "https://pixeldrain.com/u/Qic4DD2h"
         },
         {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/NduuCtcX5cp"
+          "host": "DATANODES",
+          "url": "https://datanodes.to/rmubkg2oy2tl/RaiseYuri-0.9-pc.zip"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/hh8ihrc8k7ez"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/6dt9hsz92xmcb96"
+        }
+      ],
+      "Windows": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/vRM1TIgL#h5UcHPiWk8KLpYE1WrowR8bl48MIQarEYgiGyXEn7PY"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/Qic4DD2h"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/rmubkg2oy2tl/RaiseYuri-0.9-pc.zip"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/hh8ihrc8k7ez"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/6dt9hsz92xmcb96"
         }
       ],
       "Mac": [
         {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/icpb3ovzqiq3/HornyChat_macOS.zip"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/ZMMI4s0u"
+          "host": "MEGA",
+          "url": "https://mega.nz/file/CRcwDILa#ltCUoY8S1JN0RaSC_WSenHP9ZN0t7PGAaDOpbZa4c9I"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/m4E15trt"
+          "url": "https://pixeldrain.com/u/Z71fbfoK"
         },
         {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/f2VHUwdUpxn"
+          "host": "DATANODES",
+          "url": "https://datanodes.to/zi81kpemqpu5/RaiseYuri-0.9-mac.zip"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/e2li4d7ezrmj"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/8dgokp6769i9ghw"
         }
       ],
       "Android": [
         {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/8x8tjw9c7svc/HornyChat.apk"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/Jh4n994A"
+          "host": "MEGA",
+          "url": "https://mega.nz/file/7Y8R3JxC#YWiE2hXKSG-Xyo8jVbn1j6nB-k5qOaRfvVB9Rlzk8X0"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/KAtcMDEW"
+          "url": "https://pixeldrain.com/u/dPWjPQya"
         },
         {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/8s9ZGanYkV4"
+          "host": "DATANODES",
+          "url": "https://datanodes.to/578hd6dehp36/RaiseYuri-0.9.apk"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/g0y4bu0x3o2x"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/horny-chat-v0-010-inxylor/",
+    "source_url": "https://f95zone.to.it/raise-yuri-v0-9-piggy-games/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "bikini-heroine-and-the-curse-of-lust-an-rpg-where-youre-liked-by-a-succubus-and-end-up-having-sex-with-all-the-villagers-v1-2-yoshii-tech",
-    "title": "Bikini Heroine and the Curse of Lust -An RPG where you’re liked by a succubus and end up having sex with all the villagers-",
-    "version": "v1.2",
-    "version_full": "1.2",
-    "developer": "yoshii tech",
+    "slug": "riho-falls-in-summer-a-newlywed-targeted-by-scumbags-v1-0-plum-software",
+    "title": "Riho Falls in Summer: A Newlywed Targeted by Scumbags",
+    "version": "v1.0",
+    "version_full": "1.0",
+    "developer": "Plum Software",
     "developer_links": [
       {
-        "label": "DLsite",
-        "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG02629.html"
+        "label": "DLSite",
+        "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG68573.html"
       },
       {
         "label": "Ci-en",
-        "url": "https://ci-en.dlsite.com/creator/4029"
+        "url": "https://ci-en.dlsite.com/creator/32079/article/1749617"
       }
     ],
     "installation": [],
@@ -171,40 +317,52 @@
     "engine": "Completed",
     "os": "Windows",
     "language": "English (",
-    "release": "2026-08-21",
-    "updated": "2026-11-11",
-    "published": "2026-11-11",
+    "release": "2024-07-24",
+    "updated": "2026-011-11",
+    "published": "2026-11-12",
     "censored": "Yes (Mosaic)",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
-      "2d game",
+      "2d",
       "2dcg",
-      "big ass",
       "big tits",
+      "blowjob",
       "censored",
+      "cheating",
       "corruption",
-      "creampie",
+      "cowgirl",
+      "cuckoldary (netorare)",
+      "cuckoldary (netorase)",
+      "doggy style",
       "female protagonist",
+      "gal",
       "groping",
-      "group sex",
-      "mind control",
+      "handjob",
+      "humor",
+      "internal view",
+      "japanese game",
+      "love comedy/romcom",
+      "married woman",
+      "milf",
+      "multiple endings",
       "oral sex",
-      "rpg",
-      "sandbox",
-      "strategy",
-      "vaginal sex"
+      "paid dating",
+      "prostitution",
+      "pure love",
+      "romance",
+      "vaginal sex",
+      "x ray"
     ],
     "genres": [
-      "2D Game",
       "2DCG",
       "Corruption",
       "Female Protagonist",
-      "RPG",
-      "Sandbox",
-      "Strategy"
+      "Japanese Game",
+      "Multiple Endings",
+      "Romance"
     ],
-    "overview": "An RPG where talking to the locals on a tropical island leads straight to sex. A pure-hearted girl Mina, aspiring to become a hero, finds herself cursed by a “fake nun” on a tropical island. Now, as a “Bikini Hero,” she ends up having sex with men all across the island. Scenarios include not only erotic scenes following defeat in battle, but also sexual encounters in taverns, inns, and bathhouses, as well as prostitution at a beachside shack. The curse even spreads to other heroines, leading to an abundance of steamy, fluid-filled sexual encounters! Will the “Bikini Hero” Mina manage to defeat the Demon King before she completely succumbs to the pleasure of the phallus?!",
+    "overview": "Riho, who lives in Natsukage Village, ran a restaurant with her husband Souta. Riho was living a happy newlywed life with the person she loved, but Souta’s debts were discovered! That amount…a whopping 10 million! And the repayment deadline is only 15 days away! It can never be returned in the normal way. But I have no choice but to do it. Because of her beloved husband, Riho is busy paying off her debts!",
     "size": "",
     "format": "ZIP (Windows)",
     "changelog": [],
@@ -215,210 +373,60 @@
     "mirrors": {
       "Windows": [
         {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/b5cuz8XW"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/cd8v3guowx1qwlz/%E3%83%93%E3%82%AD%E3%83%8B%E5%8B%87%E8%80%85.zip/file"
-        },
-        {
           "host": "GOFILE",
-          "url": "https://gofile.io/d/08Z1UO2N"
+          "url": "https://gofile.io/d/O5kDoGIZ"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/M7qztGMd"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/8b95iext6esd/Bikini_Heroine_and_the_Curse_of_Lust-1.2.zip"
+          "url": "https://datanodes.to/j0vh8elzn319/Riho_Falls_in_Summer_A_Newlywed_Targeted_by_Scumbags.rar"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!eWIUUT7Y!rj0JScts6gr2ki0IsEKUr2w1egeB14TXcAzjc1xHMnA"
+          "url": "https://mega.nz/#!vtASWTII!Wds91E4YF9BCTwxnDLwNBTPIKkBOocp-XdPLbelQkJk"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/Vgf3TWnE75E"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/bikini-heroine-and-the-curse-of-lust-an-rpg-where-youre-liked-by-a-succubus-and-end-up-having-sex-with-all-the-villagers-v1-2-yoshii-tech/",
+    "source_url": "https://f95zone.to.it/riho-falls-in-summer-a-newlywed-targeted-by-scumbags-v1-0-plum-software/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "not-that-stream-ch-9-legioflavia",
-    "title": "Not That Stream",
-    "version": "Ch.9",
-    "version_full": "Chapter 9",
-    "developer": "legioflavia",
+    "slug": "my-ex-future-family-s3-ep-2-tremmigames",
+    "title": "My Ex-Future Family",
+    "version": "S3 Ep.2",
+    "version_full": "Season 3 – Episode 2",
+    "developer": "tremmiGames",
     "developer_links": [
       {
-        "label": "legioflavia",
-        "url": "https://f95zone.to/members/legioflavia.9769030/"
-      },
-      {
-        "label": "Fansly",
-        "url": "https://fansly.com/legioflavia"
+        "label": "Subscribestar",
+        "url": "https://subscribestar.adult/tremmigames"
       },
       {
         "label": "Website",
-        "url": "http://hivemindcore.fun/"
+        "url": "http://tremmi.net/"
+      },
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2134860/My_Exfuture_Family/"
+      },
+      {
+        "label": "Itch.io",
+        "url": "https://tremmigames.itch.io/"
       },
       {
         "label": "Discord",
-        "url": "https://discord.com/invite/YTBpfdARB6"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac, Android",
-    "language": "English, Russian, Spanish, German, French, Brazilian Portuguese, Italian, Turkish, Hindi, Arabic",
-    "release": "2026-11-11",
-    "updated": "2026-11-11",
-    "published": "2026-11-11",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "2dcg",
-      "ai cg",
-      "anal sex",
-      "anime",
-      "corruption",
-      "erotic",
-      "group sex",
-      "male protagonist",
-      "masturbation",
-      "Mobile",
-      "netorare",
-      "oral sex",
-      "romance",
-      "swinging",
-      "teasing",
-      "vaginal sex",
-      "voyeurism"
-    ],
-    "genres": [
-      "2DCG",
-      "AI CG",
-      "Corruption",
-      "Male Protagonist",
-      "Romance"
-    ],
-    "overview": "Nate and Ellie are on vacation with Barry and Gloria. Poolside flirting, a little room for each couple to explore what they want, and the kind of chemistry that makes a quiet getaway much less quiet. Nobody’s rewriting the rules behind anyone’s back.",
-    "size": "",
-    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/960n14lhhyqm/Not_That_Stream-Ch.9.021-Windows.zip"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/akyvCw6I"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!cAM0XQBC!C4gij9ePUVr0CZkg76O-LSGdZl83VidTNxGqTlcFDpw"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/VxKmtAoB"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/yuspNHSFFfN"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/960n14lhhyqm/Not_That_Stream-Ch.9.021-Windows.zip"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/akyvCw6I"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!cAM0XQBC!C4gij9ePUVr0CZkg76O-LSGdZl83VidTNxGqTlcFDpw"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/VxKmtAoB"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/yuspNHSFFfN"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/pfwj9ory09yq/Not_That_Stream-Ch.9.021-macOS.zip"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/A7yfyz8E"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!0Ek2yTZR!GIcj1iiuPJhtySHLEL5np-K2CiCa5rZMC_MNhgWB19E"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/KskXWeeg"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/LKwYgPHJhFk"
-        }
-      ],
-      "Android": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/tvd1n5o21n2d/Not_That_Stream-Ch.9.021-Android.apk"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/N3SplSpm"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!QN1ijT6C!cRG8uc78ed9C2PpE9sMBKXarvVU17YB4owFKmTQSacU"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/Qxjzab6Z"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/EJkwHvW7uZy"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/not-that-stream-ch-9-legioflavia/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "the-receptionist-v0-2-kinky-red-fox",
-    "title": "The Receptionist",
-    "version": "v0.2",
-    "version_full": "0.2",
-    "developer": "Kinky Red Fox",
-    "developer_links": [
-      {
-        "label": "Kinky Red Fox",
-        "url": "https://f95zone.to/members/kinky-red-fox.11828057/"
+        "url": "https://discord.com/invite/v4cY6R9zJr"
       },
       {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/cw/kinkyredfox"
-      },
-      {
-        "label": "Ko-fi",
-        "url": "https://ko-fi.com/kinkfox"
+        "label": "Boosty",
+        "url": "https://boosty.to/tremmi"
       }
     ],
     "installation": [],
@@ -426,27 +434,212 @@
     "engine": "Ren'Py",
     "os": "Windows, Linux, Mac, Android",
     "language": "English",
-    "release": "2026-11-06",
-    "updated": "2026-11-11",
-    "published": "2026-11-11",
+    "release": "2026-11-11",
+    "updated": "2026-11-12",
+    "published": "2026-11-12",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
       "3dcg",
-      "big ass",
-      "big tits",
+      "anal sex",
+      "animated",
+      "bdsm",
+      "creampie",
+      "footjob",
       "groping",
-      "kinetic novel",
+      "handjob",
+      "incest",
+      "lesbian",
+      "male domination",
       "male protagonist",
-      "romance"
+      "masturbation",
+      "milf",
+      "netorare",
+      "oral sex",
+      "point & click",
+      "seduction",
+      "sex toys",
+      "sleep sex",
+      "solo",
+      "teasing",
+      "teen",
+      "twins",
+      "vaginal sex",
+      "voyeurism"
     ],
     "genres": [
       "3DCG",
-      "Male Protagonist",
+      "Animated",
+      "Male Protagonist"
+    ],
+    "overview": "Main character has an amnesia. He forgot all, parents, sisters, friends, enemies. You will know all step by step. Undress girls, help your friends and girlfriends, meet neigbours,seduce MILFS, start romantic stories with teens. If you choose light side your love stories would be sweet, trying other side could open dark possibilities of your character.",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Linux": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/yVekWBwi"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/bwignl1tsxnf/My_Ex-Future_Family_3_Episode_2_Free_Premium-0.002-pc.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!DWpjHIqD!jQl8zRMICKo4IpnRySr8KykEQTIcxpf6v0ciog2J9d0"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/8ooc2ydzmeyc"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://f95zone.to/dl/8260241/?k=5e4f5c87c5f1&h=www.mediafire.com"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/RcvL0r"
+        }
+      ],
+      "Windows": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/yVekWBwi"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/bwignl1tsxnf/My_Ex-Future_Family_3_Episode_2_Free_Premium-0.002-pc.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!DWpjHIqD!jQl8zRMICKo4IpnRySr8KykEQTIcxpf6v0ciog2J9d0"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/8ooc2ydzmeyc"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://f95zone.to/dl/8260241/?k=5e4f5c87c5f1&h=www.mediafire.com"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/RcvL0r"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/dkAqyq9s"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/qf1k1thpxu7p/My_Ex-Future_Family_3_Episode_2_Free_Premium-0.002-mac.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!7OAHBQhC!fDGSrzeRThvjpEwVaMhOvFunMrB1ObAzEKVCWUll5DM"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/cu299gmsna3i"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/br3psplddvffydc"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/iN96JS"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/QZ5kHvGumgE"
+        }
+      ],
+      "Android": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/hckJJa8S"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/dgahzjx94tzn/My_Ex-Future_Family_3_Episode_2_Free_Premium.apk"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!XW4VUCwS!MGOOkdYfh1PyIpcsU7iN3EMFg14MTphBMC-1MPf1fi4"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/j75i7poiewwg"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/yb5640me9eku1zz"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://f95zone.to/dl/8260241/?k=5c788182fac6&h=gofile.io"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/XkJQxY3XtHp"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/my-ex-future-family-s3-ep-2-tremmigames/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "the-wife-secret-v0-9-gamewave",
+    "title": "The Wife Secret",
+    "version": "v0.9",
+    "version_full": "0.9",
+    "developer": "GameWave",
+    "developer_links": [
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/cw/GameWave957"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English",
+    "release": "2026-11-11",
+    "updated": "2026-11-12",
+    "published": "2026-11-12",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "ai cg",
+      "big ass",
+      "big tits",
+      "dilf",
+      "female protagonist",
+      "milf",
+      "Mobile",
+      "real porn",
+      "romance",
+      "school setting",
+      "teasing"
+    ],
+    "genres": [
+      "AI CG",
+      "Female Protagonist",
       "Romance"
     ],
-    "overview": "Overview: Night Shift at the Hotel Lobby Your boss “stepped out for five minutes” three hours ago. Your guests ? Mostly charming ladies who need help with their luggage, their Wi-Fi, and their very broken lightbulbs. Your only backup is a dying houseplant. Keep everyone happy, keep your job, keep your dignity. What could possibly go wrong?",
+    "overview": "You follow Claire, a housewife and former nurse, living a quiet life with her husband and their twin children. At first, everything feels normal — a simple dinner, a peaceful home… but underneath that, there’s something missing. A small moment — like a pizza delivery — starts to shift things in ways that aren’t obvious at first. This game is about those subtle changes.",
     "size": "",
     "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
     "changelog": [],
@@ -457,155 +650,627 @@
     "mirrors": {
       "Windows": [
         {
-          "host": "MEGA",
-          "url": "https://mega.nz/folder/PgpkiQaJ#ZTNFyXiM1EmN1jY5JMnUIw"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/8jgnw590b0dj"
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/HaJE4ica"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/fyujugg29u4r/TheReceptionist-0.2-pc.zip"
+          "url": "https://datanodes.to/q9mup4gw99no/TheWifeSecret-0.9-pc.zip"
         },
         {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/NzAy9iFf"
+          "host": "MEGA",
+          "url": "https://mega.nz/#!mWIyxLDR!81bkL7yF9tIzz_ptAEbuQF4z2muFbDytymJUqRT6Zag"
         },
         {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/PYS3hUS3TMU"
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/2wzmq0gih79i"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/gqpuz4w79zrtjya"
         }
       ],
       "Linux": [
         {
-          "host": "MEGA",
-          "url": "https://mega.nz/folder/PgpkiQaJ#ZTNFyXiM1EmN1jY5JMnUIw"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/8jgnw590b0dj"
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/HaJE4ica"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/fyujugg29u4r/TheReceptionist-0.2-pc.zip"
+          "url": "https://datanodes.to/q9mup4gw99no/TheWifeSecret-0.9-pc.zip"
         },
         {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/NzAy9iFf"
+          "host": "MEGA",
+          "url": "https://mega.nz/#!mWIyxLDR!81bkL7yF9tIzz_ptAEbuQF4z2muFbDytymJUqRT6Zag"
         },
         {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/PYS3hUS3TMU"
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/2wzmq0gih79i"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/gqpuz4w79zrtjya"
         }
       ],
       "Mac": [
         {
-          "host": "MEGA",
-          "url": "https://mega.nz/folder/PgpkiQaJ#ZTNFyXiM1EmN1jY5JMnUIw"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/3bq5vec3fb0k"
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/uN8G33d2"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/dhbmjymoh6hc/TheReceptionist-0.2-mac.zip"
+          "url": "https://f95zone.to/dl/21124486/?k=e0e82a1288d0&h=datanodes.to"
         },
         {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/cLnp31GT"
+          "host": "MEGA",
+          "url": "https://mega.nz/#!yWYCGK5Y!-ehF_ndNe9SDP3GFS88XfuHN12bfteVGT_EbJqyRFEI"
         },
         {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/2ehwMUzRYHp"
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/pfdj7n659xtp"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/ar4d5v3peu52vwx"
         }
       ],
       "Android": [
         {
-          "host": "MEGA",
-          "url": "https://mega.nz/folder/PgpkiQaJ#ZTNFyXiM1EmN1jY5JMnUIw"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/jw0flsl07a75"
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/s3L13QJj"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/90ssldgcrf4p/TheReceptionist-0.2.apk"
+          "url": "https://datanodes.to/9wrcrcsum2k7/TheWifeSecret-0.9.apk"
         },
         {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/jBJmfV84"
+          "host": "MEGA",
+          "url": "https://mega.nz/#!bSoQABTK!6zg9oJAt8Oee5JI3hnx3Q5_XtrlCp2LEyRb1cSDc8Ys"
         },
         {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/LyVRm7xdavR"
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/16bo5xxa8jkm"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/i9pm3ojfl2b2twh"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/the-receptionist-v0-2-kinky-red-fox/",
+    "source_url": "https://f95zone.to.it/the-wife-secret-v0-9-gamewave/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "paradis-v0-1-11-demo-terpsichore",
-    "title": "Paradis",
-    "version": "v0.1.11 Demo",
-    "version_full": "0.1.11 Demo",
-    "developer": "Terpsichore",
+    "slug": "moncurse-v0-7-1-3-kamuu",
+    "title": "MonCurse",
+    "version": "v0.7.1.3",
+    "version_full": "0.7.1.3",
+    "developer": "Kamuu",
     "developer_links": [
       {
-        "label": "Website",
-        "url": "https://terpsichore.dev"
+        "label": "Patreon",
+        "url": "https://www.patreon.com/moncurse"
       },
       {
         "label": "Discord",
-        "url": "https://discord.gg/HZc5AnwFJs"
+        "url": "https://discord.com/invite/8Np5Fjw4wp"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/KamuuR18"
+      },
+      {
+        "label": "Itch.io",
+        "url": "https://kamoo.itch.io/monmusu-curse"
       }
     ],
     "installation": [],
     "status": "Ongoing",
-    "engine": "Others",
-    "os": "Windows",
-    "language": "English, +17",
-    "release": "2026-11-10",
-    "updated": "2026-11-11",
-    "published": "2026-11-11",
+    "engine": "Godot",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English, Chinese",
+    "release": "2026-11-08",
+    "updated": "2026-11-12",
+    "published": "2026-11-12",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
-      "ahegao",
-      "ai cg",
+      "2d game",
+      "2dcg",
+      "adventure",
+      "big tits",
+      "corruption",
+      "fantasy",
+      "female domination",
+      "female protagonist",
+      "futa/trans",
+      "groping",
+      "lactation",
+      "lesbian",
+      "mind control",
+      "Mobile",
+      "monster girl",
+      "multiple endings",
+      "platformer",
+      "possession",
+      "pregnancy",
+      "side-scroller",
+      "transformation",
+      "turn based combat",
+      "vaginal sex"
+    ],
+    "genres": [
+      "2D Game",
+      "2DCG",
+      "Adventure",
+      "Corruption",
+      "Fantasy",
+      "Female Protagonist",
+      "Multiple Endings",
+      "Transformation",
+      "Turn Based Combat"
+    ],
+    "overview": "An esoteric RPG where nothing is sacred. Every corruption is fully illustrated across sex scenes! Fight through lewd monster-girls who use hypnosis, possession, cursed items – anything to change and claim you for themselves.",
+    "size": "approx. ~20MB",
+    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/KquBgUvf"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/wzj6j875797m/MonCurse_V0.7.1.3.2_WIN.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/bbIX0baQ#63OL9YpTDEX6TQpI6Ql0JHLuxt12BD83ge-E4wlNed0"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/9m9yw40ml17u"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/bvftlroinrn04hs"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/GWcVaFT2"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/qmtueovv2rol/MonCurse_V0.7.1.3.2_LIN.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!HDRWnK4Z!sH72PIFoDYA5OJSmKoEWKjJlDPy8Tn4XlIw5fxCfJZ0"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/u22gf86utyvz"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/6jx17owmukdxyxh"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/fksGSq65"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/9qqnotu53ffa/MonCurse_V0.7.1.3.2_OSX.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!qGggFIZa!2V7Uexdoym0335bUxOv01iMgiD85OsNXWUxfztgsHz0"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/rw6eipi6f2j8"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/vj6b67k495n36g8"
+        }
+      ],
+      "Android": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/URai3vDf"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/efeo6m3khnx3/MonCurse_V0.7.1.3.2_ANDROID.apk"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!zaokEBoJ!jR0BtlK9UNe4bdX3RSBWX76uIBrL_wpKqUPhkwOYd0k"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/3a9paakluxku"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/lllfinm0fkt88va"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/moncurse-v0-7-1-3-kamuu/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "contract-breeder-demo-v0-1-vanabette",
+    "title": "Contract Breeder",
+    "version": "Demo v0.1",
+    "version_full": "Demo – 0.1",
+    "developer": "Vanabette",
+    "developer_links": [
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/cw/vanabette"
+      },
+      {
+        "label": "itch.io",
+        "url": "https://vanabette.itch.io/"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.gg/cRkDztAXnV"
+      },
+      {
+        "label": "X/Twitter",
+        "url": "https://x.com/Vanabette"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Godot",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English, Polish",
+    "release": "2026-11-11",
+    "updated": "2026-11-12",
+    "published": "2026-11-12",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "2dcg",
       "animated",
-      "bdsm",
+      "creampie",
+      "fantasy",
+      "groping",
+      "management",
+      "monster",
+      "monster girl",
+      "point & click",
+      "pregnancy",
+      "spanking",
+      "teasing",
+      "vaginal sex"
+    ],
+    "genres": [
+      "2DCG",
+      "Animated",
+      "Fantasy",
+      "Management"
+    ],
+    "overview": "18+ management sim about running a breeding farm on a loan from Hellstock Inc. Breed humans, elves and beastfolk, sell the offspring and keep the Creditor paid. Or breed the girls yourself.",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/dzzqx7x0jnuf/Contract_Breeder_0.1-_windows.zip"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/7f9nfq75youvy0w"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!RMhDQQLD!7fZQ9wZj2mm6lJ3lN-mz2W5h-PyCeVtJJFXwsFOtoBc"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/bVSuyHmu"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/WayAp5NwCXs"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/dy44n584c55h/Contract_Breeder_0.1_-_linux.zip"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/o9fd2p63lzvpo0z"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!IYY3waKZ!ddvcjHv3rSMUuvxh6zSCVqeK5LxG8dZGhF8wvQHLpTE"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/u5i2eDq9"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/hpTgBaShtd2"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/la21ysjsumxx/Contract_Breeder_0.1_-_macOS.zip"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/uc4ydfdwrznzqps"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!tMB0XTYD!4on4wgFpNCl_TjfileO3f5QEXRIw_5_VhSBRLoPfMjk"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/VgWQfhyu"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/nEsYXqYpAvh"
+        }
+      ],
+      "Android": [
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/nml3b4qte5mh/Contract_Breeder_0.1_-_android.zip"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/decapd77y58euyh"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!BNJ2lBCb!0tuj2TPunD-zhUEBXGpOTr-tsYey0AR2vMTWVZ4KbZ0"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/A9UVVbw1"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/D8ryRSfHVSp"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/contract-breeder-demo-v0-1-vanabette/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "village-of-boobs-v0-102-1-boobsgames",
+    "title": "Village of Boobs",
+    "version": "v0.102.1",
+    "version_full": "0.102.1",
+    "developer": "boobsgames",
+    "developer_links": [
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/boobsgames"
+      },
+      {
+        "label": "Subscribestar",
+        "url": "https://subscribestar.adult/boobsgames"
+      },
+      {
+        "label": "Boosty",
+        "url": "https://boosty.to/boobsgames"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/boobsgames"
+      },
+      {
+        "label": "Itch.io",
+        "url": "https://boobsgames.itch.io/vob"
+      },
+      {
+        "label": "Bluesky",
+        "url": "https://boobsgames.bsky.social"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Godot",
+    "os": "Windows, Linux, Android",
+    "language": "English, Russian",
+    "release": "2026-11-12",
+    "updated": "2026-11-12",
+    "published": "2026-11-12",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "2d game",
+      "2dcg",
+      "anal sex",
       "big ass",
       "big tits",
       "creampie",
-      "female domination",
-      "footjob",
+      "fantasy",
       "futa/trans",
-      "futa/trans protagonist",
-      "groping",
-      "group sex",
-      "handjob",
-      "interracial",
-      "lesbian",
+      "gay",
+      "lactation",
+      "male protagonist",
       "masturbation",
       "milf",
-      "oral sex",
-      "spanking",
-      "strategy",
-      "teasing",
-      "vaginal sex",
-      "voiced"
+      "Mobile",
+      "monster girl",
+      "rpg",
+      "sandbox",
+      "titfuck",
+      "trap"
     ],
     "genres": [
+      "2D Game",
+      "2DCG",
+      "Fantasy",
+      "Male Protagonist",
+      "RPG",
+      "Sandbox"
+    ],
+    "overview": "Light minded game in a fantasy world with huge boobs. Think real time WaB with oblivion style NPCs. Don’t expect a lot of polished gameplay, this is still very early version and I’m focusing on mechanics and other technical things. I make it available to the public so the people can fallow along the development, check out monthly content, and give feedback.",
+    "size": "",
+    "format": "ZIP (Windows / Linux) · APK (Android)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/pyc5iou4taqx"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/cxybhjo9odn7/village-of-boobs-v0.102.1-windows.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!2pITmZrT!HCLUQ-fLFgwhcvVMrs9L64f1umOETDYeE-GTtKzqVac"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/NxvX7wh7"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/ypJMUbyFqPB"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/3joirwq9ybst"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/ltkypviilyuo/village-of-boobs-v0.102.1-linux.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!60QTHJQZ!TZTM-MHuwC3xw9GManMJJX6NV655DpMXNHdpA5o2REM"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/xW1T2cTu"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/Lj8wL5wRCnW"
+        }
+      ],
+      "Android": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/j25c2eekxggh"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/t8zh2osg5wtp/village-of-boobs-v0.102.1.apk"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!SoZwWT6J!KxEF6i222qvNXcixYZzgxhoWbjfjYGl0jMJTZz9a990"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/zvbTLnE3"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/HJx5MgeZvev"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/village-of-boobs-v0-102-1-boobsgames/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "festival-gold-fox-v1-3-cympak",
+    "title": "Festival “Gold Fox”",
+    "version": "v1.3",
+    "version_full": "1.3",
+    "developer": "CyMpaK",
+    "developer_links": [
+      {
+        "label": "CyMpaK",
+        "url": "https://f95zone.to/members/cympak.2040261/"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Godot",
+    "os": "Windows",
+    "language": "English, Russian",
+    "release": "2026-10-31",
+    "updated": "2026-11-12",
+    "published": "2026-11-12",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "2dcg",
+      "ahegao",
+      "ai cg",
+      "anal sex",
+      "animated",
+      "cosplay",
+      "creampie",
+      "exhibitionism",
+      "fantasy",
+      "footjob",
+      "handjob",
+      "male protagonist",
+      "monster girl",
+      "netorare",
+      "oral sex",
+      "parody",
+      "titfuck",
+      "vaginal sex"
+    ],
+    "genres": [
+      "2DCG",
       "AI CG",
       "Animated",
-      "Strategy"
+      "Fantasy",
+      "Male Protagonist"
     ],
-    "overview": "An adult card roguelike where the art is the strategy. Every woman in your deck scores by what she wears, how she poses and where she is. Chain them into huge combos, outplay the judges, and win the after-hours. This free demo is the whole first circuit: seven Nights in the Basement, the Grand Contest, and endless mode once it’s yours. The full game comes to Steam in 2027. Dominant and submissive scenes, uncensored, between adult futanari women. Walk out any time.",
+    "overview": "You are a wealthy but broken guy, betrayed by your girlfriend and destroyed by your brother. Your only escape is anime and dreams of the unattainable. But one day, you receive a golden invitation to the “Golden Fox Festival”. It’s not just a cosplay festival. It’s an elite casino-club where girls bring any fantasy to life. But to gain access to them, you’ll have to enter a “Rivalry” with the person who hates you most in the world — your brother.",
     "size": "",
     "format": "ZIP (Windows)",
     "changelog": [],
@@ -616,265 +1281,91 @@
     "mirrors": {
       "Windows": [
         {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/yspzWK6a#iylDkWcDaB7ikiDylIPAq864B1Oc40QowxprOa4HPdA"
-        },
-        {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/jzhiihmxx5vd"
+          "url": "https://bzzhr.to/e9pczlmqgl2a"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/8gtx5jrw8fb4/Paradis_Demo_v0.1.11.zip"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/3rogRkQg"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/paradis-v0-1-11-demo-terpsichore/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "draw-darling-v0-7-hoconda",
-    "title": "Draw Darling",
-    "version": "v0.7",
-    "version_full": "0.7",
-    "developer": "Hoconda",
-    "developer_links": [
-      {
-        "label": "Boosty",
-        "url": "https://boosty.to/drawdarling/donate"
-      },
-      {
-        "label": "Itch.io",
-        "url": "https://hoconda.itch.io/draw-darling"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discord.com/invite/sbMtYfQ8Y"
-      },
-      {
-        "label": "Telegram",
-        "url": "https://t.me/+qGEeogqqmQE2ODc6"
-      },
-      {
-        "label": "Subscribestar",
-        "url": "https://subscribestar.art/draw-darling"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "Godot",
-    "os": "Windows, Mac",
-    "language": "English, Russian",
-    "release": "2026-11-11",
-    "updated": "2026-11-11",
-    "published": "2026-11-11",
-    "censored": "",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "2dcg",
-      "ai cg",
-      "big tits",
-      "card game",
-      "fantasy",
-      "female protagonist",
-      "humor",
-      "monster girl",
-      "roguelike",
-      "transformation"
-    ],
-    "genres": [
-      "2DCG",
-      "AI CG",
-      "Fantasy",
-      "Female Protagonist",
-      "Roguelike",
-      "Transformation"
-    ],
-    "overview": "You just wanted to play a dark fantasy 18+ roguelike with hot babes. Instead, you didn’t read the Terms of Service, checked all the wrong fetish boxes, and woke up inside the game. Now you are trapped in the body of Cersei — a busty, sharp-tongued heroine. The problem? Your degenerate search history and game settings literally shaped this world, turning “experienced MILFs” and “clingy girls” into literal swamp monsters, fungal matriarchs, and blood-sucking leeches.",
-    "size": "",
-    "format": "ZIP (Windows / Mac)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/z54sjdqg"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/a2fd37da-15f1-4036-9ce2-c926181a0423"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/jk5yjpmsacp8/DrawDarling-0.7.0-ui-windows.zip"
+          "url": "https://datanodes.to/asl4nfm996lt/Festival_Gold_Fox_1.3.rar"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!bOJ2xYCZ!nBJ8Q_uYUckFUGdP4hh3nqoLMUAMeNszpkYm6npymyE"
+          "url": "https://mega.nz/#!kchmRSQI!v8-EhrI7P1uA0RuJLu73c-asWWQrAB7IiKrUtOKpT-8"
         },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/GF5WhhmPa38"
-        }
-      ],
-      "Mac": [
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/jCJWsdVg"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/d30d99c4-30c8-4d21-a522-ac523b99ff1e"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/dq6xxyhlu174/DrawDarling-0.7.0-ui-macOS.zip"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!fLJTBC4A!LpLw7wMTNQb6GjsaZZ-lwIJWstj1gJyYbTJcz9qnbVU"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/7mTSCBnUsEE"
+          "url": "https://pixeldrain.com/u/coHn6Xrk"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/draw-darling-v0-7-hoconda/",
+    "source_url": "https://f95zone.to.it/festival-gold-fox-v1-3-cympak/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "podium-v0-1-111-moltes",
-    "title": "Podium",
-    "version": "v0.1.111",
-    "version_full": "0.1.111",
-    "developer": "Moltes",
-    "developer_links": [],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "HTML",
-    "os": "Windows",
-    "language": "English, french",
-    "release": "2026-11-10",
-    "updated": "2026-11-11",
-    "published": "2026-11-11",
-    "censored": "no",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "big ass",
-      "big tits",
-      "business management",
-      "cards",
-      "management",
-      "milf",
-      "pornstars",
-      "real porn",
-      "simulator",
-      "strategy"
-    ],
-    "genres": [
-      "Management",
-      "Strategy",
-      "HTML"
-    ],
-    "overview": "Podium: build your ultimate ranking, one duel at a time, then run your own studio and sign your favorites against five rival studios.",
-    "size": "",
-    "format": "ZIP (Windows) · HTML (browser)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/RBdLKsnT"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/P3BvXrXhL8N"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/xbpp6tm5bq0t/podium.zip"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/3xv0ktK6"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/podium-v0-1-111-moltes/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "deus-minor-ruinae-olympi-build-2-created_by_lust",
-    "title": "Deus Minor: Ruinae Olympi",
-    "version": "Build 2",
-    "version_full": "Build 2",
-    "developer": "Created_by_Lust",
+    "slug": "mimic-in-the-dungeon-v0-5-0-pocketacegames",
+    "title": "Mimic in the Dungeon",
+    "version": "v0.5.0",
+    "version_full": "0.5.0",
+    "developer": "PocketAceGames",
     "developer_links": [
       {
-        "label": "itch.io",
-        "url": "https://created-by-lust.itch.io"
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3742990/Mimic_in_the_Dungeon/?curator_clanid=45803975"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://x.com/PocketAceGames"
       },
       {
         "label": "Patreon",
-        "url": "https://www.patreon.com/c/Created_by_lust?vanity=Created_by_lust"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discord.gg/tGxRD89wH"
+        "url": "https://www.patreon.com/PocketAceGames"
       }
     ],
     "installation": [],
     "status": "Ongoing",
-    "engine": "Unreal Engine",
-    "os": "Windows",
+    "engine": "Unity",
+    "os": "Windows, Android",
     "language": "English",
-    "release": "2026-11-10",
-    "updated": "2026-11-11",
-    "published": "2026-11-11",
+    "release": "2026-11-04",
+    "updated": "2026-11-12",
+    "published": "2026-11-12",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
       "3d game",
-      "action rpg",
       "adventure",
-      "combat",
-      "dark fantasy",
+      "anal sex",
+      "bdsm",
+      "big ass",
+      "big tits",
+      "creampie",
       "fantasy",
-      "female protagonist",
-      "hack and slash",
-      "humiliation",
+      "groping",
+      "male protagonist",
+      "milf",
+      "Mobile",
       "monster",
-      "rpg",
-      "story rich",
-      "top down adventure",
+      "oral sex",
+      "platformer",
+      "sandbox",
+      "simulator",
+      "slave",
+      "teasing",
+      "tentacle",
+      "tentacles",
       "vaginal sex"
     ],
     "genres": [
       "3D Game",
       "Adventure",
       "Fantasy",
-      "Female Protagonist",
-      "RPG"
+      "Male Protagonist",
+      "Sandbox"
     ],
-    "overview": "Deus Minor: Ruinæ Olympi is a top-down action RPG inspired in part by Titan Quest, reimagined through its own combat systems, narrative and visual identity. You play as Demetra, raised far from civilization in an effort to restrain her might, unaware of the divine power concealed within her. Upon reaching the mainland, she sets out on a journey across the storied lands of Greek Antiquity, where Olympian gods and monsters hold dominion – a journey that will ultimately lead Demetra to discover who she truly is. Will you bring the gods to ruin, or choose to stand among them? The choice is yours.",
+    "overview": "In an age of endless war, men have vanished from the world. In their absence, the female population has taken it upon themselves to seek pleasure by other means. You are the Tentacle Mimic! Build your dungeon and lure female adventurers inside. Recruit them for your harem to harness their energy and grow stronger.",
     "size": "",
-    "format": "ZIP (Windows)",
+    "format": "ZIP (Windows) · APK (Android)",
     "changelog": [],
     "faq": [],
     "reviews_list": [],
@@ -884,310 +1375,41 @@
       "Windows": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/9ggbuvtt6ln9"
+          "url": "https://bzzhr.to/enp7hkfxxqkj"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/okllqapkj7yb/DeusMinor_Build_2.zip"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!jKYyCLyY!RsqHHUDTnXUyj_YavIMkhpnZNJpj83l3uAgPFM8hDMs"
+          "url": "https://datanodes.to/kwts24dy3t9w/MimicInTheDungeon_0.5.0_WIN.zip"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/rjewaopi"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/VWr6NWGSa6N"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/deus-minor-ruinae-olympi-build-2-created_by_lust/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "locked-in-chastity-v0-60-gelatomusume",
-    "title": "Locked in Chastity",
-    "version": "v0.60",
-    "version_full": "0.60",
-    "developer": "Gelatomusume",
-    "developer_links": [
-      {
-        "label": "SubscribeStar",
-        "url": "https://subscribestar.adult/gelatomusume"
-      },
-      {
-        "label": "Twitter",
-        "url": "https://x.com/gelatomusume"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac, Android",
-    "language": "English",
-    "release": "2026-11-10",
-    "updated": "2026-11-11",
-    "published": "2026-11-11",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "2dcg",
-      "anal sex",
-      "big tits",
-      "cheating",
-      "corruption",
-      "creampie",
-      "futa/trans",
-      "gay",
-      "groping",
-      "internal view",
-      "interracial",
-      "kinetic novel",
-      "male domination",
-      "male protagonist",
-      "masturbation",
-      "Mobile",
-      "netorare",
-      "school setting",
-      "sexual harassment",
-      "trap"
-    ],
-    "genres": [
-      "2DCG",
-      "Corruption",
-      "Male Protagonist"
-    ],
-    "overview": "Jamie, being an airhead and a fan of gaming a bit too much, neglects his loyal girlfriend Kim and worsens their relationship unknowingly. With the addition of William into the mix, will their relationship bitterly end?",
-    "size": "",
-    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/wef1h2206d7d"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/u0uaa3dra3og/LockedinChastity-0.60-pc.zip"
+          "url": "https://pixeldrain.com/u/w9BgbPFE"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!veIkyA6A!hT1wtcetuKA0pw9CH4Pwx0QO5HEuWt5dG3blXjceRdA"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/bcEF8sVh"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/MCvrNvn7aGD"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/wef1h2206d7d"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/u0uaa3dra3og/LockedinChastity-0.60-pc.zip"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!veIkyA6A!hT1wtcetuKA0pw9CH4Pwx0QO5HEuWt5dG3blXjceRdA"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/bcEF8sVh"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/MCvrNvn7aGD"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/hma91s8hjnne"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/8yco9pvs2do3/LockedinChastity-0.60-mac.zip"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!aegmRSRS!1HJdo0GMB8gVBT7wMjyOpK22M2qRiY1sSGW94xYvANI"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/AacZmz1Q"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/qtkFN9kVK3v"
+          "url": "https://mega.nz/#!syhlCLjL!tUEad6RRBKivQpXJFGT2zUisS2HL9P_-Uqc2TmrKgMA"
         }
       ],
       "Android": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/el1qotqua98f"
+          "url": "https://bzzhr.to/wpuzwxks2zl2"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/enpdhox4t5cv/LockedinChastity-0.60.apk"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!CCpyGRSC!V73x6A_GpqSikqXnSgeJZ-SA_d_Zk4SvzLepbPCl5iM"
+          "url": "https://datanodes.to/6nyzb0aayvl4/MimicInTheDungeon_0.5.0.apk"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/zFFNdMZK"
+          "url": "https://pixeldrain.com/u/3FrjwrPt"
         },
         {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/LR45rktxvJN"
+          "host": "MEGA",
+          "url": "https://mega.nz/#!tih0GSjR!J-dPgzSMfGor5nXteTBdb6pPsW2sZCd4prgE02GxojQ"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/locked-in-chastity-v0-60-gelatomusume/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "quarantine-libido-v0-06-wip-athycus",
-    "title": "Quarantine Libido",
-    "version": "v0.06 WIP",
-    "version_full": "0.06 WIP",
-    "developer": "Athycus",
-    "developer_links": [
-      {
-        "label": "Athycus",
-        "url": "https://f95zone.to/members/athycus.3290890/"
-      },
-      {
-        "label": "Patreon",
-        "url": "http://patreon.com/Athycus"
-      },
-      {
-        "label": "Twitter",
-        "url": "https://twitter.com/OverlordAthycus"
-      },
-      {
-        "label": "Itch.io",
-        "url": "https://iamathycus.itch.io/"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux",
-    "language": "English",
-    "release": "2026-11-10",
-    "updated": "2026-11-11",
-    "published": "2026-11-11",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "3dcg",
-      "anal sex",
-      "animated",
-      "assjob",
-      "bdsm",
-      "big ass",
-      "big tits",
-      "blackmail",
-      "creampie",
-      "dystopian setting",
-      "exhibitionism",
-      "footjob",
-      "futa/trans",
-      "graphic violence",
-      "groping",
-      "handjob",
-      "harem",
-      "humiliation",
-      "humor",
-      "interracial",
-      "male protagonist",
-      "masturbation",
-      "milf",
-      "oral sex",
-      "point & click",
-      "romance",
-      "sandbox",
-      "sci-fi",
-      "sex toys",
-      "teasing",
-      "titfuck",
-      "vaginal sex",
-      "voyeurism"
-    ],
-    "genres": [
-      "3DCG",
-      "Animated",
-      "Harem",
-      "Male Protagonist",
-      "Romance",
-      "Sandbox",
-      "Sci-Fi"
-    ],
-    "overview": "Welcome to ‘Quarantine Libido’! Here you are an unemployed immigrant ready to stir up some excitement in his locked-down apartment building. As the authorities tighten their grip on a strange pandemic, join in a hilarious journey of self-discovery, unexpected friendships, and the pursuit of love/fun during these lockdown times. Can you turn your confined space into a paradise? Get ready for a one-of-a-kind visual novel full of humor, wit, and surprising twists.",
-    "size": "",
-    "format": "ZIP (Windows / Linux)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/vdckjf71g6wo"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/pfnjvgy9it3l/Quarantine-Libido-WIP_0.06b-pc.zip"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!zf5RVQqT!gBiMhfT4kDuoDByY6SqTT0JFTYYRLfqwR99WV-0gGQM"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/GM7yjGZT"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/vdckjf71g6wo"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/pfnjvgy9it3l/Quarantine-Libido-WIP_0.06b-pc.zip"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!zf5RVQqT!gBiMhfT4kDuoDByY6SqTT0JFTYYRLfqwR99WV-0gGQM"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/GM7yjGZT"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/quarantine-libido-v0-06-wip-athycus/",
+    "source_url": "https://f95zone.to.it/mimic-in-the-dungeon-v0-5-0-pocketacegames/",
     "source": "f95zone.to.it"
   },
   {
