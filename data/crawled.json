@@ -1,155 +1,68 @@
 [
   {
-    "slug": "wayward-v2026-11-09-sintention",
-    "title": "Wayward",
-    "version": "v2026-11-09",
-    "version_full": "2026-11-09",
-    "developer": "Sintention",
-    "developer_links": [
-      {
-        "label": "Website",
-        "url": "https://sintention.com/"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "HTML",
-    "os": "Windows",
-    "language": "English",
-    "release": "2026-11-09",
-    "updated": "2026-11-12",
-    "published": "2026-11-17",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "2dcg",
-      "ai cg",
-      "anal sex",
-      "big ass",
-      "big tits",
-      "cheating",
-      "creampie",
-      "groping",
-      "group sex",
-      "handjob",
-      "male protagonist",
-      "multiple endings",
-      "netorare",
-      "oral sex",
-      "simulator",
-      "teasing",
-      "text based",
-      "vaginal sex"
-    ],
-    "genres": [
-      "2DCG",
-      "AI CG",
-      "Male Protagonist",
-      "Multiple Endings",
-      "HTML"
-    ],
-    "overview": "A medieval tavern sandbox where your wife has a mind of her own. You and your wife run a medieval tavern. The story is unwritten — nothing about how it goes is decided before you play it. Sandbox simulation · NTR / NTS",
-    "size": "",
-    "format": "ZIP (Windows) · HTML (browser)",
-    "changelog": [
-      [
-        "2026",
-        [
-          "11-09"
-        ]
-      ],
-      [
-        "2026",
-        [
-          "11-03"
-        ]
-      ],
-      [
-        "2026",
-        [
-          "10-04"
-        ]
-      ]
-    ],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/dxnkt7l2j457"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/9ixouwsw6172/wayward-2026-11-09.zip"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/N4FYB73m"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!hu5jSRAA!AgKVvvxLC3vKgvvHc6NP6OPJfLhY3BOqczfynWRLhZk"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/wayward-v2026-11-09-sintention/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "malon-ballad-of-the-ranch-v0-1-0-tinendo",
-    "title": "Malon: Ballad of the Ranch",
-    "version": "v0.1.0",
-    "version_full": "0.1.0",
-    "developer": "Tinendo",
+    "slug": "the-cave-v1-3-rett",
+    "title": "The Cave",
+    "version": "v1.3",
+    "version_full": "1.3",
+    "developer": "Rett",
     "developer_links": [
       {
         "label": "Patreon",
-        "url": "https://www.patreon.com/cw/Tinendo"
+        "url": "https://www.patreon.com/cw/Rett"
+      },
+      {
+        "label": "Itch.io",
+        "url": "https://rettdrake.itch.io/"
+      },
+      {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/rettdrake.bsky.social"
+      },
+      {
+        "label": "Fur Affinity",
+        "url": "https://www.furaffinity.net/user/rett~/"
       }
     ],
     "installation": [],
     "status": "Ongoing",
     "engine": "Others",
-    "os": "Windows, Linux, Mac",
+    "os": "Windows",
     "language": "English",
-    "release": "2026-11-13",
-    "updated": "2026-11-17",
-    "published": "2026-11-17",
+    "release": "2024-03-19",
+    "updated": "2026-11-18",
+    "published": "2026-11-18",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
-      "2dcg",
       "adventure",
-      "ai cg",
-      "anal sex",
-      "big ass",
-      "big tits",
-      "fantasy",
-      "groping",
-      "male protagonist",
-      "monster girl",
-      "oral sex",
-      "parody",
-      "sandbox",
-      "teasing",
-      "vaginal sex"
+      "anal vore",
+      "cock vore",
+      "digestion",
+      "disposal",
+      "endo",
+      "fatal",
+      "furry",
+      "larger prey",
+      "nsfw theme",
+      "oral vore",
+      "player prey/pred/spectator",
+      "reformation",
+      "same size",
+      "scat",
+      "smaller prey",
+      "text based",
+      "unbirth",
+      "vore",
+      "vore audio",
+      "weight-gain"
     ],
     "genres": [
-      "2DCG",
-      "Adventure",
-      "AI CG",
-      "Fantasy",
-      "Male Protagonist",
-      "Sandbox"
+      "Adventure"
     ],
-    "overview": "Overview: Zelda: Ocarina of Time Remake fan game is ready. You arrive at Lon Lon Ranch for a trial week. Seven days to earn Ingo’s trust… and to win over Malon : grown-up, warm, curious, a little lonely, and very good at teasing you.",
-    "size": "",
-    "format": "ZIP (Windows / Linux / Mac)",
+    "overview": "The Cave stands for many things. For some, it can be a bridge between worlds. For others, it can be a life-changing experience. But for me, It’s my home! Welcome to The Cave, a vore text adventure made in Quest. You can meet myself, Rett, and various other creatures within this world, most of which can both eat and be eaten by you.",
+    "size": "approx. ~20 MB",
+    "format": "ZIP (Windows)",
     "changelog": [],
     "faq": [],
     "reviews_list": [],
@@ -158,400 +71,80 @@
     "mirrors": {
       "Windows": [
         {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/z68p4e4scukl/ballad-of-the-ranch-0.1.0-win64.zip"
-        },
-        {
           "host": "GOFILE",
-          "url": "https://gofile.io/d/zpVnAsgA"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/B6wymaiE"
+          "url": "https://gofile.io/d/u1yqw3St"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/5PNQh7E847U"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/gjsvm3tr5emq/ballad-of-the-ranch-0.1.0-linux-x86_64.tar.gz"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/RIMn6vkZ"
+          "url": "https://workupload.com/file/WdsHGpkfGWb"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/1EK3yFaT"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/Ndcdqnp2Jaa"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/al5k9b2jejlx/ballad-of-the-ranch-0.1.0-macos.zip"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/WArFhDuf"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/hMauR9pa"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/ZUeb2nTfzXJ"
+          "url": "https://pixeldrain.com/u/annDah4a"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/malon-ballad-of-the-ranch-v0-1-0-tinendo/",
+    "source_url": "https://f95zone.to.it/the-cave-v1-3-rett/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "altera-via-ch-1-v1-0-zrl-games",
-    "title": "Altera Via",
-    "version": "Ch.1 v1.0",
-    "version_full": "Chapter 1 – v1.0",
-    "developer": "ZRL Games",
-    "developer_links": [],
+    "slug": "natsu-nee-the-30-days-i-fell-for-her-v1-1-sin-gularity",
+    "title": "Natsu-nee ~The 30 Days I Fell for Her~",
+    "version": "v1.1",
+    "version_full": "1.1",
+    "developer": "Sin Gularity",
+    "developer_links": [
+      {
+        "label": "DLsite",
+        "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01028235.html"
+      },
+      {
+        "label": "Ci-en",
+        "url": "https://ci-en.dlsite.com/creator/21807https://ci-en.dlsite.com/creator/21807"
+      }
+    ],
     "installation": [],
     "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux, Android, Mac",
-    "language": "English, Spanish, Brazilian Portuguese, French, Italian, German, Russian, Turkish, Polish, Indonesian, Simplified Chinese, Traditional Chinese, Japanese, and Korean",
-    "release": "2026-11-14",
-    "updated": "2026-11-15",
-    "published": "2026-11-17",
+    "engine": "Completed",
+    "os": "Windows",
+    "language": "English (Edited MTL)",
+    "release": "2025-12-23",
+    "updated": "2026-11-18",
+    "published": "2026-11-18",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
       "3d game",
       "3dcg",
-      "ai cg",
-      "big ass",
-      "big tits",
-      "humor",
-      "male protagonist",
-      "romance",
-      "slice of life",
-      "visual novel"
-    ],
-    "genres": [
-      "3D Game",
-      "3DCG",
-      "AI CG",
-      "Male Protagonist",
-      "Romance",
-      "Visual Novel"
-    ],
-    "overview": "Altera Via is an adult-oriented, story-driven visual novel focused on romance, relationships, and character development. Step into the life of a young man as he navigates friendships, unexpected encounters, and growing feelings for the people around him. Each character has her own personality, background, and personal struggles. Through everyday interactions and meaningful choices, relationships gradually develop into something more. What begins as an ordinary chapter of his life may lead him down a very different path.",
-    "size": "",
-    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
-    "changelog": [
-      [
-        "2026",
-        [
-          "11-15"
-        ]
-      ],
-      [
-        "2026",
-        [
-          "11-14"
-        ]
-      ]
-    ],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/r68uosyc3qiv"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/5m1nnhdioc3a/AlteraVia-1.0.0-pc.zip"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/asEE2KRE"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/k89XCKBY#w_K20A8JTTdoTSeZsnc7W7uTmW5RLR1J0qBQ7aExJE0"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/r68uosyc3qiv"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/5m1nnhdioc3a/AlteraVia-1.0.0-pc.zip"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/asEE2KRE"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/k89XCKBY#w_K20A8JTTdoTSeZsnc7W7uTmW5RLR1J0qBQ7aExJE0"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/z9cemfz8wnta"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/u5gffcc1ayeq/AlteraVia-1.0.0-mac.zip"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/wJY6AT9D"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/FxUwQDbL#ULZjgcazWhwh0MduL9EGMpQ8nQtKJ3cw6__yRgie51E"
-        }
-      ],
-      "Android": [
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/xlFGnQLQ#89vd5-Gn9puHL2n-6G2fFzxN1uy4Bev5RmSQO5rBBJA"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/altera-via-ch-1-v1-0-zrl-games/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "dirty-mop-v0-21-11-blushed-rabbit",
-    "title": "Dirty Mop",
-    "version": "v0.21.11",
-    "version_full": "0.21.11",
-    "developer": "Blushed Rabbit",
-    "developer_links": [
-      {
-        "label": "Steam",
-        "url": "https://store.steampowered.com/app/5166340/Dirty_Mop/?curator_clanid=39049601"
-      },
-      {
-        "label": "Webpage",
-        "url": "https://blushedrabbit.com/age-check?to=%2F"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discord.com/invite/blushedrabbit"
-      },
-      {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/cw/blushedrabbit"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "Unity",
-    "os": "Windows, Mac, Android",
-    "language": "English",
-    "release": "2026-11-16",
-    "updated": "2026-11-17",
-    "published": "2026-11-17",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "2d game",
-      "3dcg",
       "animated",
-      "big ass",
-      "big tits",
-      "creampie",
+      "cosplay",
       "dating sim",
-      "groping",
+      "exhibitionism",
+      "japanese game",
       "male protagonist",
-      "milf",
-      "Mobile",
+      "multiple endings",
       "oral sex",
-      "point & click",
-      "point and click",
+      "pov",
       "romance",
-      "sandbox",
+      "simulator",
       "teasing",
-      "titfuck",
+      "trainer",
       "vaginal sex"
     ],
     "genres": [
-      "2D Game",
+      "3D Game",
       "3DCG",
       "Animated",
       "Dating Sim",
+      "Japanese Game",
       "Male Protagonist",
-      "Romance",
-      "Sandbox"
+      "Multiple Endings",
+      "Romance"
     ],
-    "overview": "Years ago, your father was the janitor of this very building — until a mysterious incident, quietly swept under the rug, made him disappear without a trace. No police report. No witnesses. No goodbye. Now you’ve taken his old job. Same building. Same uniform. Same master key. But finding the truth means getting close.",
+    "overview": "Back home in the countryside, the older sister I hadn’t seen in so long had completely grown up… And yet, there was still that same gentle voice, whispering right in my ear. Only now, the things she said were quite different. On the tatami, on the garden veranda, at the shrine after dark… the countryside was full of chances for temptation.",
     "size": "",
-    "format": "ZIP (Windows / Mac) · APK (Android)",
-    "changelog": [
-      [
-        "8",
-        [
-          "10 hours of gameplay"
-        ]
-      ]
-    ],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/c5f4u8uzw73w"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/ovg7o1d31k5w/Dirty_Mop_0.21.11.rar"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/Drbj8iM7"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/WMysmQnX"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/cpfkcloyvd91"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/4v9hfguuz7e2/Dirty_Mop_0.21.11_Mac.zip"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/q6CyAdlI"
-        }
-      ],
-      "Android": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/c1y084oi741x"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/8tf70l6me919/Dirty_Mop_0.21.11.apk"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/ObxXgGf7"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/7Kx5fjvp"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/dirty-mop-v0-21-11-blushed-rabbit/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "tyrma-v0-0-5-tyrma",
-    "title": "Tyr’ma",
-    "version": "v0.0.5",
-    "version_full": "0.0.5",
-    "developer": "Tyr’ma",
-    "developer_links": [
-      {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/c/tyrma/posts"
-      },
-      {
-        "label": "X",
-        "url": "https://x.com/SlytaleStudio"
-      },
-      {
-        "label": "Subscribestar",
-        "url": "https://subscribestar.adult/tyrma"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "Unreal Engine",
-    "os": "Windows, Linux",
-    "language": "English",
-    "release": "2026-11-14",
-    "updated": "2026-11-17",
-    "published": "2026-11-17",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "3d game",
-      "adventure",
-      "anal sex",
-      "animated",
-      "big ass",
-      "big tits",
-      "character creation",
-      "combat",
-      "crafting",
-      "creampie",
-      "fantasy",
-      "female protagonist",
-      "furry",
-      "futa/trans",
-      "gay",
-      "groping",
-      "lesbian",
-      "male protagonist",
-      "management",
-      "milf",
-      "monster",
-      "monster girl",
-      "multiple protagonist",
-      "oral sex",
-      "pov",
-      "pregnancy",
-      "rpg",
-      "sandbox",
-      "simulator",
-      "teasing",
-      "titfuck",
-      "vaginal sex"
-    ],
-    "genres": [
-      "3D Game",
-      "Adventure",
-      "Animated",
-      "Fantasy",
-      "Female Protagonist",
-      "Male Protagonist",
-      "Management",
-      "RPG",
-      "Sandbox"
-    ],
-    "overview": "Tyr’ma is an adult role-playing game set in a massive open-world. With a focus on gameplay first, and kinky stuff second, we want the game to feel like a genuine experience that just happens, to have the ability to have some more adult fun on the side.",
-    "size": "approx. ~6.5 GB",
-    "format": "ZIP (Windows / Linux)",
+    "format": "ZIP (Windows)",
     "changelog": [],
     "faq": [],
     "reviews_list": [],
@@ -561,94 +154,203 @@
       "Windows": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/smd44fuc277d"
+          "url": "https://bzzhr.to/uc8mbd3vysdx"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/zrsv5p2dtoa4/Tyrma_0.0.5_Windows.zip"
+          "url": "https://datanodes.to/29bzchiii8zl/Natsu-nee_Boku_ga_Koi_Shita_30-nichi-1.1.zip"
         },
         {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/5gKJcJc2"
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/1rgnzqiibcqtuio"
         },
         {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/NTGJnKKp"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/fuz7xnojauet"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/was21u4t3wlo/Tyrma_0.0.5_Linux.zip"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/4a7heMGL"
+          "host": "MEGA",
+          "url": "https://mega.nz/#!q6RziADQ!ShwdI6v0tAQx8S4FtqJY1kH_5wu8R8hNyIG7dTbV3aY"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/nfe9uRkt"
+          "url": "https://pixeldrain.com/u/kMYSeRRH"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/tyrma-v0-0-5-tyrma/",
+    "source_url": "https://f95zone.to.it/natsu-nee-the-30-days-i-fell-for-her-v1-1-sin-gularity/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "breedville-v0-10-0-redsky",
-    "title": "BreedVille",
-    "version": "v0.10.0",
-    "version_full": "0.10.0",
-    "developer": "Redsky",
+    "slug": "ntr-zone-v0-5-2-ntr_zone",
+    "title": "NTR Zone",
+    "version": "v0.5.2",
+    "version_full": "0.5.2",
+    "developer": "ntr_zone",
     "developer_links": [
       {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/c/redsky_games"
+        "label": "ntr_zone",
+        "url": "https://f95zone.to/members/ntr_zone_dev.11517180/"
       },
       {
-        "label": "SubscribeStar",
-        "url": "https://subscribestar.adult/redsky"
+        "label": "Itch.io",
+        "url": "https://ntr-zone.itch.io/ntr-zone"
+      },
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/NTR_Zone"
       }
     ],
     "installation": [],
     "status": "Ongoing",
     "engine": "Godot",
-    "os": "Windows, Android",
-    "language": "English",
-    "release": "2026-11-14",
-    "updated": "2026-11-17",
-    "published": "2026-11-17",
+    "os": "Windows, Linux, Android",
+    "language": "English, Spanish, Portuguese (Brazil), Russian, Chinese (Simplified)",
+    "release": "2026-11-18",
+    "updated": "2026-11-18",
+    "published": "2026-11-18",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
       "2dcg",
-      "breeding",
-      "creampie",
-      "fantasy",
+      "ai cg",
+      "big tits",
+      "cheating",
+      "female domination",
+      "handjob",
       "male protagonist",
-      "management",
-      "monster girl",
       "netorare",
-      "pregnancy",
+      "oral sex",
+      "teasing",
+      "vaginal sex",
+      "voyeurism"
+    ],
+    "genres": [
+      "2DCG",
+      "AI CG",
+      "Male Protagonist"
+    ],
+    "overview": "New Languages* Spanish, Brazilian Portuguese, Russian, and Simplified Chinese. * we’d really appreciate any corrections, suggestions, or feedback from native speakers. Gallery Improvements",
+    "size": "",
+    "format": "ZIP (Windows / Linux) · APK (Android)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/9ulvkj9k7pml"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/qfsby1osng4c/ntr_zone_v0.5.2_windows.exe"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!PfQHlDDS!3hW9JEUDDqxoEDkX0E_luyWxjRaymB4kuuxe39uPdnE"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/WaKWPXKj"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/r1274rho90a2"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/wakun8hypa9p/ntr_zone_v0.5.2_linux.x86_64"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!PXZkmKQb!YmF4fxFV4ZXqxSEvkw8F0QosBLLMG4NeJnOqWJ5RgE4"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/Q78jQkLa"
+        }
+      ],
+      "Android": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/qulr9ba3qwgt"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/8pn04j86v14e/ntr_zone_v0.5.2_android.apk"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!2Xh03L7I!EK2rYkuZ5Eb-CxK8N51iOP-f6JdeljalBaVUQOLAsCg"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/nTpF1J55"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/ntr-zone-v0-5-2-ntr_zone/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "drain-the-sire-v0-5-dodos-hen",
+    "title": "Drain the Sire",
+    "version": "v0.5",
+    "version_full": "0.5",
+    "developer": "Dodo’s hen",
+    "developer_links": [
+      {
+        "label": "Dodo’s hen",
+        "url": "https://dodos-hen.itch.io/"
+      },
+      {
+        "label": "Patreon",
+        "url": "https://patreon.com/DodosHen?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink"
+      },
+      {
+        "label": "Buy me a coffee",
+        "url": "http://buymeacoffee.com/dodos.hen"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Unity",
+    "os": "Windows, Android",
+    "language": "English",
+    "release": "2026-08-18",
+    "updated": "2026-08-18",
+    "published": "2026-11-18",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "2dcg",
+      "card game - roguelike",
+      "fantasy",
+      "female protagonist",
+      "group sex",
+      "handjob",
+      "Mobile",
+      "monster",
+      "multiple penetration",
+      "oral sex",
+      "parody",
       "prostitution",
-      "sandbox",
       "strategy",
+      "stripping",
+      "turn based combat",
       "vaginal sex"
     ],
     "genres": [
       "2DCG",
       "Fantasy",
-      "Male Protagonist",
-      "Management",
-      "Sandbox",
-      "Strategy"
+      "Female Protagonist",
+      "Strategy",
+      "Turn Based Combat"
     ],
-    "overview": "Breedville is the ultimate breeding management game! When Russell takes over his father’s estate, he uncovers a intoxicating world hidden beyond the treeline—a sanctuary of seductive woodland entities craving new desires and exotic beasts. Cultivate lush harvests, master the delicate art of creature breeding, and indulge in deep physical pleasures with wild companions. Use your growing fortune and mythical indulgences to outwit the corrupt Sheriff, defy his ruthless tax demands, and strip him of his power.",
+    "overview": "In the world of Drain the Sire , You will play the role of a female character on her way to become extremely rich and building her reputation, one patron at a time. Or two. Sometimes three. Or maybe, you’ll just end up back at the start line. There are rumors of a very particular and extremely wealthy patron visiting the establishment every once in a while. In the rumors, he’s simply called The Sire … Are the rumors true? Will you meet the Sire? Will you be able to please his apparently very peculiar requests, and drain him of all his… money ? Will that be enough to buy your freedom back?",
     "size": "",
     "format": "ZIP (Windows) · APK (Android)",
     "changelog": [],
@@ -660,279 +362,91 @@
       "Windows": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/wae5ovzszzl4"
+          "url": "https://bzzhr.to/c0yusww9c6cz"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/a2mrctwikq71/BreedVille_v0.10.0.zip"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!pAxBzKbS!gvb_j7b8qIvumm_UoqtkTTObRnQpfhAdBU-Ldh-e_Jc"
+          "url": "https://datanodes.to/lau1exfqp1fy/Drain_the_Sire_v0.5a.zip"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/sm2FLJnz"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/ub9gdlbley9p"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/z8qnja6jibym/BreedVille_v0.10.0_Linux.zip"
+          "url": "https://pixeldrain.com/u/ubmLxLYk"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!RNZlXA7R!GISsj4e4wPyYX93eCW3IOpWAygOKC1NTVLeHA3RuwQk"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/g3E53zVC"
+          "url": "https://mega.nz/file/K0R0QDTD#fiBN4P3SN_cHdNAacyi5dXAXpxwNfpHNCnFjiHob38k"
         }
       ],
       "Android": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/n1q5wxu7y4pc"
+          "url": "https://bzzhr.to/g5p8rpdodqoh"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/k2lrlbsc5b2d/BreedVille_v0.10.0.apk"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!wF4CkZbZ!qLOgAFEMgQjsLkxXg6MWebGHxZzFsEzTD0dp-scY2mc"
+          "url": "https://datanodes.to/81cie3vjkynf/Drain_the_Sire_android_v0.5a.apk"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/2SDj1Ybu"
+          "url": "https://pixeldrain.com/u/5rgiyCWw"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/3hRHgZRT#vfnrAmaI9g4uRcN-d3a_UbwN8O8sl2NdxxGYrFY8UOg"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/breedville-v0-10-0-redsky/",
+    "source_url": "https://f95zone.to.it/drain-the-sire-v0-5-dodos-hen/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "snipergirls-v1-0-chiclestudio",
-    "title": "SniperGirls",
-    "version": "v1.0",
-    "version_full": "1.0",
-    "developer": "ChicleStudio",
+    "slug": "saragame-2-v1-7-saragames",
+    "title": "SaraGame 2",
+    "version": "v1.7",
+    "version_full": "1.6",
+    "developer": "SaraGames",
     "developer_links": [
       {
-        "label": "ChicleStudio",
-        "url": "https://f95zone.to/members/studio-chicle.11525451/"
-      },
-      {
         "label": "Patreon",
-        "url": "https://www.patreon.com/cw/ChicleStudio"
+        "url": "https://www.patreon.com/SaraGames"
       }
     ],
     "installation": [],
     "status": "Ongoing",
     "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac, Android",
+    "os": "Windows, Linux, Mac",
     "language": "English",
-    "release": "2026-11-16",
-    "updated": "2026-11-17",
-    "published": "2026-11-17",
+    "release": "2026-11-18",
+    "updated": "2026-11-18",
+    "published": "2026-11-18",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
-      "3dcg",
-      "ahegao",
-      "animated",
+      "all sex",
+      "anal sex",
       "big ass",
       "big tits",
-      "cheating",
       "corruption",
-      "creampie",
       "dilf",
-      "exhibitionism",
-      "groping",
-      "harem",
-      "male protagonist",
-      "masturbation",
-      "Mobile",
-      "multiple endings",
-      "netorare",
-      "oral sex",
-      "prostitution",
-      "romance",
-      "sandbox",
-      "sexual harassment",
-      "titfuck",
-      "vaginal sex",
-      "voyeurism"
-    ],
-    "genres": [
-      "3DCG",
-      "Animated",
-      "Corruption",
-      "Harem",
-      "Male Protagonist",
-      "Multiple Endings",
-      "Romance",
-      "Sandbox"
-    ],
-    "overview": "Sniper Girls is an adult visual novel where you play as Oscar, navigating complex relationships with the women in his building. Choices matter and every interaction has consequences.",
-    "size": "",
-    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/rkt9sihvxvh8/SniperGirls-1.0-pc.zip"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/dYXPJDap"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!2kJ0jarI!pfQCxethegBEi2zfKVnVa42an7xpOFwgAa10U_a9VUs"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/nrbbss1g68ogr7u"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/rkt9sihvxvh8/SniperGirls-1.0-pc.zip"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/dYXPJDap"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!2kJ0jarI!pfQCxethegBEi2zfKVnVa42an7xpOFwgAa10U_a9VUs"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/nrbbss1g68ogr7u"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/5suqpcis2fu8/SniperGirls-1.0-mac.zip"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/LKt55E5h"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/bsplkIiZ#ZW7mADU0n9cwp9Sn05k1UTA3G_grWa8C89NplIiailI"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/nze82jpwu7oxrkt"
-        }
-      ],
-      "Android": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/uv4d65vcc4n5/SniperGirls-1.0.apk"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/adriePco"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!HsYVADRD!6YLHJTE8fU51pfEHKCPee81MoanPByED2lTcNd5L-qw"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/k6q6lra7kx1sz7p"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/snipergirls-v1-0-chiclestudio/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "wasteland-lewdness-v0-81-icy-viridian",
-    "title": "Wasteland Lewdness",
-    "version": "v0.81",
-    "version_full": "0.81",
-    "developer": "Icy Viridian",
-    "developer_links": [
-      {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/wastelandlewdness"
-      },
-      {
-        "label": "Itch.io",
-        "url": "https://icy-viridian.itch.io/"
-      },
-      {
-        "label": "TfGamesSite",
-        "url": "https://tfgames.site/index.php?module=viewgame&id=2576"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "HTML",
-    "os": "Windows, Mac, Linux",
-    "language": "English",
-    "release": "2026-11-16",
-    "updated": "2026-11-17",
-    "published": "2026-11-17",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "2dcg",
-      "adventure",
-      "anal sex",
-      "animated",
-      "bestiality",
-      "corruption",
-      "creampie",
-      "dystopian setting",
-      "female domination",
-      "footjob",
-      "futa",
-      "futa/trans",
-      "gay",
+      "female protagonist",
       "handjob",
-      "male protagonist",
+      "interracial",
+      "male domination",
+      "milf",
       "oral sex",
-      "prostitution",
-      "rape",
       "real porn",
-      "sissification",
-      "slave",
-      "text based",
-      "transformation",
+      "sandbox",
       "vaginal sex"
     ],
     "genres": [
-      "2DCG",
-      "Adventure",
-      "Animated",
       "Corruption",
-      "Male Protagonist",
-      "Transformation",
-      "HTML"
+      "Female Protagonist",
+      "Sandbox"
     ],
-    "overview": "In this tortured world, nuclear bombs didn’t just take more than half of the human population away, they also burned all the humanity from those who survived… You are a young man who has never ventured beyond your safe settlement until now. Forced to leave your home and into the wastes — where almost everything tries to kill you, and the rest wants to do things far worse — on a tech-scavenge quest.",
+    "overview": "The main character, Sara, is 35 years old, works in an office, and wants to change her life. Like SaraGame, this is a simple, repetitive game for fap.",
     "size": "",
-    "format": "ZIP (Windows / Mac / Linux) · HTML (browser)",
+    "format": "ZIP (Windows / Linux / Mac)",
     "changelog": [],
     "faq": [],
     "reviews_list": [],
@@ -942,83 +456,374 @@
       "Windows": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/o2eh7wmcmhsp"
+          "url": "https://bzzhr.to/9zzb1qkiqwwk"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/n0e99op8r5rv/Wasteland_Lewdness-0.81.0.zip"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/6KPPJLx6"
+          "url": "https://datanodes.to/qqqd85ql3cg1/SaraGame2-1.7-pc.zip"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!2tZCiRZa!BVinlH7HEsMsoGNay1EaWWNuu5tslQrQeCcuw5QKDpo"
+          "url": "https://mega.nz/#!2KoHhBbL!EGV-5PiFdLNATpa2LsYweclnBlBtWhKBTcNMoGgh0Gg"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/AgXJt1mw"
         }
       ],
-      "Mac": [],
-      "Linux": []
+      "Linux": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/9zzb1qkiqwwk"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/qqqd85ql3cg1/SaraGame2-1.7-pc.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!2KoHhBbL!EGV-5PiFdLNATpa2LsYweclnBlBtWhKBTcNMoGgh0Gg"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/AgXJt1mw"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/w71anrgw8p9a"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/6xv6tq3bhtap/SaraGame2-1.7-mac.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!6WQAkQBD!hBQekcOFsIuZpsPZb0s1npKeXYg7vstnd6hEZisA2Qs"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/HS7QJKva"
+        }
+      ]
     },
-    "source_url": "https://f95zone.to.it/wasteland-lewdness-v0-81-icy-viridian/",
+    "source_url": "https://f95zone.to.it/saragame-2-v1-7-saragames/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "ore-no-taisetsu-na-osananajimi-to-nikuki-kuso-oyaji-final-phaseend",
-    "title": "Ore no Taisetsu na Osananajimi to Nikuki Kuso Oyaji",
-    "version": "Final",
-    "version_full": "Final",
-    "developer": "PHASE#END",
+    "slug": "destroyer-v1-55-testoviron",
+    "title": "Destroyer",
+    "version": "v1.55",
+    "version_full": "1.55",
+    "developer": "Testoviron",
     "developer_links": [
       {
-        "label": "DLsite",
-        "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG09916.html"
+        "label": "Testoviron",
+        "url": "https://f95zone.to/members/testoviron.14610/"
       },
       {
-        "label": "Website",
-        "url": "https://phase-end.x0.com"
+        "label": "Patreon",
+        "url": "https://www.patreon.com/TestovironTesto"
+      },
+      {
+        "label": "SubscribeStar",
+        "url": "https://subscribestar.adult/testoviron"
       }
     ],
     "installation": [],
     "status": "Ongoing",
-    "engine": "Others",
+    "engine": "HTML",
+    "os": "Windows, Linux, Android",
+    "language": "English",
+    "release": "2026-11-18",
+    "updated": "2026-11-18",
+    "published": "2026-11-18",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "adventure",
+      "anal sex",
+      "bdsm",
+      "big ass",
+      "big tits",
+      "cheating",
+      "corruption",
+      "creampie",
+      "futa/trans",
+      "gay",
+      "group sex",
+      "harem",
+      "humiliation",
+      "male domination",
+      "male protagonist",
+      "netorare",
+      "oral sex",
+      "prostitution",
+      "real porn",
+      "sissification",
+      "spanking",
+      "text based",
+      "transformation",
+      "urination",
+      "vaginal sex"
+    ],
+    "genres": [
+      "Adventure",
+      "Corruption",
+      "Harem",
+      "Male Protagonist",
+      "Transformation",
+      "HTML"
+    ],
+    "overview": "Enter the provocative world of Destroyer , an open-world sandbox game that seamlessly blends real pornographic content with interactive storytelling. Whether you’re exploring the city, building relationships, or diving into explicit adventures, every moment is designed to captivate and excite. The game is full of different mini-games, and there are more than 100 playable characters. Most of them have their own story, and some have different endings based on your decisions. The entire game consists of nearly one million words.",
+    "size": "approx. ~1.5GB",
+    "format": "ZIP (Windows / Linux) · APK (Android) · HTML (browser)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/nsxt7k290p75"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/y88oqfz1r8iq/Destroyer_v1.55.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!CGASXTja!dk2tI3LgMKLjYT9NOJ96sM8ILXXBiT_gSdbrY7a7p9U"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/AYjFkt23"
+        }
+      ],
+      "Linux": [],
+      "Android": []
+    },
+    "source_url": "https://f95zone.to.it/destroyer-v1-55-testoviron/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "housewife-simulator-v1-3-2-p2-anonymoose-productions",
+    "title": "Housewife Simulator",
+    "version": "v1.3.2 P2",
+    "version_full": "1.3.2 – Patch 2",
+    "developer": "Anonymoose Productions",
+    "developer_links": [
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/anonymooseproductions"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.gg/vM7JpUEwek"
+      },
+      {
+        "label": "Itch.io",
+        "url": "https://anonymooseproductions.itch.io/"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Mac, Android",
+    "language": "English",
+    "release": "2026-03-25",
+    "updated": "2026-11-18",
+    "published": "2026-11-18",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "3dcg",
+      "big ass",
+      "big tits",
+      "female protagonist",
+      "lactation",
+      "lesbian",
+      "milf",
+      "Mobile",
+      "pregnancy",
+      "school setting",
+      "simulator",
+      "stripping",
+      "swinging",
+      "teasing",
+      "transformation",
+      "vaginal sex",
+      "voiced"
+    ],
+    "genres": [
+      "3DCG",
+      "Female Protagonist",
+      "Transformation"
+    ],
+    "overview": "Play a newlywed housewife in a curvy story about growing love, expanding waistlines, corporate bio-science, and taking experimental treatments irresponsibly to enhance women in all the right ways! Housewife Simulator is a highly adult game / VN with a BBW / weight gain / lactation focus. Don’t play it if you’re not also into such interests.",
+    "size": "",
+    "format": "ZIP (Windows / Mac) · APK (Android)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/9guqor61k9vy"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/vfxp1cy05w6e/housewife-simulator-v1.3.2_P2-win-linux-stable.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!0IYwnTbR!tOFVwENhLx-wrXJxtJB-fN1BigMhsvIzV_m2Mzn9YRY"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/BX1JdqTi"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/9guqor61k9vy"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/vfxp1cy05w6e/housewife-simulator-v1.3.2_P2-win-linux-stable.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!0IYwnTbR!tOFVwENhLx-wrXJxtJB-fN1BigMhsvIzV_m2Mzn9YRY"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/BX1JdqTi"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/5949l5nii3he/housewife-simulator-v1.3.2_P2-mac-stable.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!pUZCQCDK!d2u2CV-zTk2U98O79H835eyNvk6jpCPdJnEjZghB9S8"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/9u7kJVrX"
+        }
+      ],
+      "Android": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/bcfg8nns13ar"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/8lr96ixd6azp/housewife-simulator-v1.3.2_P2-android-stable.apk"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!FUIWkJII!NogiOxvnUmGnbVx1T6t5lv5Yw12wPRTfkHzlbj5xFZw"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/BNZWJehe"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/housewife-simulator-v1-3-2-p2-anonymoose-productions/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "ubai-ending-hito-no-onna-saigo-made-urimasu-v1-0-dlc-studio-ubai",
+    "title": "UBAI Ending ~Hito no Onna, Saigo made Urimasu~",
+    "version": "v1.0 + DLC",
+    "version_full": "1.0 + UBAI Zero DLC",
+    "developer": "Studio Ubai",
+    "developer_links": [
+      {
+        "label": "Website",
+        "url": "https://www.ubai.org/"
+      },
+      {
+        "label": "X/Twitter",
+        "url": "https://x.com/Studio_Ubai"
+      },
+      {
+        "label": "DLsite",
+        "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG71615.html"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Completed",
     "os": "Windows",
-    "language": "English (MTL)",
-    "release": "2019-06-14",
-    "updated": "2026-11-17",
-    "published": "2026-11-17",
-    "censored": "Yes (Mosaic)",
+    "language": "English",
+    "release": "2026-11-06",
+    "updated": "2026-11-18",
+    "published": "2026-11-18",
+    "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
       "2dcg",
       "ahegao",
       "anal sex",
-      "censored",
+      "bdsm",
+      "big ass",
+      "big tits",
+      "blackmail",
+      "cheating",
       "corruption",
       "creampie",
-      "dilf",
+      "exhibitionism",
       "groping",
-      "humiliation",
+      "group sex",
+      "handjob",
+      "harem",
       "japanese game",
       "kinetic novel",
-      "male domination",
       "male protagonist",
       "masturbation",
+      "milf",
+      "multiple endings",
       "multiple penetration",
+      "multiple protagonist",
       "netorare",
       "oral sex",
+      "prostitution",
       "rape",
+      "sex toys",
+      "sexual harassment",
+      "spanking",
+      "stripping",
+      "teasing",
+      "titfuck",
       "vaginal sex",
-      "virgin"
+      "voiced",
+      "voyeurism"
     ],
     "genres": [
       "2DCG",
       "Corruption",
+      "Harem",
       "Japanese Game",
-      "Male Protagonist"
+      "Male Protagonist",
+      "Multiple Endings"
     ],
-    "overview": "The main character, Takuma, lost his mother when he was young. There was someone standing in the kitchen in my mother’s place. It was Fumi, my childhood friend who lives next door to me. A homely and tolerant girl who is sometimes meddlesome, but always worries about Takuma. She was such an important person to Takuma that it filled him with the sadness of losing his mother.",
+    "overview": "One day while performing his regular duties at the Ubai office, a man claiming to be the CEO of Ubai shows up to talk with Ryousuke. After talking with the man, Ryousuke learns of a facet of Ubai that he had never known about and is also given an ultimatum regarding his standing at Ubai. An ultimatum that shakes him to his very core… What will become of Ryousuke? Just what is the true nature of Ubai? Find out in the final entry of the UBAI series!",
     "size": "",
     "format": "ZIP (Windows)",
     "changelog": [],
@@ -1029,128 +834,198 @@
     "mirrors": {
       "Windows": [
         {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/CF8CyHot"
-        },
-        {
           "host": "DATANODES",
-          "url": "https://datanodes.to/d6gf9y6jprmy/Ore_no_Taisetsu_na_Osananajimi_to_Nikuki_Kuso_Oyaji.zip"
+          "url": "https://datanodes.to/khid4uql3hcm/UBAI_Ending_UBAI_Zero.zip"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!hItE3Zab!xct80kR4B8UDGHd9T4-EnDmqFb8QFbth6iiK4pGTYtk"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/oezqygka3u6x"
+          "url": "https://mega.nz/#!rqgmAK4D!-Tu6POCZWxgy0Rc_NJ3cZWNTy1DeA7DfU9c22oyB9O0"
         },
         {
           "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/hz1569wsclurfm8"
+          "url": "https://www.mediafire.com/file/a3flsm0wch5tfvq"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/4LY1CBWF"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/wHt4wBVpkx2"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/ore-no-taisetsu-na-osananajimi-to-nikuki-kuso-oyaji-final-phaseend/",
+    "source_url": "https://f95zone.to.it/ubai-ending-hito-no-onna-saigo-made-urimasu-v1-0-dlc-studio-ubai/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "chronicles-of-hell-and-heaven-ch-2-act-1d-kazuki-chan",
-    "title": "Chronicles of Hell and Heaven",
-    "version": "Ch.2 Act 1d",
-    "version_full": "Ch.2 Act 1d",
-    "developer": "Kazuki-chan",
+    "slug": "matriarch-v0-2-elatedowl",
+    "title": "Matriarch",
+    "version": "v0.2",
+    "version_full": "0.2",
+    "developer": "ElatedOwl",
     "developer_links": [
       {
         "label": "Patreon",
-        "url": "https://www.patreon.com/kazuki_chan_games"
-      },
-      {
-        "label": "SubscribeStar",
-        "url": "https://subscribestar.adult/kazuki_chan"
-      },
-      {
-        "label": "Twitter",
-        "url": "https://twitter.com/Kazuki_chan_CHH"
+        "url": "https://www.patreon.com/LeagueOfDomination"
       },
       {
         "label": "Discord",
-        "url": "https://discord.gg/XyQVHAc2nW"
+        "url": "https://discord.gg/daCDnsbKXS"
       },
       {
         "label": "Itch.io",
-        "url": "https://kazuki-chan.itch.io/"
+        "url": "https://elatedowl.itch.io/"
       },
       {
-        "label": "Pixiv",
-        "url": "https://www.pixiv.net/en/users/85675425"
-      },
-      {
-        "label": "Reddit",
-        "url": "https://www.reddit.com/user/Kazuki_chan"
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/kazuki_chan_works/"
-      },
-      {
-        "label": "Linktr.ee",
-        "url": "https://linktr.ee/kazuki_chan"
+        "label": "Home Page",
+        "url": "https://beacons.ai/elatedowl"
       }
     ],
     "installation": [],
     "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac, Android",
+    "engine": "Godot",
+    "os": "Windows",
     "language": "English",
-    "release": "2026-11-16",
-    "updated": "2026-11-16",
-    "published": "2026-11-17",
+    "release": "2026-11-18",
+    "updated": "2026-11-18",
+    "published": "2026-11-18",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
-      "3dcg",
-      "adventure",
-      "anal sex",
-      "animated",
-      "cheating",
+      "2d game",
+      "2dcg",
+      "ai cg",
+      "bdsm",
       "corruption",
-      "creampie",
+      "exhibitionism",
       "fantasy",
-      "female protagonist",
-      "graphic violence",
-      "groping",
-      "group sex",
+      "female domination",
+      "footjob",
       "handjob",
-      "interracial",
+      "humiliation",
       "lesbian",
-      "male domination",
-      "male protagonist",
-      "masturbation",
-      "Mobile",
-      "monster",
-      "monster girl",
-      "multiple penetration",
-      "multiple protagonist",
-      "netorare",
+      "management",
+      "multiple endings",
       "oral sex",
-      "sharing",
+      "slave",
+      "spanking",
+      "strategy",
       "teasing",
-      "titfuck",
+      "turn based combat",
       "vaginal sex"
     ],
     "genres": [
-      "3DCG",
-      "Adventure",
-      "Animated",
+      "2D Game",
+      "2DCG",
+      "AI CG",
       "Corruption",
       "Fantasy",
-      "Female Protagonist",
-      "Male Protagonist"
+      "Management",
+      "Multiple Endings",
+      "Strategy",
+      "Turn Based Combat"
     ],
-    "overview": "Hi guys, my name is Kazuki. I’m an amateur writer. I am writing a book of adult short stories. Come to visit me at my home, and I will read one of my stories to you.",
+    "overview": "The powerful Queen Seraphine grows tired of managing her realm. She has more important things to do, like being pretty, and being pampered, and laying in bed all day. She has assigned YOU, her Royal Consort, to manage her empire in her stead. Matriarch is a 4X game (like Civilization series). You will explore, expand, exploit and exterminate. All the while doing exactly what your Queen commands of you. Fail her commands and you will be punished, obey and you will be rewarded. She watches over you, always. You will find many foes want to seduce or steal you away from your Queen. Will you be able to resist and conquer them in your Queen’s name? Or will your empire crumble to ash while you and the Queen end up captured and enslaved?",
     "size": "",
-    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
+    "format": "ZIP (Windows)",
+    "changelog": [
+      [
+        "V0.2",
+        [
+          "Her Majesty’s Pleasure"
+        ]
+      ]
+    ],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/sEtlQYhD#8e3LltyuF7WruyI6dPteacqUvG6wjG5gnBSXoXSzWbw"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/lt186ieryzd3"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/9ns80gld00kv/Matriarch_v0.2_Windows.zip"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/Nzhbt7Wh"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/matriarch-v0-2-elatedowl/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "corpo-life-2-kopo-raifu-2-v0-07-gakko_dev",
+    "title": "Corpo Life 2 – Kōpo Raifu 2",
+    "version": "v0.07",
+    "version_full": "0.07 Public",
+    "developer": "Gakko_dev",
+    "developer_links": [
+      {
+        "label": "Gakko_dev",
+        "url": "https://f95zone.to/members/gakko_dev.1527162/"
+      },
+      {
+        "label": "Subscribestar",
+        "url": "https://subscribestar.adult/corpo-gakko"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "HTML",
+    "os": "Windows, Linux, Mac",
+    "language": "English",
+    "release": "2026-11-18",
+    "updated": "2026-11-18",
+    "published": "2026-11-18",
+    "censored": "Partial (Mosaics)",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "animated",
+      "creampie",
+      "exhibitionism",
+      "groping",
+      "handjob",
+      "harem",
+      "incest",
+      "japanese adult video",
+      "male domination",
+      "male protagonist",
+      "masturbation",
+      "oral sex",
+      "rape",
+      "real porn",
+      "sandbox",
+      "sexual harassment",
+      "simulator",
+      "sleep sex",
+      "text based",
+      "titfuck",
+      "vaginal sex",
+      "virgin"
+    ],
+    "genres": [
+      "Animated",
+      "Harem",
+      "Male Protagonist",
+      "Sandbox",
+      "HTML"
+    ],
+    "overview": "## BUILD 0.07 — THE CLOSED DOOR – 5 new sex scenes: 3 for Remu (the call in the shower, the study afternoon, breakfast from behind) + 2 for Nagi (the reverse summons in her office, the seventh-floor restroom) — 189 clips across the five – New locations: the MUB 7F restrooms (men’s and women’s, off the meeting-rooms corridor). Everything else happens in rooms you already know: your bathroom, the second bedroom, the kitchen, Nagi’s EVP office – New features: VOICED SCENES — the new clips speak Japanese, subtitled in English with the Japanese underneath (a voiced line waits for you or Skip, and plays once a run, not every loop), FOCUS — the camera leans in on anyone who gives you a real choice (press-and-hold on every intimate moment, old scenes included; a bottom sheet on phones), glass cards for places with more than one thing to do (the restroom, your bed), NAGI — THE DOOR (her After-six chat, the 内示 transfer notice in your MUB ONE mail, the 18:25 knock on a live meeting clock, her door reopening once a day), her restroom breaks every workday (12:00–13:00 + 15:00–15:30), Remu’s new hours (at the stove 07:00–08:00, the weekend study with home overtime at +10 Banking XP an hour, the shower call 22:30–23:00 on her tower nights), Remu’s desk chat reveals her EVP is Nagi-san from next door – New cast: none new — Nagi (0.02) gets her arc",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac) · HTML (browser)",
     "changelog": [],
     "faq": [],
     "reviews_list": [],
@@ -1160,93 +1035,17 @@
       "Windows": [
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/p2ajwpsjoo9a/Chronicles_of_Hell_and_Heaven_Ch._2_-_WIN.zip"
+          "url": "https://datanodes.to/t2b5yoy1ggqm/CorpoLife2_build_0.07_pre_alpha.rar"
         },
         {
           "host": "GOFILE",
-          "url": "https://gofile.io/d/VJnoNubQ"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/9533hbp6i1mmmis/Chronicles_of_Hell_and_Heaven_Ch._2_-_WIN.zip/file"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/l/mMfrAh8e"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/74gTjShL#n9SvGqRSGU3vr99aFesagU6cxoos75-biBT2J1UXSqU"
+          "url": "https://gofile.io/d/6lDGVA1t"
         }
       ],
-      "Linux": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/7iuffqglhjhm/Chronicles_of_Hell_and_Heaven_Ch._2_-_LINUX.zip"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/VJnoNubQ"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/tp1xdnd9h24mow0/Chronicles_of_Hell_and_Heaven_Ch._2_-_LINUX.zip/file"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/l/mMfrAh8e"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/fphCSLKL#bvnWfkDw_2kAcq0xFAhKcpYkp0W91XeRJZlfXjCB4ww"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/i88b0akabl0j/Chronicles_of_Hell_and_Heaven_Ch._2_-_MAC_OS_X.zip"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/VJnoNubQ"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/6d1l0fptj3sn49f/Chronicles_of_Hell_and_Heaven_Ch._2_-_MAC_OS_X.zip/file"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/l/mMfrAh8e"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/CowGiSxZ#wfegx6aY6DC58uwnnrMMILooR3PQHvlcYAyoilVG2f4"
-        }
-      ],
-      "Android": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/phegj4yx1ghh/COHAH-CH2-Act1D-the66.apk"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/VJnoNubQ"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/a7e5g209xf79s6t/COHAH-CH2-Act1D-the66.apk/file"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/l/mMfrAh8e"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/IDlmSZDA#1pLPnFQ7ZtvYAnCce3KCiMQVKqLGffkiFc-pknPbNP8"
-        }
-      ]
+      "Linux": [],
+      "Mac": []
     },
-    "source_url": "https://f95zone.to.it/chronicles-of-hell-and-heaven-ch-2-act-1d-kazuki-chan/",
+    "source_url": "https://f95zone.to.it/corpo-life-2-kopo-raifu-2-v0-07-gakko_dev/",
     "source": "f95zone.to.it"
   },
   {
