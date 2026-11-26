@@ -1,58 +1,312 @@
 [
   {
-    "slug": "timeless-fracture-v0-0-02-yardagames",
-    "title": "Timeless Fracture",
-    "version": "v0.0.02",
-    "version_full": "0.0.02",
-    "developer": "YardaGames",
+    "slug": "in-one-breath-v0-50-3-eraen",
+    "title": "In One Breath",
+    "version": "v0.50.3",
+    "version_full": "0.50.3",
+    "developer": "Eraen",
     "developer_links": [
       {
-        "label": "Yarda Games",
-        "url": "https://f95zone.to/members/yarda-games.9301840/"
+        "label": "itch.io",
+        "url": "https://eraen.itch.io"
       },
       {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/c/YardaGames"
+        "label": "Discord",
+        "url": "https://discord.gg/peJ8YnPY99"
       }
     ],
     "installation": [],
     "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux, Android",
+    "engine": "HTML",
+    "os": "Windows",
     "language": "English",
-    "release": "2026-11-25",
-    "updated": "2026-11-25",
-    "published": "2026-11-25",
+    "release": "2026-11-24",
+    "updated": "2026-11-26",
+    "published": "2026-11-26",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
       "2dcg",
-      "adventure",
+      "ai cg",
       "animated",
-      "character interaction",
-      "corruption",
-      "exploration",
-      "fantasy",
+      "anime",
+      "dating sim",
+      "fart",
+      "fart-fetish",
+      "female domination",
+      "femdom",
+      "gas",
+      "gassy",
+      "harem",
+      "humiliation",
       "male protagonist",
-      "masturbation",
-      "Mobile",
-      "oral sex",
-      "point & click",
-      "puzzle",
+      "nsfw",
+      "romance",
       "sandbox",
+      "simulator",
+      "teasing",
+      "transformation",
+      "visual novel"
+    ],
+    "genres": [
+      "2DCG",
+      "AI CG",
+      "Animated",
+      "Dating Sim",
+      "Harem",
+      "Male Protagonist",
+      "Romance",
+      "Sandbox",
+      "Transformation",
+      "Visual Novel",
+      "HTML"
+    ],
+    "overview": "In One Breath is a free anime dating sim for adults (18+) with a heavy fart fetish focus. After a car crash ends your grey, depressing life, you wake up in a new apartment with a second chance. Five women live their own lives around you, and every one of them has her own personality, habits… and digestion.",
+    "size": "",
+    "format": "ZIP (Windows) · HTML (browser)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/9d5m05q65ymr/InOneBreath_v50.3.zip"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/nojZZB9u"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/8tNdUHVV"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/vtSmz9XzEAk"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/in-one-breath-v0-50-3-eraen/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "voidsong-v0-1-ryuo",
+    "title": "Voidsong",
+    "version": "v0.1",
+    "version_full": "0.1",
+    "developer": "Ryuo",
+    "developer_links": [
+      {
+        "label": "itch.io",
+        "url": "https://ryuovn.itch.io"
+      },
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/cw/voidsong"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/DCqUXFujrk"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://twitter.com/SoulcreekVN"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Mac, Linux, Android",
+    "language": "English",
+    "release": "2026-10-20",
+    "updated": "2026-11-26",
+    "published": "2026-11-26",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "2dcg",
+      "action",
+      "bara",
+      "dystopian setting",
+      "exhibitionism",
+      "fantasy",
+      "furry",
+      "gay",
+      "graphic violence",
+      "horror",
+      "kinetic novel",
+      "lgbt",
+      "male protagonist",
+      "Mobile",
+      "mystery",
+      "nsfw",
+      "post-apocalyptic",
+      "sci-fi",
+      "visual novel"
+    ],
+    "genres": [
+      "2DCG",
+      "Fantasy",
+      "Horror",
+      "Male Protagonist",
+      "Sci-Fi",
+      "Visual Novel"
+    ],
+    "overview": "Fifteen years after Soulcreek, the story continues… Illayla stands upon the precipice of extinction. Paralysed by terror from the indomitable darkness within the mountains, ignorance and denial are all that keeps what little sanity that remains from folding inwards. Where hope and evolution dies in a chokehold of stagnation, a looming extinction becomes a crisis none have the courage to heed. The dreaded virus, the Affliction, tightens its grasp, promising a slow, inexorable decline into starvation and ruin. The few brave enough to address it are silenced with glances that devour the heart. What little Blackrunners remain are scattered and removed, unable to help as the world they’re duty-bound to decipher sits by and rots away. Salvation lies only with the inimical power of The Last Human. But the feared sorcerer’s promise of a cure died when he disappeared into obscurity. Now it falls to Mylo, the child of Smoke and Flame, to find the human and bring him home. The reunion of pupil and teacher is fraught with peril, rage and raw power. In their search for hope and home, both must contend not only with one another, but a mysterious curse so far removed from sense and reason that it boils the soul and evaporates flesh. Within a furnace of rage and love, the fate of a distant empire must be decided. Nihilis awaits.",
+    "size": "",
+    "format": "ZIP (Windows / Mac / Linux) · APK (Android)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/smqe7l71baaq/Voidsong-0.1-pc.zip"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/dz0BEeBI"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/UzkZiKoj"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/2NNGkKLsnqx"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/smqe7l71baaq/Voidsong-0.1-pc.zip"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/dz0BEeBI"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/UzkZiKoj"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/2NNGkKLsnqx"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/eujkdocewf81/Voidsong-0.1-mac.zip"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/lRflh9n8"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/jZD3dajJYPf"
+        }
+      ],
+      "Android": [
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/dvlslqlijnfe/Voidsong-0.1-android.apk"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/WUeYFgjU"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/ug5s43ih"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/wVtbvB5YmBP"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/voidsong-v0-1-ryuo/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "echoes-phone-simulator-v0-9-c-tiv",
+    "title": "Echoes Phone Simulator",
+    "version": "v0.9",
+    "version_full": "0.9",
+    "developer": "C-Tiv",
+    "developer_links": [
+      {
+        "label": "itch.io",
+        "url": "https://c-tiv.itch.io"
+      },
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/cw/C_Tiv"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.gg/ZQ8gJBsZw5"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://x.com/CTiv_games"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Others",
+    "os": "Windows, Linux, Android",
+    "language": "English",
+    "release": "2026-06-21",
+    "updated": "2026-11-26",
+    "published": "2026-11-26",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "2dcg",
+      "adult",
+      "ai cg",
+      "android",
+      "big ass",
+      "big tits",
+      "erotic",
+      "exhibitionism",
+      "feet",
+      "female domination",
+      "hentai",
+      "humiliation",
+      "male protagonist",
+      "Mobile",
+      "multiple protagonist",
+      "nsfw",
+      "ntr",
+      "romance",
+      "sex toys",
+      "simulator",
+      "teasing",
+      "text based",
+      "visual novel",
       "voyeurism"
     ],
     "genres": [
       "2DCG",
-      "Adventure",
-      "Animated",
-      "Corruption",
-      "Fantasy",
+      "AI CG",
       "Male Protagonist",
-      "Sandbox"
+      "Romance",
+      "Visual Novel"
     ],
-    "overview": "Timeless Fracture is a NSFW point-and-click sandbox adventure where time, mystery, and reality collide. Explore a new world, solve puzzles, and build intimate relationships with a diverse cast of characters as you unravel the truth behind the shattering of time.",
+    "overview": "What is Echoes? Echoes is a phone texting simulator where every route tells a different story. Unlike traditional visual novels, each character has their own world, personality, challenges, and relationships. The protagonist changes depending on the route, allowing every story to feel unique.",
     "size": "",
     "format": "ZIP (Windows / Linux) · APK (Android)",
     "changelog": [],
@@ -63,352 +317,100 @@
     "mirrors": {
       "Windows": [
         {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/ja5ztnjrr8y3"
-        },
-        {
           "host": "DATANODES",
-          "url": "https://datanodes.to/xtkfou22vljd/TimelessFracture-0.0.02-pc.zip"
+          "url": "https://datanodes.to/dld7qofktens/Echoes_V.09_Windows.zip"
         },
         {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!JdEg0Ryb!8gSF_P0cSh1y1gL0mtBu36mlhrbsLBhAvIXmQY1lpSg"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/Gmjb92b4"
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/cd3Rf2i4"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/tXPgkkyyAZb"
+          "url": "https://workupload.com/file/RFf86ZhA5t9"
         }
       ],
       "Linux": [
         {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/ja5ztnjrr8y3"
-        },
-        {
           "host": "DATANODES",
-          "url": "https://datanodes.to/xtkfou22vljd/TimelessFracture-0.0.02-pc.zip"
+          "url": "https://datanodes.to/bfy53xuwdxpk/Echoes_V.09_Linux.zip"
         },
         {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!JdEg0Ryb!8gSF_P0cSh1y1gL0mtBu36mlhrbsLBhAvIXmQY1lpSg"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/Gmjb92b4"
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/0WyPTerH"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/tXPgkkyyAZb"
+          "url": "https://workupload.com/file/NqnvVxMa2Fb"
         }
       ],
       "Android": [
         {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/jbuuhzj1wb9c"
-        },
-        {
           "host": "DATANODES",
-          "url": "https://datanodes.to/b8jb1u1c32jq/TimelessFracture-0.0.02.apk"
+          "url": "https://datanodes.to/kxnottk6wbcg/Echoes_V.09.apk"
         },
         {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!9McFRRob!0J5cIBryWAos-gnvSug-9n5OY1cf0TOgJHdWXJIWD_4"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/XVpLmGYk"
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/hYbUos8J"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/AR22N96rSKr"
+          "url": "https://workupload.com/file/rQSbwTmmYna"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/timeless-fracture-v0-0-02-yardagames/",
+    "source_url": "https://f95zone.to.it/echoes-phone-simulator-v0-9-c-tiv/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "seleka-san-who-exposes-unnoticed-with-naked-coat-steam-sheablesoft",
-    "title": "Seleka-san who Exposes unnoticed with Naked Coat",
-    "version": "Steam",
-    "version_full": "Steam Uncensored",
-    "developer": "SheableSoft",
+    "slug": "palamarta-island-free-xandivara",
+    "title": "Palamarta Island",
+    "version": "free",
+    "version_full": "free",
+    "developer": "xandivara",
     "developer_links": [
       {
-        "label": "Ci-en",
-        "url": "https://ci-en.dlsite.com/creator/16553"
-      },
-      {
-        "label": "DLsite",
-        "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG71896.html"
-      },
-      {
-        "label": "Steam",
-        "url": "https://store.steampowered.com/curator/46643075"
+        "label": "itch.io",
+        "url": "https://xandivara.itch.io"
       }
     ],
     "installation": [],
     "status": "Ongoing",
-    "engine": "Completed",
+    "engine": "Unity",
     "os": "Windows",
-    "language": "English, Korean, Chinese, Japanese",
-    "release": "2026-11-05",
-    "updated": "2026-11-25",
-    "published": "2026-11-25",
+    "language": "English",
+    "release": "2026-11-01",
+    "updated": "2026-11-26",
+    "published": "2026-11-26",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
       "3d game",
-      "ahegao",
-      "bdsm",
-      "big tits",
-      "censored",
-      "character creation",
-      "exhibitionism",
-      "female protagonist",
-      "futa/trans protagonist",
-      "japanese game",
-      "masturbation",
-      "rpg",
-      "sex toys",
-      "simulator"
+      "3dcg",
+      "adult",
+      "animated",
+      "bara",
+      "daddy",
+      "dilf",
+      "gay",
+      "male protagonist",
+      "palamarta",
+      "romance",
+      "sandbox",
+      "simulator",
+      "story rich",
+      "visual novel"
     ],
     "genres": [
       "3D Game",
-      "Female Protagonist",
-      "Japanese Game",
-      "RPG"
-    ],
-    "overview": "“I want to flash more!” vs “The bolder I get, the easier it is to get spotted!” Face this ultimate human dilemma for yourself! Keep track of where people are and where they’re looking, go as far as you dare, and complete flashing missions in this fresh 3D stealth flashing action game.",
-    "size": "",
-    "format": "ZIP (Windows)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/AqrVt3Zw"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!KCoGFBjA!dW1TbR6IVWQNqtXN05rP1DIwTPQ2lhmfu1eMhsen0YU"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/Fe4t5rtq"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/dzQv6vYswSq"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/seleka-san-who-exposes-unnoticed-with-naked-coat-steam-sheablesoft/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "the-stallion-v0-21-horny-saint",
-    "title": "The Stallion",
-    "version": "v0.21",
-    "version_full": "0.21",
-    "developer": "Horny Saint",
-    "developer_links": [
-      {
-        "label": "Horny Saint",
-        "url": "https://f95zone.to/members/horny-saint.5209937/"
-      },
-      {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/user?u=74485479"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac",
-    "language": "English",
-    "release": "2026-11-25",
-    "updated": "2026-11-25",
-    "published": "2026-11-25",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "anal sex",
-      "big ass",
-      "big tits",
-      "cheating",
-      "combat",
-      "creampie",
-      "dating sim",
-      "drugs",
-      "exhibitionism",
-      "footjob",
-      "groping",
-      "group sex",
-      "handjob",
-      "harem",
-      "humiliation",
-      "humor",
-      "interracial",
-      "lesbian",
-      "male domination",
-      "male protagonist",
-      "milf",
-      "oral sex",
-      "point & click",
-      "prostitution",
-      "real porn",
-      "romance",
-      "sandbox",
-      "school setting",
-      "stripping",
-      "teasing",
-      "titfuck",
-      "turn based combat",
-      "twins",
-      "vaginal sex",
-      "virgin",
-      "voyeurism"
-    ],
-    "genres": [
-      "Dating Sim",
-      "Harem",
+      "3DCG",
+      "Animated",
       "Male Protagonist",
       "Romance",
       "Sandbox",
-      "Turn Based Combat"
+      "Visual Novel"
     ],
-    "overview": "Your life is going pretty well… And by pretty well I mean you’re totally screwed. You have no money, you hate your job, your job hates you back… And then something happens. You received a phone call telling you that you are the richest and most powerful man in town. Now the whole city is lying down looking at you with their legs spread… and I mean literally spread… (Come on girls, at least try to play it a little hard… right?… no?… whatever…)",
-    "size": "",
-    "format": "ZIP (Windows / Linux / Mac)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/6IkAhAyK#1UlemfC7oYF3GwuxXu0KCfSpg5s1T4X-i9-q9NUEoSE"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/7r3xBNnc"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/ir3ogeijfrww"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/0z8ws5wex6af/TheStallion-0.21-pc.zip"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/6IkAhAyK#1UlemfC7oYF3GwuxXu0KCfSpg5s1T4X-i9-q9NUEoSE"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/7r3xBNnc"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/ir3ogeijfrww"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/0z8ws5wex6af/TheStallion-0.21-pc.zip"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/moRwEbIb#lcZshVPyYldCLzH2nXalbiSS-2y1oqye_8j3MsR-FFA"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/nkNXMRCt"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/xkhorp50yisy"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/trsh42wmrj2i/TheStallion-0.21-mac.zip"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/the-stallion-v0-21-horny-saint/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "ill-raise-the-birth-rate-get-5-women-pregnant-in-5-months-final-la-mignonne",
-    "title": "I’ll Raise the Birth Rate – Get 5 Women Pregnant in 5 Months!",
-    "version": "Final",
-    "version_full": "Final",
-    "developer": "La Mignonne",
-    "developer_links": [
-      {
-        "label": "DLSite",
-        "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01087169.html"
-      },
-      {
-        "label": "Ci-En",
-        "url": "https://ci-en.dlsite.com/creator/42157"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "Completed",
-    "os": "Windows",
-    "language": "English, Japanese, Chinese",
-    "release": "2026-11-20",
-    "updated": "2026-11-25",
-    "published": "2026-11-25",
-    "censored": "Yes (Mosaics)",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "3d game",
-      "animated",
-      "censored",
-      "cheating",
-      "creampie",
-      "dating sim",
-      "internal view",
-      "japanese game",
-      "male protagonist",
-      "milf",
-      "pov",
-      "pregnancy",
-      "prostitution",
-      "romance",
-      "vaginal sex",
-      "virgin"
-    ],
-    "genres": [
-      "3D Game",
-      "Animated",
-      "Dating Sim",
-      "Japanese Game",
-      "Male Protagonist",
-      "Romance"
-    ],
-    "overview": "On your 25th birthday, you’re eating cake with your childhood friend Haruka, when a notice arrives from the government. Having never had a girlfriend in your entire life, you enlist Haruka’s help as you set about picking up, touching, sleeping with, and impregnating the women around town. The main focus is impregnation and creampies. Absolutely no penalties for cumming inside. No NTR, sexual assault, or violence! None of the women will leave you, either. There is a scenario involving seducing a woman who already has a boyfriend, though. You can also pay money to sleep with women (although this isn’t necessary to complete the game).",
+    "overview": "Palamarta Island is a story-driven slice-of-life game about starting over, discovering new connections, and finding a place to call home. After leaving the city behind, you arrive on a quiet island with only a handful of residents. Life here is very different from what you’re used to. The days are slower, the atmosphere is more relaxed, and the people you meet each have their own stories, personalities, and secrets. As you settle into island life, you’ll get to know its residents, build relationships, experience everyday moments, and uncover the stories hidden beneath the island’s peaceful surface.",
     "size": "",
     "format": "ZIP (Windows)",
     "changelog": [],
@@ -419,48 +421,196 @@
     "mirrors": {
       "Windows": [
         {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/r1yql2umwgwx/Palamarta_island_Free.zip"
+        },
+        {
           "host": "GOFILE",
-          "url": "https://gofile.io/d/y17TDn6F"
+          "url": "https://gofile.io/d/yyglJkpP"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/v24zXf7w"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/11dsq68mpb0m/Ill_Raise_the_Birth_Rate.zip"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/TUG5g8BhPAZ"
+          "url": "https://pixeldrain.com/u/69qHEr4C"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/ill-raise-the-birth-rate-get-5-women-pregnant-in-5-months-final-la-mignonne/",
+    "source_url": "https://f95zone.to.it/palamarta-island-free-xandivara/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "space-rescue-code-pink-v14-0-robin",
-    "title": "Space Rescue: Code Pink",
-    "version": "v14.0",
-    "version_full": "14.0",
-    "developer": "Robin",
+    "slug": "reversible-date-v1-0-black-moon",
+    "title": "Reversible Date",
+    "version": "v1.0",
+    "version_full": "1.0",
+    "developer": "Black Moon",
     "developer_links": [
       {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/CodePink"
+        "label": "DLSite",
+        "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG01009265.html"
+      },
+      {
+        "label": "Ci-en",
+        "url": "https://ci-en.dlsite.com/creator/24679"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Completed",
+    "os": "Windows",
+    "language": "English (GPT-6 Luna Pro)",
+    "release": "2026-11-02",
+    "updated": "2026-11-26",
+    "published": "2026-11-26",
+    "censored": "Yes",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "2d game",
+      "2dcg",
+      "big tits",
+      "censored",
+      "cosplay",
+      "creampie",
+      "dating sim",
+      "female domination",
+      "group sex",
+      "handjob",
+      "japanese game",
+      "male protagonist",
+      "multiple endings",
+      "oral sex",
+      "teasing",
+      "titfuck",
+      "vaginal sex"
+    ],
+    "genres": [
+      "2D Game",
+      "2DCG",
+      "Dating Sim",
+      "Japanese Game",
+      "Male Protagonist",
+      "Multiple Endings"
+    ],
+    "overview": "A world that looks like ours – but isn’t quite the same. The people who live there carry a different soul for the day and another for the night, and the two trade places each and every day. In a place like this, a game is held – a game that decides the future. Win, and one soul – day or night – gets to monopolize roughly half of her life, never having to trade places again! And as a key figure in that game, you have been summoned from another world! Staking their own futures on it, the girls compete to capture your heart!",
+    "size": "",
+    "format": "ZIP (Windows)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/LgXLYXmAG7Z"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/txKpD1kC"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/ys1r71x4cxfr/Reversible_Date.zip"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/w5torJKS"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/reversible-date-v1-0-black-moon/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "lotus-v0-6-overlordhypno",
+    "title": "Lotus",
+    "version": "v0.6",
+    "version_full": "0.6",
+    "developer": "OverlordHypno",
+    "developer_links": [
+      {
+        "label": "Itch.io",
+        "url": "https://overlordhypno.itch.io/"
+      },
+      {
+        "label": "X/Twitter",
+        "url": "https://twitter.com/OverlordMiles"
       },
       {
         "label": "Website",
-        "url": "https://spacerescuecodepink.wordpress.com"
-      },
+        "url": "https://allmylinks.com/overlordmiles"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Abandoned",
+    "os": "Windows, Mac",
+    "language": "English",
+    "release": "2023-09-16",
+    "updated": "2026-11-26",
+    "published": "2026-11-26",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "adventure",
+      "corruption",
+      "fantasy",
+      "female domination",
+      "male protagonist",
+      "mind control",
+      "monster girl",
+      "oral sex",
+      "rpg",
+      "text based",
+      "vaginal sex"
+    ],
+    "genres": [
+      "Adventure",
+      "Corruption",
+      "Fantasy",
+      "Male Protagonist",
+      "RPG"
+    ],
+    "overview": "You wake up in an unfamiliar world. Fight cunning monster girls and avoid perilous traps to find out exactly why you’re there, and why the world seems so hell-bent on seducing you…",
+    "size": "",
+    "format": "ZIP (Windows / Mac)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/vmBnBZYT#e_70cI3miJAHyW_NqtMd58mjpuCVPUnLFcEg9W7XGEs"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/dDu8btJB"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/QXBNMNvSv3X"
+        }
+      ],
+      "Mac": []
+    },
+    "source_url": "https://f95zone.to.it/lotus-v0-6-overlordhypno/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "being-nyx-ep-2-aulantr",
+    "title": "Being Nyx",
+    "version": "Ep.2",
+    "version_full": "Episode 2",
+    "developer": "AulaNTR",
+    "developer_links": [
       {
-        "label": "Steam",
-        "url": "https://store.steampowered.com/app/1407210/Space_Rescue_Code_Pink/"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discord.com/invite/8jvHeW9"
+        "label": "Patreon",
+        "url": "http://patreon.com/aulantr"
       }
     ],
     "installation": [],
@@ -468,46 +618,34 @@
     "engine": "Ren'Py",
     "os": "Windows, Linux, Mac, Android",
     "language": "English",
-    "release": "2026-11-17",
-    "updated": "2026-11-25",
-    "published": "2026-11-25",
+    "release": "2026-09-27",
+    "updated": "2026-11-26",
+    "published": "2026-11-26",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
-      "2d game",
-      "2dcg",
-      "adventure",
-      "anal sex",
+      "3dcg",
       "animated",
       "big ass",
       "big tits",
-      "creampie",
-      "group sex",
+      "female protagonist",
       "handjob",
-      "male protagonist",
-      "masturbation",
+      "humor",
+      "milf",
       "Mobile",
-      "monster girl",
-      "multiple penetration",
       "oral sex",
-      "point & click",
-      "sandbox",
-      "sci-fi",
-      "sex toys",
-      "titfuck",
+      "romance",
+      "teasing",
       "vaginal sex"
     ],
     "genres": [
-      "2D Game",
-      "2DCG",
-      "Adventure",
+      "3DCG",
       "Animated",
-      "Male Protagonist",
-      "Sandbox",
-      "Sci-Fi"
+      "Female Protagonist",
+      "Romance"
     ],
-    "overview": "In this game you play as Keen; a young mechanic that just landed his first job on a ‘Rescue & Relax’ Ship. Keen’s task is simple; make repairs where ever needed! But every time Keen helps out one of his attractive crew members, he seems to end up in more and more a dubious situations! While exploring the spaceship, you can gather items, build repair-parts & play various mini games – this will allow you to progress through the storylies & get you the girl!",
+    "overview": "Overview: Being Nyx follows Emily, a 32-year-old married woman whose life has fallen into a routine she no longer finds satisfying. After quitting her job and watching her husband Daniel struggle with problems of his own, a night out introduces Emily to Adrian Vale — a man representing an adult entertainment company looking for a new woman to take over one of their most successful online personas: Nyx. Nyx is more than a username. She’s an established adult webcam personality with a large following, a carefully built image, and an audience waiting for her return. What begins as simple curiosity slowly gives Emily access to a side of herself she never knew — or perhaps never allowed herself — to explore. How far she goes, what she tells Daniel, what she keeps from him, and how their marriage changes along the way will depend on your choices.",
     "size": "",
     "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
     "changelog": [],
@@ -519,229 +657,238 @@
       "Windows": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/gc7byxzcsr02"
+          "url": "https://bzzhr.to/pxaje0o24e9s"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/cgylzlnb8ler/Space_Rescue_Code_Pink-14.0-pc.zip"
+          "url": "https://datanodes.to/5i3tuc8qouvy/BeingNyx-0.2-pc.zip"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!UZ9EHaqB!cLgQ7goa5-gVa6tNKm8tQ9wkoHCltVA9-tlADmj3NTk"
+          "url": "https://mega.nz/#!MzhEUQab!l08P2ujsfRpmTrltyeyljmD8rXymBGQngIQR__1PkRU"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/db3uqTXB"
+          "url": "https://pixeldrain.com/u/rW87KJuU"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/tJ6ygKUbwpv"
+          "url": "https://f95zone.to/dl/21755588/?k=8b85f8739bcc&h=workupload.com"
         }
       ],
       "Linux": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/gc7byxzcsr02"
+          "url": "https://bzzhr.to/pxaje0o24e9s"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/cgylzlnb8ler/Space_Rescue_Code_Pink-14.0-pc.zip"
+          "url": "https://datanodes.to/5i3tuc8qouvy/BeingNyx-0.2-pc.zip"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!UZ9EHaqB!cLgQ7goa5-gVa6tNKm8tQ9wkoHCltVA9-tlADmj3NTk"
+          "url": "https://mega.nz/#!MzhEUQab!l08P2ujsfRpmTrltyeyljmD8rXymBGQngIQR__1PkRU"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/db3uqTXB"
+          "url": "https://pixeldrain.com/u/rW87KJuU"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/tJ6ygKUbwpv"
+          "url": "https://f95zone.to/dl/21755588/?k=8b85f8739bcc&h=workupload.com"
         }
       ],
       "Mac": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/a9fwiq2x7itt"
+          "url": "https://bzzhr.to/v85z57er3v1e"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/hsysc4nxydts/Space_Rescue_Code_Pink-14.0-mac.zip"
+          "url": "https://datanodes.to/g4p5l8i26ybt/BeingNyx-0.2-mac.zip"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!IZcVEDJb!mgf78MxOLNovvFABTXvjemswqIiSMRs32DqVDHG-jjg"
+          "url": "https://mega.nz/#!sipyGLIZ!ZAN-YrggYyA_luaDs3wLBAKyWWOjMKGZVHLRWfZJx3o"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/YfdrrkqT"
+          "url": "https://pixeldrain.com/u/sAahtF9U"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/CsAd9F8vVxW"
+          "url": "https://workupload.com/file/zp2f4ZWg9YZ"
         }
       ],
       "Android": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/100bys9qlyuw"
+          "url": "https://bzzhr.to/h3ah4xeea9lg"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/dp9h1pleajvr/Space_Rescue_Code_Pink-14.0.apk"
+          "url": "https://datanodes.to/cnujuxzv00yn/BeingNyx-0.2.apk"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!sRdQUTiS!7tlZfRaAryapPNyINzV9dwpAsbQK9AYrQAgTINn43d4"
+          "url": "https://mega.nz/#!wyYHzIhY!qvBPHmr0IeJDwX-QAUmc7ZXcGccxXwu0ufvItYQu06Y"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/MNgbrRRm"
+          "url": "https://f95zone.to/dl/21755588/?k=62eb55fe411c&h=pixeldrain.com"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/Xy8auSmNw8e"
+          "url": "https://workupload.com/file/8phCsdUgNY2"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/space-rescue-code-pink-v14-0-robin/",
+    "source_url": "https://f95zone.to.it/being-nyx-ep-2-aulantr/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "the-system-gave-me-three-girlfriends-v1-13-8-moonofartemisia-animus-ceviri",
-    "title": "The System Gave Me Three Girlfriends",
-    "version": "v1.13.8",
-    "version_full": "1.13.8",
-    "developer": "MoonofArtemisia / Animus Çeviri",
+    "slug": "mayuri-sama-no-jintai-jikkenshitsu-mayuris-experiment-lab-expanded-v0-2-greenfalcon",
+    "title": "Mayuri-sama no Jintai Jikkenshitsu – Mayuri’s Experiment Lab: Expanded",
+    "version": "v0.2",
+    "version_full": "0.2",
+    "developer": "GreenFalcon",
     "developer_links": [
       {
-        "label": "Official Website",
-        "url": "https://animusceviri.com/"
+        "label": "GreenFalcon",
+        "url": "https://f95zone.to.it/mayuri-sama-no-jintai-jikkenshitsu-mayuris-experiment-lab-expanded-v0-2-greenfalcon/"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Flash",
+    "os": "Windows",
+    "language": "English",
+    "release": "2026-11-25",
+    "updated": "2026-11-26",
+    "published": "2026-11-26",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "2dcg",
+      "ahegao",
+      "animated",
+      "bdsm",
+      "big ass",
+      "big tits",
+      "character creation",
+      "corruption",
+      "cosplay",
+      "creampie",
+      "drugs",
+      "footjob",
+      "groping",
+      "interracial",
+      "male domination",
+      "male protagonist",
+      "masturbation",
+      "milf",
+      "monster girl",
+      "oral sex",
+      "parody",
+      "pregnancy",
+      "rape",
+      "sexual harassment",
+      "titfuck",
+      "vaginal sex",
+      "virgin"
+    ],
+    "genres": [
+      "2DCG",
+      "Animated",
+      "Corruption",
+      "Male Protagonist"
+    ],
+    "overview": "A mod for the old flash game “Mayuri-sama no Jintai Jikkenshitsu” (マユリ様の人体実験室) version 5.7 by circle eden. It adds editors to make your own characters (hair, eyes, mouth, skin colour, dialogue), extra character slots, character packs to share them, and in game mods like multiple rooms.",
+    "size": "",
+    "format": "ZIP (Windows)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/2nxaqqsnehh8/Mayuri_Experiment_Lab_-_Expanded_0.2.zip"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/pkK3SDJU"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/P9TaWYsY"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/JRYfkRe3Vm4"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/mayuri-sama-no-jintai-jikkenshitsu-mayuris-experiment-lab-expanded-v0-2-greenfalcon/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "left-ajar-v0-4-1-third-door-games",
+    "title": "Left Ajar",
+    "version": "v0.4.1",
+    "version_full": "0.4.1",
+    "developer": "Third Door Games",
+    "developer_links": [
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/ThirdDoorGames"
+      },
+      {
+        "label": "itch.io",
+        "url": "https://thirddoorgames.itch.io/left-ajar"
       }
     ],
     "installation": [],
     "status": "Ongoing",
     "engine": "Ren'Py",
     "os": "Windows",
-    "language": "English, Turkish",
-    "release": "2026-11-15",
-    "updated": "2026-11-25",
-    "published": "2026-11-25",
-    "censored": "Explicit scenes take place off-screen",
+    "language": "English",
+    "release": "2026-11-26",
+    "updated": "2026-11-26",
+    "published": "2026-11-26",
+    "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
-      "ai cg",
-      "big ass",
-      "big tits",
-      "male protagonist",
-      "milf",
-      "real porn",
-      "romance",
-      "teasing"
-    ],
-    "genres": [
-      "AI CG",
-      "Male Protagonist",
-      "Romance"
-    ],
-    "overview": "The System Gave Me Three Girlfriends is a story-driven visual novel combining romance, drama, mystery, and meaningful player choices. You play as Deniz, a 27-year-old man whose life revolves around three women: Leyla, Ece, and Mira. When a mysterious system begins sending unexpected messages, old secrets, suspicious recordings, a forgotten agreement, and a woman named Ada threaten to change everything. Explore relationships, make difficult decisions, uncover the truth behind the mysterious A-04 archive, and discover where your choices lead. Your choices matter. Who will you trust?",
-    "size": "",
-    "format": "ZIP (Windows)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/15ul3wdp6mgr/The_System_Gave_Me_Three_Grlfrends.zip"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/u0XqE3sP"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://f95zone.to/dl/22375562/?k=c509333ed79d&h=pixeldrain.com"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/pUUMxSBk5sw"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/the-system-gave-me-three-girlfriends-v1-13-8-moonofartemisia-animus-ceviri/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "sex-saber-an-rpg-where-you-conquer-dungeons-while-having-sex-with-a-dark-elf-girl-final-road-map",
-    "title": "SEX SABER ~An RPG where you conquer dungeons while having sex with a dark elf girl!",
-    "version": "Final",
-    "version_full": "Final",
-    "developer": "Road map",
-    "developer_links": [
-      {
-        "label": "DLsite",
-        "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG05060.html"
-      },
-      {
-        "label": "Ci-en",
-        "url": "https://ci-en.dlsite.com/creator/6361"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "Completed",
-    "os": "Windows",
-    "language": "English (",
-    "release": "2023-02-25",
-    "updated": "2026-11-25",
-    "published": "2026-11-25",
-    "censored": "Yes (Mosaic)",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "2d game",
       "2dcg",
-      "adventure",
-      "ahegao",
-      "anal sex",
-      "bdsm",
-      "big ass",
-      "big tits",
-      "bukkake",
-      "censored",
-      "creampie",
-      "fantasy",
-      "groping",
+      "ai cg",
+      "animated",
+      "cheating",
+      "corruption",
+      "dating sim",
       "handjob",
-      "japanese game",
-      "male domination",
       "male protagonist",
-      "masturbation",
-      "monster girl",
-      "multiple penetration",
       "oral sex",
-      "rape",
-      "sex toys",
-      "tentacles",
+      "romance",
+      "sandbox",
+      "school setting",
       "titfuck",
-      "urination",
       "vaginal sex"
     ],
     "genres": [
-      "2D Game",
       "2DCG",
-      "Adventure",
-      "Fantasy",
-      "Japanese Game",
-      "Male Protagonist"
+      "AI CG",
+      "Animated",
+      "Corruption",
+      "Dating Sim",
+      "Male Protagonist",
+      "Romance",
+      "Sandbox"
     ],
-    "overview": "This is an RPG where you are transported to another world and trapped in a dungeon, and then have sex with an attractive, dark-skinned dark elf girl, while trying to find your way back.",
+    "overview": "Rule one of the dorm, underlined twice: with a visitor in the room, the door stays open. Left Ajar is a sandbox dating sim about two girls down the hall, one of them with a boyfriend, their hidden traits, and how long that rule lasts. Naomi and Runa each have traits you only find out by spending time with her. What works on her may not work on her friend. Talk, flirt, take her out, text her, and see how far she goes with you. First public build: about a week of content per girl (roughly 1.5-2 hours of play for both), 4 animated intimate scenes per girl, 15 photos per girl.",
     "size": "",
     "format": "ZIP (Windows)",
     "changelog": [],
@@ -753,184 +900,78 @@
       "Windows": [
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/GtmnGGqV"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/wo4g9yjd1s82bbg/SexSaber.zip/file"
+          "url": "https://pixeldrain.com/u/wZoH6N4v"
         },
         {
           "host": "GOFILE",
-          "url": "https://gofile.io/d/2By1349H"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!zrpRharb!3qxQrzTQWRIvPxddzsmLCS2TGKK0AVdIX7yGyIpW3Q4"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/sex-saber-an-rpg-where-you-conquer-dungeons-while-having-sex-with-a-dark-elf-girl-final-road-map/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "anthro-heat-v1-2-1-1-edef",
-    "title": "Anthro Heat",
-    "version": "v1.2.1.1",
-    "version_full": "1.2.1.1",
-    "developer": "Edef",
-    "developer_links": [
-      {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/user?u=30965008"
-      },
-      {
-        "label": "Steam",
-        "url": "https://store.steampowered.com/search/?developer=Blue%20Lizard%20Studios"
-      },
-      {
-        "label": "Itch.io",
-        "url": "https://edeff.itch.io/"
-      },
-      {
-        "label": "Website",
-        "url": "https://www.anthroheat.com/"
-      },
-      {
-        "label": "Twitter",
-        "url": "https://twitter.com/GardenofEdef"
-      },
-      {
-        "label": "Bluesky",
-        "url": "https://bsky.app/profile/edef.bsky.social"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "Completed",
-    "os": "Windows",
-    "language": "English",
-    "release": "2026-11-14",
-    "updated": "2026-11-25",
-    "published": "2026-11-25",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "3d game",
-      "3dcg",
-      "anal sex",
-      "animated",
-      "bdsm",
-      "female domination",
-      "furry",
-      "futa/trans",
-      "gay",
-      "groping",
-      "handjob",
-      "lesbian",
-      "male domination",
-      "multiple penetration",
-      "oral sex",
-      "sex toys",
-      "simulator",
-      "spanking",
-      "trap",
-      "urination",
-      "vaginal sex",
-      "virtual reality",
-      "voiced"
-    ],
-    "genres": [
-      "3D Game",
-      "3DCG",
-      "Animated"
-    ],
-    "overview": "Anthro Heat is a VR sandbox where you can sexually interact with anthro characters in numerous ways! You can lick, grab, suck, fuck, use toys, explore fetishes and much more! Immerse yourself in this virtual world where you have very special characters at your disposal any time!",
-    "size": "",
-    "format": "ZIP (Windows)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/1whz5ep7t01t"
+          "url": "https://gofile.io/d/LtSvejc4"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/1jhr4pa2ww22/Anthro_Heat_1.2.1.1.7z"
+          "url": "https://datanodes.to/dc2iu8x5lq7u/LeftAjar-0.4.1-win.zip"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!cZVQDBJZ!jhn-ZLXtqbMlPcUD81dB36DsivbiXswKrWXDUpeeThc"
+          "url": "https://mega.nz/#!ZrhUmC6D!T9lDt0kbg0hteBDe6vbDMRGlA1We0iQ-90nH3mPKJxQ"
         },
         {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/TqgS21Bi"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/OrgfIT"
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/YHm3SqWdbX8"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/anthro-heat-v1-2-1-1-edef/",
+    "source_url": "https://f95zone.to.it/left-ajar-v0-4-1-third-door-games/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "married-technically-ch-1-v0-1-2-midnight-ink-games",
-    "title": "Married, Technically",
-    "version": "Ch. 1 v0.1.2",
-    "version_full": "Ch. 1 (v0.1.2) · Ch. 2 out on Patreon, free here on 2026-12-21",
-    "developer": "Midnight Ink Games",
+    "slug": "blind-feed-ch-1-v0-1-mothlight",
+    "title": "Blind Feed",
+    "version": "Ch. 1 v0.1",
+    "version_full": "Ch. 1 v0.1",
+    "developer": "Mothlight",
     "developer_links": [
       {
         "label": "Patreon",
-        "url": "https://www.patreon.com/cw/MidnightInkGames"
+        "url": "https://www.patreon.com/cw/Mothlight969"
       },
       {
         "label": "itch.io",
-        "url": "https://midnightinkgames.itch.io/married-technically"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discord.gg/FXMDv7uCk"
+        "url": "https://mothlight969.itch.io/blind-feed"
       }
     ],
     "installation": [],
     "status": "Ongoing",
-    "engine": "Others",
-    "os": "Windows, Android, Mac, Linux",
-    "language": "English, German, Spanish, Portuguese, Russian, Turkish, Simplified Chinese",
-    "release": "2026-11-16",
-    "updated": "2026-11-25",
-    "published": "2026-11-25",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux",
+    "language": "English",
+    "release": "2026-11-24",
+    "updated": "2026-11-26",
+    "published": "2026-11-26",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
+      "2dcg",
       "ai cg",
+      "corruption",
+      "creampie",
       "male protagonist",
-      "phone interface",
+      "mystery",
+      "oral sex",
       "romance",
-      "sharing",
-      "simulator",
-      "swinging",
       "teasing",
-      "text based",
-      "voyeurism"
+      "vaginal sex"
     ],
     "genres": [
+      "2DCG",
       "AI CG",
+      "Corruption",
       "Male Protagonist",
       "Romance"
     ],
-    "overview": "Your wife asks the question first. Then it’s your turn. Sofia is at a hotel bar in New York with a drink in her hand and her best friend beside her. You are home in Chicago with your phone. She has something to tell you, and something to ask. Whatever you answer decides how far the night goes. Married, Technically is an adult interactive story that plays out entirely on a phone: messages arrive as the night unfolds, her photos and short videos follow, and every reply is yours. An open marriage with one rule: tell each other everything. How hard that rule is to keep is the story.",
+    "overview": "It’s 1:47 AM. Ryan can’t sleep. His girlfriend Lena is asleep beside him, and he’s scrolling VEIL — the anonymous feed the whole city is talking about. Faceless models. Shadows. A photographer nobody can name, who signs every post with a single letter: J. Tonight there’s a new girl. They call her Moth. He’s never once wondered why she wears his gift on her ankle. Lena is in her final year of art school and suddenly owes $8,700 she doesn’t have. Ryan is quietly saving for a ring she doesn’t know about. And a charming photographer has an offer for her: no faces, good money, her rules. You play as Ryan, and you’ll always know a little more than he does.",
     "size": "",
-    "format": "ZIP (Windows / Mac / Linux) · APK (Android)",
+    "format": "ZIP (Windows / Linux)",
     "changelog": [],
     "faq": [],
     "reviews_list": [],
@@ -939,146 +980,50 @@
     "mirrors": {
       "Windows": [
         {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/T6W8XLJu"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/4itmtenjew8c/Married_Technically.exe"
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/w3a2ckqzmxg687e/BlindFeed-0.1-ch1-public.zip/file"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/BZrTPs2u"
+          "url": "https://pixeldra.in/u/VQgJmbMf"
         },
         {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/e2pLcS533Tn"
-        }
-      ],
-      "Android": [
-        {
           "host": "GOFILE",
-          "url": "https://gofile.io/d/T6W8XLJu"
+          "url": "https://f95zone.to/dl/22359819/?k=2bbea8e48daf&h=gofile.io"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/m1dv6wcf7w3i/Married_Technically_0.1.2.apk"
+          "url": "https://datanodes.to/al6lznm5qvwg/BlindFeed-0.1-ch1-public.zip"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/wAZ7adUkyST"
+          "url": "https://workupload.com/file/uAQVxrQQjUf"
         }
       ],
       "Linux": [
         {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/qs36fyaj7d17/Married_Technically_0.1.2_Linux.tar.gz"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/deC7BgHPbRP"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/lu9kidydpo4z/Married_Technically_0.1.2_macOS_Apple_Silicon.zip"
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/w3a2ckqzmxg687e/BlindFeed-0.1-ch1-public.zip/file"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/b7Vxxr9S"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/3HPXjcdFCx2"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/married-technically-ch-1-v0-1-2-midnight-ink-games/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "ill-never-leave-this-town-v0-4-0-mincedmeat",
-    "title": "I’ll Never Leave This Town",
-    "version": "v0.4.0",
-    "version_full": "0.4.0",
-    "developer": "MincedMeat",
-    "developer_links": [
-      {
-        "label": "MincedMeat",
-        "url": "https://f95zone.to/members/minced-meat.3493769/"
-      },
-      {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/mincedmeat"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "HTML",
-    "os": "Windows, Linux, Mac",
-    "language": "English",
-    "release": "2026-11-25",
-    "updated": "2026-11-25",
-    "published": "2026-11-25",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "anal sex",
-      "big ass",
-      "big tits",
-      "exhibitionism",
-      "female protagonist",
-      "handjob",
-      "masturbation",
-      "milf",
-      "oral sex",
-      "real porn",
-      "rpg",
-      "sandbox",
-      "stripping",
-      "text based",
-      "vaginal sex",
-      "voyeurism"
-    ],
-    "genres": [
-      "Female Protagonist",
-      "RPG",
-      "Sandbox",
-      "HTML"
-    ],
-    "overview": "The female protagonist just graduated college, and has moved back to her family. And they will teach her how to live a life like a grown-up woman.",
-    "size": "",
-    "format": "ZIP (Windows / Linux / Mac) · HTML (browser)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/kakfvii4zom6/Ill_Never_Leave_This_Town_0.4.0.zip"
+          "url": "https://pixeldra.in/u/VQgJmbMf"
         },
         {
           "host": "GOFILE",
-          "url": "https://gofile.io/d/CA0jGwqg"
+          "url": "https://f95zone.to/dl/22359819/?k=2bbea8e48daf&h=gofile.io"
         },
         {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/xAgqf931"
+          "host": "DATANODES",
+          "url": "https://datanodes.to/al6lznm5qvwg/BlindFeed-0.1-ch1-public.zip"
         },
         {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/upysji50vg7u"
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/uAQVxrQQjUf"
         }
-      ],
-      "Linux": [],
-      "Mac": []
+      ]
     },
-    "source_url": "https://f95zone.to.it/ill-never-leave-this-town-v0-4-0-mincedmeat/",
+    "source_url": "https://f95zone.to.it/blind-feed-ch-1-v0-1-mothlight/",
     "source": "f95zone.to.it"
   },
   {
