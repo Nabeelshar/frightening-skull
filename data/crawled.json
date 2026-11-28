@@ -1,419 +1,70 @@
 [
   {
-    "slug": "lucky-guy-a-parody-of-family-guy-v1-5-blackfruitgames",
-    "title": "Lucky Guy: A Parody of Family Guy",
-    "version": "v1.5",
-    "version_full": "1.5",
-    "developer": "BlackFruitGames",
+    "slug": "bolos-belly-dancing-bar-v0-4-gummy-zombie",
+    "title": "Bolo’s Belly Dancing Bar",
+    "version": "v0.4",
+    "version_full": "0.4",
+    "developer": "Gummy Zombie",
     "developer_links": [
       {
+        "label": "Gummy Zombie",
+        "url": "https://f95zone.to/members/gummyzombie.8517767/"
+      },
+      {
         "label": "Patreon",
-        "url": "https://www.patreon.com/BlackFruitGames"
+        "url": "https://www.patreon.com/cw/GummyZombie2215"
       },
       {
         "label": "Itch.io",
-        "url": "https://blackfruitgames.itch.io/lucky-guy"
+        "url": "https://gummyzombie.itch.io/"
       },
       {
-        "label": "Discord",
-        "url": "http://discord.gg/spzPtuksMK"
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/gumzombieofficial.bsky.social"
       }
     ],
     "installation": [],
     "status": "Ongoing",
-    "engine": "Completed",
-    "os": "Windows, Mac, Android",
+    "engine": "Godot",
+    "os": "Windows, Linux, Mac",
     "language": "English",
-    "release": "2026-11-25",
+    "release": "2026-11-26",
     "updated": "2026-11-27",
-    "published": "2026-11-27",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "2d game",
-      "2dcg",
-      "big ass",
-      "big tits",
-      "dating sim",
-      "gay",
-      "groping",
-      "male protagonist",
-      "milf",
-      "Mobile",
-      "oral sex",
-      "parody",
-      "rpg",
-      "sandbox",
-      "teasing",
-      "voyeurism"
-    ],
-    "genres": [
-      "2D Game",
-      "2DCG",
-      "Dating Sim",
-      "Male Protagonist",
-      "RPG",
-      "Sandbox"
-    ],
-    "overview": "You are new to Quahog, you were hired by Quagmire, who lets you live in his house. On your first day on the job you meet the Griffins, and learn that you are part of a video game, so your actions have no real consequences. What will you do then?",
-    "size": "approx. ~1 GB",
-    "format": "ZIP (Windows / Mac) · APK (Android)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://f95zone.to/dl/9928472/?k=10a8ddd36311&h=bzzhr.to"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://f95zone.to/dl/9928472/?k=2f2c0bd95628&h=datanodes.to"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/9928472/?k=98104bf933a8&h=mega.nz"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/9928472/?k=3f117a307981&h=workupload.com"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/NntZeBv7"
-        }
-      ],
-      "Android": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://f95zone.to/dl/9928472/?k=5b7a3e5fd3a4&h=bzzhr.to"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://f95zone.to/dl/9928472/?k=fb539c09c24e&h=datanodes.to"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://f95zone.to/dl/9928472/?k=151fd1d24570&h=mega.nz"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/9928472/?k=9bca6195561d&h=workupload.com"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/buYAVwi2"
-        }
-      ],
-      "Mac": []
-    },
-    "source_url": "https://f95zone.to.it/lucky-guy-a-parody-of-family-guy-v1-5-blackfruitgames/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "lust-odyssey-v0-58-1-xperiment",
-    "title": "Lust Odyssey",
-    "version": "v0.58.1",
-    "version_full": "0.58.1",
-    "developer": "Xperiment",
-    "developer_links": [
-      {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/xperiment261"
-      },
-      {
-        "label": "Subscribestar",
-        "url": "https://subscribestar.adult/xperiment261?redirect_notice=true"
-      },
-      {
-        "label": "Itch.io",
-        "url": "https://xperiment.itch.io/lust-odyssey"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discord.gg/PhExRMSYD6"
-      },
-      {
-        "label": "Twitter",
-        "url": "https://x.com/XXXperiment1"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac, Android",
-    "language": "English",
-    "release": "2026-10-30",
-    "updated": "2026-11-27",
-    "published": "2026-11-27",
+    "published": "2026-11-28",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
       "2dcg",
-      "anal sex",
-      "bdsm",
-      "character creation",
-      "corruption",
-      "creampie",
-      "dilf",
-      "drugs",
-      "female domination",
-      "female protagonist",
-      "futa/trans protagonist",
-      "gay",
-      "groping",
-      "group sex",
-      "handjob",
-      "humiliation",
-      "interracial",
-      "lactation",
-      "male domination",
-      "male protagonist",
-      "masturbation",
-      "Mobile",
-      "multiple penetration",
-      "oral sex",
-      "rape",
-      "sci-fi",
-      "sex toys",
-      "sexual harassment",
-      "slave",
-      "teasing",
-      "text based",
-      "vaginal sex",
-      "virgin"
-    ],
-    "genres": [
-      "2DCG",
-      "Corruption",
-      "Female Protagonist",
-      "Male Protagonist",
-      "Sci-Fi"
-    ],
-    "overview": "You wake up in a spacecraft, alone and naked. And what’s worse, with no memories. You’ll have to advance through the story to discover who you are as you uncover conspiracies, discover new races, or make difficult decisions. But you will find that the truth about you is not as obvious as it seems. The end of this game is already thought, but everything in between is yet to be seen, will you join me in this adventure so we can shape it?",
-    "size": "",
-    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
-    "changelog": [
-      [
-        "1",
-        [
-          "Rylan’s interactive CG for dominant players. For submissive players, Rylan will have a BDSM suit. Possibility to have such a relationship with him being a dominant bottom."
-        ]
-      ],
-      [
-        "2",
-        [
-          "Sex scenes left behind with Egon, Elion, Phoenix, Skru’Vaks, and Katari."
-        ]
-      ],
-      [
-        "3",
-        [
-          "Finish the two remaining missions of Sithyrya and go after The Warlord."
-        ]
-      ]
-    ],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/b2xanal553bt"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/1fliublcwl8t/LustOdyssey-0.58.1-mac.zip"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/sgFQvNPv"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/69xS2B523rX"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/XbSSPNiw"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!jLhmCaoI!9rdLcM0OMG9d4BxSQaELJGO3lPM7zvuySra5zLZWB0E"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/b2xanal553bt"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/1fliublcwl8t/LustOdyssey-0.58.1-mac.zip"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/sgFQvNPv"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/69xS2B523rX"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/XbSSPNiw"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!jLhmCaoI!9rdLcM0OMG9d4BxSQaELJGO3lPM7zvuySra5zLZWB0E"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/b2xanal553bt"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/1fliublcwl8t/LustOdyssey-0.58.1-mac.zip"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/sgFQvNPv"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/69xS2B523rX"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/KTPQsBc5"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!KewxjajA!1pXHvuYDEVw5hYHe3sNUxUdQXj1hTEzhdveWaZtexGI"
-        }
-      ],
-      "Android": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/qhkdtym1gvts"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/5mxqsdmqc8cp/LustOdyssey-0.58.1.apk"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/czdzACQG"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://f95zone.to/dl/8337897/?k=cafe234db9a0&h=workupload.com"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/TK2juw3g"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!nO4RQBoZ!fsKA6DwEX4F_NMmakn_GSz5tP0AwERlQbcoZJTZy3vQ"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/lust-odyssey-v0-58-1-xperiment/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "stealing-them-softly-v1-0-dark-one",
-    "title": "Stealing Them Softly",
-    "version": "v1.0",
-    "version_full": "1.0",
-    "developer": "Dark One!",
-    "developer_links": [
-      {
-        "label": "Steam",
-        "url": "https://store.steampowered.com/search/?hwtype=0&developer=Dark%20One!&ndl=1"
-      },
-      {
-        "label": "Johren",
-        "url": "https://www.johren.games/games/download/all-genres/all-tags/all-soft/dark-one%21/all-pubs/newest/"
-      },
-      {
-        "label": "Website",
-        "url": "https://nexton-net.jp/ms-toybox/product_darkone.html"
-      },
-      {
-        "label": "Twitter/x",
-        "url": "https://x.com/Ms_toybox"
-      },
-      {
-        "label": "Youtube",
-        "url": "https://www.youtube.com/@%E3%82%A8%E3%83%A0%E3%82%BA%E3%83%88%E3%82%A4%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB"
-      },
-      {
-        "label": "MobyGames",
-        "url": "https://www.mobygames.com/company/48158/dark-one/"
-      },
-      {
-        "label": "GameFAQs",
-        "url": "https://gamefaqs.gamespot.com/games/company/225951-"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "Completed",
-    "os": "Windows",
-    "language": "English, Chinese Traditional & Simplified",
-    "release": "2025-04-25",
-    "updated": "2026-11-26",
-    "published": "2026-11-27",
-    "censored": "Yes (Mosaics)",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "2dcg",
-      "ahegao",
-      "anal sex",
       "big ass",
       "big tits",
-      "bukkake",
-      "cheating",
       "corruption",
-      "creampie",
-      "groping",
       "harem",
-      "internal view",
-      "japanese game",
-      "kinetic novel",
-      "masturbation",
-      "multiple penetration",
-      "netorare",
-      "oral sex",
+      "male protagonist",
+      "management",
+      "Mobile",
+      "monster girl",
+      "parody",
+      "point & click",
       "romance",
-      "sex toys",
-      "titfuck",
-      "urination",
-      "vaginal sex",
+      "sexual harassment",
+      "simulator",
+      "spanking",
+      "teasing",
+      "trainer",
       "virgin"
     ],
     "genres": [
       "2DCG",
       "Corruption",
       "Harem",
-      "Japanese Game",
+      "Male Protagonist",
+      "Management",
       "Romance"
     ],
-    "overview": "A popular Japanese visual novel by Dark One! — a touching story of two people torn by inner conflict and sorrow as they face separation from the one they love. What kind of ending awaits them…?",
+    "overview": "Bolo’s Belly Dancing Bar is an Adult Management Simulator about Bolo running a bar! Shantae got in debt and has to pay back 1,000,000$ in rent to keep her light house, so with the help of Bolo she now has to work at his bar to make money so that she doesn’t end up homeless.",
     "size": "",
-    "format": "ZIP (Windows)",
+    "format": "ZIP (Windows / Linux / Mac)",
     "changelog": [],
     "faq": [],
     "reviews_list": [],
@@ -422,76 +73,148 @@
     "mirrors": {
       "Windows": [
         {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/8vg0jxumvb7uqjq/Stealing+Them+Softly.zip/file"
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/cFyc371D"
         },
         {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/rbOBijJn"
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/p9iw5467u7vp"
         },
         {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/S3KKQsn7y6g"
+          "host": "DATANODES",
+          "url": "https://datanodes.to/fbcxhi1nyrxj/BoloDancingBar-0.4-pc.zip"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/file/VAFVGbaZ#nA1MmwKhHtr5eWSBP3i_HvnhSHqMBD5oFwTWZNyPc1U"
+          "url": "https://mega.nz/#!HhJWQQbA!p_CNmrqkMXMgLE6dFMuCfeRH6qH_7L4SsooCvR9glo0"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/cFyc371D"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/p9iw5467u7vp"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/fbcxhi1nyrxj/BoloDancingBar-0.4-pc.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!HhJWQQbA!p_CNmrqkMXMgLE6dFMuCfeRH6qH_7L4SsooCvR9glo0"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/JBxedaGA"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/4pmqio81we47"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/wlsgbms99lzy/BoloDancingBar-0.4-mac.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!2gQ3nRTK!AZPIuMimW2074Lfsr2aRkguAp5Rvxr923pOng-Cq1i8"
+        }
+      ],
+      "Android": [
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/qEUkoS9p"
+        },
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/jenyffdepwpj"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/q3lscu1jcge4/BoloDancingBar-0.4.apk"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!f4QizICQ!NjzVBMn0ltyQuFqM8guFPcoW51I9nAWkAtOSKW9cfps"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/stealing-them-softly-v1-0-dark-one/",
+    "source_url": "https://f95zone.to.it/bolos-belly-dancing-bar-v0-4-gummy-zombie/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "after-school-after-days-i-tried-getting-super-lovey-dovey-with-my-childhood-friend-big-sis-v1-0-studio-cute",
-    "title": "After-School After Days ~I Tried Getting Super Lovey-Dovey with My Childhood Friend Big Sis~",
-    "version": "v1.0",
-    "version_full": "1.0",
-    "developer": "Studio Cute",
+    "slug": "konoha-milfs-v1-3-kimkun0162",
+    "title": "Konoha Milfs",
+    "version": "v1.3",
+    "version_full": "1.3",
+    "developer": "Kimkun0162",
     "developer_links": [
       {
-        "label": "DLSite",
-        "url": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG26773.html"
+        "label": "Patreon",
+        "url": "https://www.patreon.com/kimkunhjdkfghk"
+      },
+      {
+        "label": "Twitter",
+        "url": "https://x.com/Kimkun01621"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.gg/3hyrQfJhX4"
       }
     ],
     "installation": [],
     "status": "Ongoing",
-    "engine": "Completed",
-    "os": "Windows",
-    "language": "English (",
-    "release": "2026-11-04",
+    "engine": "Ren'Py",
+    "os": "Windows, Linux, Mac, Android",
+    "language": "English, Chinese, Japanese, Korean",
+    "release": "2026-07-24",
     "updated": "2026-11-27",
-    "published": "2026-11-27",
-    "censored": "Yes (Mosaics)",
+    "published": "2026-11-28",
+    "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
       "2dcg",
-      "ahegao",
+      "anal sex",
+      "animated",
+      "big ass",
       "big tits",
-      "censored",
-      "creampie",
-      "groping",
+      "fantasy",
       "handjob",
-      "japanese game",
+      "incest",
       "male protagonist",
       "masturbation",
+      "milf",
       "oral sex",
-      "school setting",
-      "sex toys",
-      "simulator",
-      "titfuck",
-      "vaginal sex"
+      "parody",
+      "sandbox",
+      "vaginal sex",
+      "virgin",
+      "voyeurism"
     ],
     "genres": [
       "2DCG",
-      "Japanese Game",
-      "Male Protagonist"
+      "Animated",
+      "Fantasy",
+      "Male Protagonist",
+      "Sandbox"
     ],
-    "overview": "One month into high school. Enjoying his lone-wolf school life (to put it nicely), Ken reunites with his childhood friend and first love, Himari Amano. When Ken swallows his pride and confesses his situation, Himari offers to let him practice with her, but… “…So, I know it’s sudden, but let’s go practice at my place.” Invited straight over to her house right off the bat!? Their heart-pounding, oh-so-sweet after-school practice sessions begin now!",
+    "overview": "The game’s setting takes place after the 4th great ninja war. The story tells about the daily life of an orphan boy, who was fortunate to be adopted by the Hokage from childhood.",
     "size": "",
-    "format": "ZIP (Windows)",
-    "changelog": [],
+    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
+    "changelog": [
+      [
+        "2026",
+        [
+          "07-24"
+        ]
+      ]
+    ],
     "faq": [],
     "reviews_list": [],
     "cover_url": "",
@@ -500,71 +223,218 @@
       "Windows": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/zkv30m1zlxtj"
+          "url": "https://bzzhr.to/7bbk71fxxqk4"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/6p5yyofzp0jm/After_School_After_Days_v.1.0_Windows.zip"
+          "url": "https://datanodes.to/13rjy97t13b5/Konoha_Milfs-1.3-win.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!dIh1VIqK!6QBUZHq0tCZiqeF_cDK3liD__I0pa315kPOku9TGlrg"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/xhl4e98sftxr8ug"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/zh9mcjs7gro7"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/pnmyhr3tp9ov/Konoha_Milfs-1.3-linux.tar.bz2"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!hAgUjSQb!E2iB8fvXFeF8qHi1IGtm5cyrWQRR6Tg7mYv2E-uYLek"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/sbez1skaqem7tbp"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/f6gfyafv2qrr"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/mk30p1ywyab6/Konoha_Milfs-1.3-mac.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!oMpQ2ayJ!zFXAHfTmpit78wm_BwjOhxg3X06T8bprk5JocCA0vxY"
+        },
+        {
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/du6g4ypenubgw8u"
+        }
+      ],
+      "Android": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/s191l6o9mpm2"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/b5at79lx8a96/HokagesAdoptedSon-1.1.apk"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://f95zone.to/dl/16102022/?k=07af2321d047&h=mega.nz"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/BzkjUTZD"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/dwmJhGG5Rje"
+          "url": "https://pixeldrain.com/u/sHr2GUqf"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/after-school-after-days-i-tried-getting-super-lovey-dovey-with-my-childhood-friend-big-sis-v1-0-studio-cute/",
+    "source_url": "https://f95zone.to.it/konoha-milfs-v1-3-kimkun0162/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "luna-v1-0-1-demo-zero369",
-    "title": "Luna",
-    "version": "v1.0.1 Demo",
-    "version_full": "1.0.1 Demo",
-    "developer": "Zero369",
+    "slug": "milk-homestead-v0-0-5-fleshforge-studio",
+    "title": "Milk Homestead",
+    "version": "v0.0.5",
+    "version_full": "0.0.5",
+    "developer": "FleshForge Studio",
+    "developer_links": [
+      {
+        "label": "FleshForge Studio",
+        "url": "https://f95zone.to/members/fleshforge-studio.5565767/"
+      },
+      {
+        "label": "Kickstarter",
+        "url": "https://www.kickstarter.com/projects/milksaga/milk-homestead-3d-visual-novel-and-life-sim-18/"
+      },
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/c/FleshForgeSTudio/"
+      },
+      {
+        "label": "Website",
+        "url": "https://fleshforgestudio.com/"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.gg/KXQcAkvz2e"
+      },
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/5071950/Milk_Homestead/"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows",
+    "language": "English and 29 other languages",
+    "release": "2026-11-26",
+    "updated": "2026-11-13",
+    "published": "2026-11-28",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "3dcg",
+      "adventure",
+      "ai cg",
+      "anal sex",
+      "animated",
+      "big ass",
+      "big tits",
+      "blowjob",
+      "clicker",
+      "exhibitionism",
+      "futa/trans",
+      "lactation",
+      "male protagonist",
+      "milf",
+      "oral sex",
+      "point & click",
+      "stripping",
+      "teasing",
+      "vaginal sex",
+      "virgin"
+    ],
+    "genres": [
+      "3DCG",
+      "Adventure",
+      "AI CG",
+      "Animated",
+      "Male Protagonist"
+    ],
+    "overview": "Inherit a mysterious estate and its secret, high-profit barn operation. Manage milk extraction, upgrade tech, and navigate seven demanding women with dynamic schedules. Explore the estate in real time and unlock over dozens of fully animated 3D explicit scenes! Trailer :",
+    "size": "",
+    "format": "ZIP (Windows)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/KYtkwDqR#cZ0bAkr2LhfnwBWnlEnCuzRIbRfABMYNWOgd7guo70E"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/SkYHiG5I"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/milk-homestead-v0-0-5-fleshforge-studio/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "grey-fever-v0-1-5-ilovebangs",
+    "title": "Grey Fever",
+    "version": "v0.1.5",
+    "version_full": "0.1.5",
+    "developer": "ILoveBangs",
     "developer_links": [
       {
         "label": "Patreon",
-        "url": "https://www.patreon.com/c/Zero369"
-      },
-      {
-        "label": "Itch.io",
-        "url": "https://zer0369.itch.io/"
-      },
-      {
-        "label": "Twitter",
-        "url": "https://x.com/Zer0kdm369"
+        "url": "https://www.patreon.com/cw/ilovebangs/membership"
       }
     ],
     "installation": [],
     "status": "Ongoing",
     "engine": "Ren'Py",
     "os": "Windows, Linux",
-    "language": "English, Portuguese (Brazil)",
-    "release": "2026-11-26",
-    "updated": "2026-11-26",
+    "language": "English",
+    "release": "2026-11-19",
+    "updated": "2026-11-27",
     "published": "2026-11-27",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
       "2dcg",
-      "ai cg",
+      "adventure",
+      "corruption",
+      "fantasy",
       "male protagonist",
+      "monster girl",
       "romance",
+      "school setting",
       "teasing",
-      "vaginal sex"
+      "voyeurism"
     ],
     "genres": [
       "2DCG",
-      "AI CG",
+      "Adventure",
+      "Corruption",
+      "Fantasy",
       "Male Protagonist",
       "Romance"
     ],
-    "overview": "Luna sat on the stairs for twenty minutes before she used your spare key. Now your ex is back in your room, acting as if seeing each other again was the easy part. Your choices carry through the first night, coffee the next morning, and the mall outing, shaping how the two of you handle being back together.",
+    "overview": "An 18+ modern fantasy visual novel with an NTR twist where you play as a student with a hopeless crush on his untouchable elf professor. You come into possession of a magical artefact that allows you to influence others, but over time you realise that your rivals can also benefit from your actions.",
     "size": "",
     "format": "ZIP (Windows / Linux)",
     "changelog": [],
@@ -575,141 +445,101 @@
     "mirrors": {
       "Windows": [
         {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/xLnca7jk"
+        },
+        {
           "host": "MEGA",
-          "url": "https://mega.nz/file/oNZjwbTJ#BFmcABmofGaZywlnpaLZq_qW3p8Kj3ps-EhvFMGNIbI"
+          "url": "https://mega.nz/#!IN1hwSJD!KVY0OhcsFtwfDf88kQHGDqR_C-GcXTjCEolJ-CLsd-w"
         },
         {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/cfuvfefsqlhq"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/13siabdx20ve/Luna-1.0.1-demo-pc.zip"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/dGZJKnVVy9F"
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/dpPgRe99"
         }
       ],
       "Linux": [
         {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/xLnca7jk"
+        },
+        {
           "host": "MEGA",
-          "url": "https://mega.nz/file/oNZjwbTJ#BFmcABmofGaZywlnpaLZq_qW3p8Kj3ps-EhvFMGNIbI"
+          "url": "https://mega.nz/#!IN1hwSJD!KVY0OhcsFtwfDf88kQHGDqR_C-GcXTjCEolJ-CLsd-w"
         },
         {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/cfuvfefsqlhq"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/13siabdx20ve/Luna-1.0.1-demo-pc.zip"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/dGZJKnVVy9F"
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/dpPgRe99"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/luna-v1-0-1-demo-zero369/",
+    "source_url": "https://f95zone.to.it/grey-fever-v0-1-5-ilovebangs/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "strive-conquest-v0-16-5-maverik",
-    "title": "Strive: Conquest",
-    "version": "v0.16.5",
-    "version_full": "0.16.5",
-    "developer": "Maverik",
+    "slug": "lusty-tavern-rush-demo-v1-0-stickyslipper",
+    "title": "Lusty Tavern Rush",
+    "version": "Demo v1.0",
+    "version_full": "Demo 1.0",
+    "developer": "StickySlipper",
     "developer_links": [
       {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/maverik"
+        "label": "Steam",
+        "url": "https://store.steampowered.com/search/?hwtype=0&developer=StickySlipper&ndl=1"
       },
       {
-        "label": "Itch.io",
-        "url": "https://strive4power.itch.io/"
+        "label": "Website",
+        "url": "https://www.stickyslipper.com/"
+      },
+      {
+        "label": "Twitter/X",
+        "url": "https://x.com/stickyslip"
       },
       {
         "label": "Discord",
-        "url": "https://discord.gg/VXSx9Zk"
-      },
-      {
-        "label": "Wiki",
-        "url": "https://strivegames.miraheze.org/wiki/Main_Page"
+        "url": "https://discord.com/invite/nFbdYasufQ"
       }
     ],
     "installation": [],
     "status": "Ongoing",
-    "engine": "Godot",
-    "os": "Windows, Linux, Mac",
+    "engine": "Unreal Engine",
+    "os": "Windows",
     "language": "English",
-    "release": "2026-11-23",
-    "updated": "2026-11-27",
+    "release": "2026-10-25",
+    "updated": "2026-11-26",
     "published": "2026-11-27",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
-      "2dcg",
-      "anal sex",
-      "bdsm",
-      "big tits",
-      "character creation",
+      "3d game",
+      "ahegao",
       "creampie",
+      "dating sim",
       "fantasy",
-      "female protagonist",
-      "footjob",
-      "futa",
-      "futa protagonist",
-      "futa/trans",
-      "futa/trans protagonist",
-      "gay",
-      "group sex",
-      "handjob",
-      "incest",
-      "lesbian",
+      "male domination",
       "male protagonist",
       "management",
-      "mind control",
-      "monster girl",
-      "oral sex",
-      "pregnancy",
-      "rape",
-      "rpg",
-      "slave",
-      "spanking",
-      "text based",
-      "titfuck",
-      "trainer",
-      "turn based combat",
+      "masturbation",
+      "romance",
+      "sandbox",
+      "simulator",
+      "teasing",
       "vaginal sex",
-      "virgin"
+      "voiced"
     ],
     "genres": [
-      "2DCG",
+      "3D Game",
+      "Dating Sim",
       "Fantasy",
-      "Female Protagonist",
       "Male Protagonist",
       "Management",
-      "RPG",
-      "Turn Based Combat"
+      "Romance",
+      "Sandbox"
     ],
-    "overview": "A tech demo of sequel for Strive for Power. This game represents core changes and mechanics of the second game, but does not represent main gameplay focus or content and should be treated as rough ideas.",
+    "overview": "Run your own medieval tavern by day — and indulge after hours. Hire staff, serve guests, build your reputation, and explore intimate relationships with the women who work for you. Lusty Tavern Rush is a 3D tavern management sim with a very adult twist.",
     "size": "",
-    "format": "ZIP (Windows / Linux / Mac)",
-    "changelog": [
-      [
-        "2",
-        [
-          "3×"
-        ]
-      ],
-      [
-        "v0.6.6a",
-        [
-          ">v0.6.7"
-        ]
-      ]
-    ],
+    "format": "ZIP (Windows)",
+    "changelog": [],
     "faq": [],
     "reviews_list": [],
     "cover_url": "",
@@ -717,116 +547,88 @@
     "mirrors": {
       "Windows": [
         {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/wl1wcvgy9rme"
-        },
-        {
           "host": "DATANODES",
-          "url": "https://datanodes.to/f6c428aen4ir/strive-conquest-v0.16.5-win64.zip"
+          "url": "https://datanodes.to/bwox9yyg3oaw/Lusty_Tavern_Rush_Demo.zip"
         },
         {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!KfIHlAQZ!xukG3EvsMdXXRCMPOic64EGfHPk5kQ348LIhqRJa5KU"
+          "host": "MEDIAFIRE",
+          "url": "https://www.mediafire.com/file/0o8yp1uh3ossypt/Lusty+Tavern+Rush+Demo.zip/file"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/isiBTNFE"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/GvQQeWWDCnj"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/xG4hy2oT"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/4ewxfqu7e7oy"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/iwkzeonvptla/strive-conquest-v0.16.5-linux.zip"
+          "url": "https://workupload.com/file/ZDFv9cTW7Wb"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!5co1UZCL!LyS8qHQH46wsDC3g0Js6UTkTpdE0uB-OLVQs7tDg6Ww"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/3dDDLPaMpU5"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/l982ne32j0m4"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/lzcst7ccbpbu/strive-conquest-v0.16.5-osx.zip"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!UZIjQCxI!VJMX7Eulg3NRRwvBgRu4iYJK-2CBPRpQSBR4dpHgVxs"
+          "url": "https://mega.nz/file/1d0kUALa#9bxinWOyXSvfTHJv7QOCJq2YGfUOdAWoPsD8CJKp2bg"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/strive-conquest-v0-16-5-maverik/",
+    "source_url": "https://f95zone.to.it/lusty-tavern-rush-demo-v1-0-stickyslipper/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "inflation-royale-2-v2-0-0-bubblegumdrgn",
-    "title": "Inflation Royale 2",
-    "version": "v2.0.0",
-    "version_full": "2.0.0",
-    "developer": "BubblegumDrgn",
+    "slug": "matriarch-v1-1-1-lustforge",
+    "title": "Matriarch",
+    "version": "v1.1.1",
+    "version_full": "1.1.1",
+    "developer": "LustForge",
     "developer_links": [
       {
         "label": "Patreon",
-        "url": "https://www.patreon.com/cw/mistressbubblicious"
+        "url": "https://www.patreon.com/cw/LustForge69"
       },
       {
-        "label": "Itch.io",
-        "url": "https://bubblegumdrgn.itch.io/"
+        "label": "Discord Server",
+        "url": "https://discord.gg/9N28BYFQy"
       },
       {
-        "label": "Twitter/X",
-        "url": "https://x.com/BubblegumDrgn"
+        "label": "Twitter",
+        "url": "https://x.com/LustForge69"
+      },
+      {
+        "label": "Itch",
+        "url": "https://lustforge69.itch.io/"
       }
     ],
     "installation": [],
     "status": "Ongoing",
     "engine": "Completed",
-    "os": "Mac, Android",
-    "language": "English",
-    "release": "2026-08-17",
-    "updated": "2026-11-26",
+    "os": "Windows",
+    "language": "English, French, Spanish, Italian, Russian, Chinese, Hindi",
+    "release": "2026-11-27",
+    "updated": "2026-11-27",
     "published": "2026-11-27",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
-      "2dcg",
-      "adventure",
-      "ai cg",
+      "3d game",
       "big ass",
       "big tits",
-      "furry",
-      "humor",
-      "no sexual content",
-      "strategy",
-      "turn based combat",
-      "vore"
+      "character creation",
+      "incest",
+      "male protagonist",
+      "milf",
+      "multiple endings",
+      "netorare",
+      "sandbox",
+      "teasing",
+      "voyeurism"
     ],
     "genres": [
-      "2DCG",
-      "Adventure",
-      "AI CG",
-      "Strategy",
-      "Turn Based Combat"
+      "3D Game",
+      "Male Protagonist",
+      "Multiple Endings",
+      "Sandbox"
     ],
-    "overview": "Inflation Royale is a tactical battle-royale experience where every fight ends in someone getting bigger. Choose three allies, gear up with elemental weapons, and survive a shrinking map while rival squads try to turn you into the next parade float. Combat is turn-based and mean. Weapons carry status effects — sticky, buoyant, juiced, bubbled, and more — that change how the fight plays out. Heavy weapons and shotguns hit entire squads. Tanks can body-block blasts. Snipers can pick people off from across the map.Between fights you move through regions, scavenge loot, manage support items, and decide whether to push, rotate, or set up an ambush before the missiles start falling.",
+    "overview": "Your dad never let you meet your landlady. On your 18th birthday you finally track her down. Ann is younger, warmer and far more affectionate than you imagined, and the longer you stay, the more you wonder: is my landlady a nymphomaniac? Explore her house in first person and make choices that change her Happiness and Naughty meters.",
     "size": "",
-    "format": "ZIP (Mac) · APK (Android)",
+    "format": "ZIP (Windows)",
     "changelog": [],
     "faq": [],
     "reviews_list": [],
@@ -836,99 +638,425 @@
       "Windows": [
         {
           "host": "GOFILE",
-          "url": "https://gofile.io/d/t0JsWjiz"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/h7psmd3i5heuq3w"
+          "url": "https://gofile.io/d/MWCRHmJg"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!O3JElJIY!df9BGGV3jpRHqZ42nW_glGRufcIaG8DtL3NtVNqOtGc"
+          "url": "https://mega.nz/file/1U1BnR4Y#eZBIjNkwc-nOiFs5X1uhECqF6XBgVQSZ7Bba5X3qp5w"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/4incw85ztxek/Matriarch-1.1.1-pc.zip"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/m8Xhz6Mf"
+          "url": "https://pixeldrain.com/u/moKH9roK"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/matriarch-v1-1-1-lustforge/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "my-girlfriends-little-sisters-cunning-seduction-pure-love-is-trash-senpai-v1-0-steal-cat",
+    "title": "My Girlfriend’s Little Sister’s Cunning Seduction -Pure Love Is Trash, Senpai-",
+    "version": "v1.0",
+    "version_full": "1.0",
+    "developer": "Steal Cat",
+    "developer_links": [
+      {
+        "label": "Website",
+        "url": "https://stealcat.amusecraft.com/kanoimo/index.html"
+      },
+      {
+        "label": "FANZA",
+        "url": "https://dlsoft.dmm.co.jp/detail/spal_0206/"
+      },
+      {
+        "label": "Getchu",
+        "url": "https://www.getchu.com/item/1374884/"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Completed",
+    "os": "Windows",
+    "language": "English (Asako96: Sugoi 32B-ultra&Opus 5.5 / BlueLatex: GPT-6 Luna Pro)",
+    "release": "2026-11-27",
+    "updated": "2026-11-27",
+    "published": "2026-11-27",
+    "censored": "Yes (Mosaics)",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "2dcg",
+      "big tits",
+      "censored",
+      "cheating",
+      "creampie",
+      "female domination",
+      "footjob",
+      "group sex",
+      "handjob",
+      "japanese game",
+      "male protagonist",
+      "multiple endings",
+      "oral sex",
+      "titfuck",
+      "vaginal sex",
+      "voiced"
+    ],
+    "genres": [
+      "2DCG",
+      "Japanese Game",
+      "Male Protagonist",
+      "Multiple Endings"
+    ],
+    "overview": "“Even holding hands is still embarrassing… ehehe.” Shuya Naruse is a boy who loves pure love stories because of the influence of books, and he is in an innocent relationship with his classmate Akane Hazuki. However, the story begins to move when Akane’s twin sister, Fumino Hazuki, tempts him with her body. “With a face so similar to my sister’s, and a body even more erotic than hers—you’re interested, aren’t you?” Alone with Fumino in the literature club. Though he feels sorry toward Akane, he cannot tear his eyes away from Fumino’s voluptuous body. Can he resist Fumino’s temptation and stay true to his feelings for Akane…? “Pure love is garbage, senpai.”",
+    "size": "",
+    "format": "ZIP (Windows)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/leujbe5exz0k/My_girlfriends_little_sisters_sly_temptation-261127-Asako96.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/oABliCjI#RKyl5IR1vzX2gJI1DWo1FGRTMKcWN57CYsUt4AwqPuk"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/YUwPp28c"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/9DYkTrNPvTB"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/my-girlfriends-little-sisters-cunning-seduction-pure-love-is-trash-senpai-v1-0-steal-cat/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "ntr-summer-in-moongrove-bay-v0-16-sqer9",
+    "title": "NTR Summer in Moongrove Bay",
+    "version": "v0.16",
+    "version_full": "0.16",
+    "developer": "Sqer9",
+    "developer_links": [
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/c/Sqer9/"
+      },
+      {
+        "label": "sqer9",
+        "url": "https://sqer9.itch.io/summer-in-moongrove-bay"
+      },
+      {
+        "label": "Sqer9",
+        "url": "https://f95zone.to/members/sqer9.9765333/"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.gg/YKk95Rz8nA"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Unity",
+    "os": "Windows, Linux, Android",
+    "language": "English, German, Spanish, Spanish , French, Polish, Portuguese (Brazil), Russian, Turkish, Chinese",
+    "release": "2026-11-27",
+    "updated": "2026-11-27",
+    "published": "2026-11-27",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "2dcg",
+      "ai cg",
+      "anal sex",
+      "cheating",
+      "corruption",
+      "creampie",
+      "eroge",
+      "futa/trans",
+      "gay",
+      "groping",
+      "handjob",
+      "harem",
+      "humiliation",
+      "interracial",
+      "Mobile",
+      "multiple endings",
+      "netorare",
+      "netorase",
+      "oral sex",
+      "pov",
+      "romance",
+      "sandbox",
+      "teasing",
+      "vaginal sex"
+    ],
+    "genres": [
+      "2DCG",
+      "AI CG",
+      "Corruption",
+      "Harem",
+      "Multiple Endings",
+      "Romance",
+      "Sandbox"
+    ],
+    "overview": "Summer in Moongrove Bay is a choice-driven Visual Novel that follows Alex and his girlfriend Luna as they embark on a student exchange program in a foreign country, hoping to make unforgettable summer memories together. With new friendships, charming strangers, and potential love interests around every corner, both of them may find themselves growing closer to people they never expected to meet. As Luna forms new bonds and Alex discovers connections of his own, their relationship may face unexpected challenges.",
+    "size": "",
+    "format": "ZIP (Windows / Linux) · APK (Android)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/file/GGZUjD6Q#IBZ38Sw9Ta62AwKa6FwbHdNOw0WM8sDhk-6Qevwqu3I"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/9vMCDDoy"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/IuFZukZs"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/l33w2j0kmucj/Summer_in_Moongrove_Bay_v0.16_Win.zip"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/jC5Z5QZwNTB"
         }
       ],
       "Linux": [
         {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/t0JsWjiz"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/h7psmd3i5heuq3w"
-        },
-        {
           "host": "MEGA",
-          "url": "https://mega.nz/#!O3JElJIY!df9BGGV3jpRHqZ42nW_glGRufcIaG8DtL3NtVNqOtGc"
+          "url": "https://mega.nz/file/japUGaiK#eW_4hyfkhpwWpZsLWEW4aUsaH27ANIR-PLoLZ0dhEuQ"
         },
         {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/m8Xhz6Mf"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/YPRNJZof"
+          "host": "DATANODES",
+          "url": "https://datanodes.to/u7pvguceasfw/Summer_in_Moongrove_Bay_v0.13_Linux.zip"
         },
         {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/oj8ye1zh4kxnzys"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!HvxziZaa!mA5euzISQIjLY2BV4QfY_5Gp5zSIgVK_GAQYaEympX0"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/obSu9fhP"
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/hLa5mQPHZkE"
         }
       ],
       "Android": [
         {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/doCwql3B"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/pgkpibb9c0746s2"
-        },
-        {
           "host": "MEGA",
-          "url": "https://mega.nz/#!2zpxSCiR!oHlLsxxL9B8l4BHlAtcKzTZcJs-anLa2UgWLwygkKBo"
+          "url": "https://mega.nz/file/2X5W3YSZ#5VFbKBbMF1J565lfU-BHRwGHGbx8H4uMk8LZrmjMfsY"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/XkxqK8BF"
+        },
+        {
+          "host": "GOFILE",
+          "url": "https://gofile.io/d/XYtAdehY"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/o31hg3cw10rw/Summer_in_Moongrove_Bay_v0.16.apk"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/kzg5gbCjVA3"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/inflation-royale-2-v2-0-0-bubblegumdrgn/",
+    "source_url": "https://f95zone.to.it/ntr-summer-in-moongrove-bay-v0-16-sqer9/",
     "source": "f95zone.to.it"
   },
   {
-    "slug": "secrets-between-lines-ch-6-naughty4life-games",
-    "title": "Secrets Between Lines",
-    "version": "Ch.6",
-    "version_full": "Chapter 6",
-    "developer": "Naughty4Life Games",
+    "slug": "sacred-sins-v0-1-1-satisfaction-3d-games",
+    "title": "Sacred Sins",
+    "version": "v0.1.1",
+    "version_full": "0.1.1",
+    "developer": "Satisfaction 3D Games",
     "developer_links": [
       {
-        "label": "Naughty4Life Games",
-        "url": "https://f95zone.to/members/naughty4life-games.8067375/"
+        "label": "Patreon",
+        "url": "https://www.patreon.com/Satisfaction3DGames"
       },
       {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/Naughty4LifeGames"
+        "label": "X(Twitter)",
+        "url": "https://x.com/Satisfaction_3D"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/satisfaction_3d/"
       },
       {
         "label": "Discord",
-        "url": "https://discord.gg/RVR9n3KC8W"
+        "url": "https://discord.gg/xdD2yRJcQk"
       }
     ],
     "installation": [],
     "status": "Ongoing",
     "engine": "Ren'Py",
     "os": "Windows, Linux, Mac, Android",
+    "language": "English",
+    "release": "2026-11-07",
+    "updated": "2026-11-27",
+    "published": "2026-11-27",
+    "censored": "No",
+    "rating": 0.0,
+    "reviews": 0,
+    "genres_raw": [
+      "3dcg",
+      "animated",
+      "big ass",
+      "big tits",
+      "harem",
+      "incest",
+      "male protagonist",
+      "milf",
+      "Mobile",
+      "romance",
+      "teen",
+      "virgin"
+    ],
+    "genres": [
+      "3DCG",
+      "Animated",
+      "Harem",
+      "Male Protagonist",
+      "Romance"
+    ],
+    "overview": "1. The Divine War The world as we know it is crumbling. A celestial war has ignited, placing humanity in the crosshairs of an ancient blood feud. On one side, the Olympian Gods and their legendary champions fight to impose their iron will. On the other, the abyssal legions of Demons and Succubi rise to feast upon the world’s desires. You stand at the epicenter of this cataclysm—the only force capable of tipping the scales.",
+    "size": "",
+    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
+    "changelog": [],
+    "faq": [],
+    "reviews_list": [],
+    "cover_url": "",
+    "screenshots": [],
+    "mirrors": {
+      "Windows": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/8ocd06bt61tq"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/1tfxyofr8m4b/SacredSins-0.1.1-pc.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!nxR1VATA!5JIfQ18JSximLLvCQe_8dKe26qG8Mdze9QlSFfK-bp8"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/4qcsbX9z"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/twwWWcqJRGb"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/8ocd06bt61tq"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/1tfxyofr8m4b/SacredSins-0.1.1-pc.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!nxR1VATA!5JIfQ18JSximLLvCQe_8dKe26qG8Mdze9QlSFfK-bp8"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/4qcsbX9z"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/twwWWcqJRGb"
+        }
+      ],
+      "Mac": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/hpnd76qh1mdl"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/19ekm1pc296n/SacredSins-0.0.1D-mac.zip"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!4m5U2ICR!p37-Rhz4ppuzh-LqUoHV-1AVIE77U53MSDO3tpb2WW4"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/xieEAw8c"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/suYJEPDbYRW"
+        }
+      ],
+      "Android": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/cc39ld1kg22d"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/tzvk5zw1sdak/SacredSins-0.0.1D.apk"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!xnxnlI4a!KwdroGjlmVSVbwuoSBlr_nxTWynK9V_eU_IJ40TIqm4"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/TimK5xjP"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/dt8McFbphWX"
+        }
+      ]
+    },
+    "source_url": "https://f95zone.to.it/sacred-sins-v0-1-1-satisfaction-3d-games/",
+    "source": "f95zone.to.it"
+  },
+  {
+    "slug": "with-hermione-v0-5-7-kirill-repin-art",
+    "title": "With Hermione",
+    "version": "v0.5.7",
+    "version_full": "0.5.7",
+    "developer": "Kirill Repin Art",
+    "developer_links": [
+      {
+        "label": "Telegram",
+        "url": "https://t.me/with_hermione_game"
+      }
+    ],
+    "installation": [],
+    "status": "Ongoing",
+    "engine": "Ren'Py",
+    "os": "Windows, Mac, Linux, Android",
     "language": "English",
     "release": "2026-11-27",
     "updated": "2026-11-27",
@@ -937,362 +1065,48 @@
     "rating": 0.0,
     "reviews": 0,
     "genres_raw": [
-      "3dcg",
-      "adventure",
-      "animated",
-      "big ass",
-      "big tits",
-      "corruption",
-      "creampie",
-      "footjob",
-      "groping",
-      "group sex",
-      "humor",
-      "male protagonist",
-      "milf",
-      "Mobile",
-      "oral sex",
-      "point & click",
-      "romance",
-      "titfuck",
-      "vaginal sex"
-    ],
-    "genres": [
-      "3DCG",
-      "Adventure",
-      "Animated",
-      "Corruption",
-      "Male Protagonist",
-      "Romance"
-    ],
-    "overview": "Secrets Between Lines is a story-driven visual novel set in the city of San Viero, a place where power, money, and secrets shape every aspect of life. After witnessing a mysterious murder, your life takes an unexpected turn. Desperate to support your sick mother, you accept a job working for one of the city’s most influential families. What begins as an opportunity to rebuild your life soon pulls you into a dangerous world of hidden agendas, organized crime, and conspiracies that reach far beyond anything you could have imagined. As you uncover the truth behind a series of strange events, you’ll meet a diverse cast of characters, each with their own ambitions, secrets, and motivations. Build relationships, earn trust, pursue romance, and decide who deserves your loyalty as the mystery surrounding San Viero slowly unfolds. Every choice matters. The people you support, the relationships you develop, and the secrets you choose to investigate will shape your journey and influence future events.",
-    "size": "",
-    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/ni3Rkj"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/vMdSCDqB#RGG7zpx6g3J4jFWi_oycxhJRjLG5JtsuvmDdf9RN_0c"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/2c642uy082h9"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/ogc40njoi86t/SecretsBetweenLines0.6-pc.zip"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/DjnAsLY8KEx"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/ni3Rkj"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/vMdSCDqB#RGG7zpx6g3J4jFWi_oycxhJRjLG5JtsuvmDdf9RN_0c"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/2c642uy082h9"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/ogc40njoi86t/SecretsBetweenLines0.6-pc.zip"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/DjnAsLY8KEx"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/ni3Rkj"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/TN9yXaiY#byUUiDjwXjaSWpeHM_oa1ONROg3ETJ0y-RtF8xmy8TQ"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/yz23zq1glssy"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/wwm4e2mma84b/SecretsBetweenLines0.6-mac.zip"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/QwLjS9KEJCY"
-        }
-      ],
-      "Android": [
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/ni3Rkj"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/yYlSmZhI#64qVWkz5vdqtfkACOCEHcHvGpXYQTBWAU-iuDwmxbT4"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/ykcn7yr3tre6"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/pbmi3tkcgjd1/SecretsBetweenLines0.6.apk"
-        },
-        {
-          "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/BUNzmbdmzt2"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/secrets-between-lines-ch-6-naughty4life-games/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "a-failed-spell-or-how-i-became-a-succubuss-toy-v0-02-secret-haven",
-    "title": "A Failed Spell Or How I Became a Succubuss TOY",
-    "version": "v0.02",
-    "version_full": "0.02",
-    "developer": "Secret Haven",
-    "developer_links": [
-      {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/SECRET_HAVEN"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac, Android",
-    "language": "English",
-    "release": "2026-11-24",
-    "updated": "2026-11-27",
-    "published": "2026-11-27",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
-      "3dcg",
-      "anal sex",
-      "animated",
-      "corruption",
-      "creampie",
-      "fantasy",
-      "female domination",
-      "futa/trans",
-      "male protagonist",
-      "Mobile",
-      "monster girl",
-      "oral sex",
-      "vaginal sex"
-    ],
-    "genres": [
-      "3DCG",
-      "Animated",
-      "Corruption",
-      "Fantasy",
-      "Male Protagonist"
-    ],
-    "overview": "A student at an academy of magic, whose academic future hangs by a thread. Facing inevitable failure, he desperately seeks a way to set things right and decides to resort to forbidden magic, hoping to find a way out of his predicament. Now, he must contend with academic turmoil, bizarre supernatural phenomena, and a life that is rapidly spiraling out of control.",
-    "size": "",
-    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
-    "changelog": [],
-    "faq": [],
-    "reviews_list": [],
-    "cover_url": "",
-    "screenshots": [],
-    "mirrors": {
-      "Windows": [
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/ZQYBmJ5D#ls9w30pw8wpcKa-mTVRAD3H1jUOI_K_PjkasdVfcNC8"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/SkJgSS5P"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/l7e2ix18qbb0"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/o1kwq7z18gbl/A_Failed_Spell_Or_How_I_Became_a_Succubuss_TOY-pc.zip"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/9pbkzr6zol2z5vn"
-        }
-      ],
-      "Linux": [
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/ZQYBmJ5D#ls9w30pw8wpcKa-mTVRAD3H1jUOI_K_PjkasdVfcNC8"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/SkJgSS5P"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/l7e2ix18qbb0"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/o1kwq7z18gbl/A_Failed_Spell_Or_How_I_Became_a_Succubuss_TOY-pc.zip"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/9pbkzr6zol2z5vn"
-        }
-      ],
-      "Mac": [
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/gMgwBQbS#SqBuvnxU93y6y74xMeJdjbCFfDy6M8tR1uwzMLpknYQ"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/CUd6yqQz"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/35xi15h2y7l8"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/qlouszxy3wzw/A_Failed_Spell_Or_How_I_Became_a_Succubuss_TOY-mac.zip"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/sg8ido8nd2gci4p"
-        }
-      ],
-      "Android": [
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/file/YAY3QAID#jnUodQ6whNDbPBRk-AheNSVwOwvT_vhh6CcrW2flEqQ"
-        },
-        {
-          "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/DN6ehJes"
-        },
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/z8427nxh2762"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/ygoiopmya0f3/A_Failed_Spell_Or_How_I_Became_a_Succubuss_TOY-0.02.apk"
-        },
-        {
-          "host": "MEDIAFIRE",
-          "url": "https://www.mediafire.com/file/8nnbv06heds39hd"
-        }
-      ]
-    },
-    "source_url": "https://f95zone.to.it/a-failed-spell-or-how-i-became-a-succubuss-toy-v0-02-secret-haven/",
-    "source": "f95zone.to.it"
-  },
-  {
-    "slug": "boundaries-of-morality-v0-810-novel",
-    "title": "Boundaries of Morality",
-    "version": "v0.810",
-    "version_full": "0.810",
-    "developer": "Novel",
-    "developer_links": [
-      {
-        "label": "Patreon",
-        "url": "https://www.patreon.com/novel"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discord.gg/JtrsmWZ"
-      },
-      {
-        "label": "Steam",
-        "url": "https://store.steampowered.com/developer/novel"
-      },
-      {
-        "label": "itch.io",
-        "url": "https://novel-gs.itch.io/"
-      }
-    ],
-    "installation": [],
-    "status": "Ongoing",
-    "engine": "Ren'Py",
-    "os": "Windows, Linux, Mac, Android",
-    "language": "English, Spanish, Russian, Chinese, French, Italian, German",
-    "release": "2026-11-25",
-    "updated": "2026-11-27",
-    "published": "2026-11-27",
-    "censored": "No",
-    "rating": 0.0,
-    "reviews": 0,
-    "genres_raw": [
+      "2dcg",
       "3dcg",
       "ai cg",
-      "anal sex",
       "animated",
-      "cheating",
       "corruption",
-      "creampie",
-      "female protagonist",
-      "groping",
-      "intrigue",
-      "male domination",
       "male protagonist",
-      "management",
-      "masturbation",
-      "multiple endings",
-      "multiple protagonist",
-      "oral sex",
-      "romance",
-      "sandbox",
-      "sex toys",
-      "sexual harassment",
+      "Mobile",
+      "parody",
       "spanking",
-      "teasing",
-      "vaginal sex"
+      "stripping",
+      "titfuck",
+      "trainer",
+      "voiced"
     ],
     "genres": [
+      "2DCG",
       "3DCG",
       "AI CG",
       "Animated",
       "Corruption",
-      "Female Protagonist",
-      "Male Protagonist",
-      "Management",
-      "Multiple Endings",
-      "Romance",
-      "Sandbox"
+      "Male Protagonist"
     ],
-    "overview": "Get ready for an exhilarating experience where every choice you make can either pave the way to success or drag your life into a spiral of intrigues and manipulations. At the heart of the story is Emma, a young woman embarking on a new job in a major company. But she quickly realizes that the office walls hide not just career opportunities but also a tangled web of schemes and secrets she must skillfully navigate.",
+    "overview": "You are in your final year at Hogwarts, finishing your education after the last Wizarding war. This update is focused on creating new logic for an entire game. This update isn’t focused on new art and dialogue. I wanted to create a scaffolding for the most of the game first, so I could focus on adding content later.",
     "size": "",
-    "format": "ZIP (Windows / Linux / Mac) · APK (Android)",
+    "format": "ZIP (Windows / Mac / Linux) · APK (Android)",
     "changelog": [
       [
-        "200",
+        "v0.5.3.1",
         [
-          "250 words per minute"
+          "HOTFIX"
+        ]
+      ],
+      [
+        "v0.5.3",
+        [
+          "HOTFIX"
+        ]
+      ],
+      [
+        "v0.5.2",
+        [
+          "HOTFIX"
         ]
       ]
     ],
@@ -1301,87 +1115,103 @@
     "cover_url": "",
     "screenshots": [],
     "mirrors": {
-      "Linux": [
-        {
-          "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/9vj9l5kob0s3"
-        },
-        {
-          "host": "DATANODES",
-          "url": "https://datanodes.to/2gnmao60dlfd/Boundaries_of_Morality-0.810-pc.zip"
-        },
-        {
-          "host": "MEGA",
-          "url": "https://mega.nz/#!nkRinTYJ!gDmppIEoXJI3HjyZ1iT-BefFesOGU74f6yFQXTQYaS4"
-        },
-        {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/hxKC9UZj"
-        }
-      ],
       "Windows": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/9vj9l5kob0s3"
+          "url": "https://bzzhr.to/vy9gsy03g30v"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/2gnmao60dlfd/Boundaries_of_Morality-0.810-pc.zip"
+          "url": "https://datanodes.to/5gfgyl954gdq/With_Hermione-0.5.7-win.zip"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!nkRinTYJ!gDmppIEoXJI3HjyZ1iT-BefFesOGU74f6yFQXTQYaS4"
+          "url": "https://mega.nz/#!LgZEgbwB!HK50_SIp_ZWXU4LYeWVq12OR2c3801If49e06R9LeqY"
         },
         {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/hxKC9UZj"
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/kHd5YmNv"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/zt8y6RTrEKV"
+        }
+      ],
+      "Linux": [
+        {
+          "host": "BUZZHEAVIER",
+          "url": "https://bzzhr.to/ssasx2ob65gj"
+        },
+        {
+          "host": "DATANODES",
+          "url": "https://datanodes.to/hphkopu9bobi/With_Hermione-0.5.7-linux.tar.bz2"
+        },
+        {
+          "host": "MEGA",
+          "url": "https://mega.nz/#!ykhTybDD!Iygn0C6zmvGthwaXFdEvCUvJCkIBM4vCEI8sVIZACAI"
+        },
+        {
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/cYarsxU9"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/9jXPZPZghRP"
         }
       ],
       "Mac": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/3m9glu9hk6xk"
+          "url": "https://bzzhr.to/hsxy0yn752as"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/g6uga7idmfb9/Boundaries_of_Morality-0.810-mac.zip"
+          "url": "https://datanodes.to/5s0zb4uxh23f/With_Hermione-0.5.7-mac.zip"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!Pwg2GBBC!PrnwvfnYgqf1mG5SQE3rA5WiX07uqjIV9cjH8eOUOu0"
+          "url": "https://mega.nz/#!6pBjGJjB!rzKOEbvOB_WCHN3gD3yplT0e8foWFs3HmBeKuExe_8Y"
         },
         {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/xfu0BsjN"
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/xsJy9FTf"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/WucUB44VfYN"
         }
       ],
       "Android": [
         {
           "host": "BUZZHEAVIER",
-          "url": "https://bzzhr.to/bu2y89c8kvhi"
+          "url": "https://bzzhr.to/kvaihprz9phd"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/ekuvrjvqm2cb/Boundaries_of_Morality-0.810-android.apk"
+          "url": "https://datanodes.to/syay7spd64tv/With_Hermione-0.5.7.apk"
         },
         {
           "host": "MEGA",
-          "url": "https://mega.nz/#!n5BxRaKS!SNkZRiNWE0Q1h63PFMl1bD2obZLQYE3lfoupAWq2hsM"
+          "url": "https://mega.nz/#!W0wX3ZbY!c1_3Hjl4Q576kpkz-lyg-m24UuXz0917CjLgSprBcaE"
         },
         {
-          "host": "GOFILE",
-          "url": "https://gofile.io/d/Q0xkPh1X"
+          "host": "PIXELDRAIN",
+          "url": "https://pixeldrain.com/u/wYDgdcQx"
+        },
+        {
+          "host": "WORKUPLOAD",
+          "url": "https://workupload.com/file/MUDsGkSZ7A2"
         }
       ]
     },
-    "source_url": "https://f95zone.to.it/boundaries-of-morality-v0-810-novel/",
+    "source_url": "https://f95zone.to.it/with-hermione-v0-5-7-kirill-repin-art/",
     "source": "f95zone.to.it"
   },
   {
     "slug": "pinked-and-owned-v0-2-4-1-pinkedandowned",
     "title": "Pinked and Owned",
-    "version": "v0.7",
-    "version_full": "0.7",
+    "version": "v0.8",
+    "version_full": "0.8",
     "developer": "PinkedAndOwned",
     "developer_links": [
       {
@@ -1405,10 +1235,10 @@
     "status": "Ongoing",
     "engine": "HTML",
     "os": "Windows, Android",
-    "language": "English; +9 (community-polished, completeness varies)",
+    "language": "English; +14 (community-polished, completeness varies)",
     "release": "2026-02-15",
-    "updated": "2026-11-13",
-    "published": "2026-11-13",
+    "updated": "2026-11-27",
+    "published": "2026-11-27",
     "censored": "No",
     "rating": 0.0,
     "reviews": 0,
@@ -1460,45 +1290,45 @@
       "Windows": [
         {
           "host": "MEGA",
-          "url": "https://mega.nz/file/ZS9nxBKb#0TnWpCTkvj5gmkcE46V3-pUCKKHjfVLxVF4lw7ng1P0"
+          "url": "https://mega.nz/file/sWlBnQKQ#Xi846kM5NvvuzgPY_PEDrMAiKfdZR8PoOpJuqDDTV9w"
         },
         {
           "host": "GOFILE",
-          "url": "https://gofile.io/d/mhgqMQw1"
+          "url": "https://gofile.io/d/6CDYD9Ji"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/tzHkEMii"
+          "url": "https://pixeldrain.com/u/6fyU3417"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/y4pdugwya1zd/Pinked-and-Owned-Free-Portable-0.7.zip"
+          "url": "https://datanodes.to/3crpf72ekaep/Pinked-and-Owned-Free-Portable-0.8.zip"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/7cAEqE4Fjjf"
+          "url": "https://workupload.com/file/XW87gD2a5rF"
         }
       ],
       "Android": [
         {
           "host": "MEGA",
-          "url": "https://mega.nz/file/BT0HQSwA#EH_og-T3UH_XzXZIEm0ZOEQB13M4aWO1m3vxXnvmrik"
+          "url": "https://mega.nz/file/cOk1EI4R#TNQWI1HGXDS3GE5qGeqTqAMBlCT1ZwCDloz6G9cqpg8"
         },
         {
           "host": "GOFILE",
-          "url": "https://gofile.io/d/gU17VbKH"
+          "url": "https://gofile.io/d/JbF8GBUR"
         },
         {
           "host": "PIXELDRAIN",
-          "url": "https://pixeldrain.com/u/q9R9BFm4"
+          "url": "https://pixeldrain.com/u/2djwN9bm"
         },
         {
           "host": "DATANODES",
-          "url": "https://datanodes.to/rfzgscdbrcxi/pinked-and-owned-0.7-free.apk"
+          "url": "https://datanodes.to/4qujp05cb8qn/pinked-and-owned-0.8-free.apk"
         },
         {
           "host": "WORKUPLOAD",
-          "url": "https://workupload.com/file/VMjVmxb9fZN"
+          "url": "https://workupload.com/file/WCqeGK89fLE"
         }
       ]
     },
